@@ -1,0 +1,5592 @@
+{"frames": [
+
+{
+	"filename": "Hibiki_0.png",
+	"frame": {"x":878,"y":342,"w":19,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":312,"y":376,"w":19,"h":16},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_1.png",
+	"frame": {"x":1366,"y":1132,"w":34,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":306,"y":368,"w":34,"h":37},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_10.png",
+	"frame": {"x":2120,"y":758,"w":56,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":358,"w":56,"h":55},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_100.png",
+	"frame": {"x":327,"y":671,"w":135,"h":64},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":266,"y":294,"w":135,"h":64},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_101.png",
+	"frame": {"x":1602,"y":212,"w":101,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":206,"y":265,"w":101,"h":111},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_102.png",
+	"frame": {"x":511,"y":364,"w":147,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":183,"y":245,"w":147,"h":150},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_103.png",
+	"frame": {"x":222,"y":2,"w":245,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":196,"w":245,"h":220},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_104.png",
+	"frame": {"x":2,"y":2,"w":218,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":160,"w":218,"h":256},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_105.png",
+	"frame": {"x":2,"y":260,"w":205,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":160,"w":205,"h":256},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_106.png",
+	"frame": {"x":469,"y":2,"w":193,"h":256},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":160,"w":193,"h":256},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_107.png",
+	"frame": {"x":727,"y":2,"w":191,"h":256},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":160,"w":191,"h":256},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_108.png",
+	"frame": {"x":2,"y":776,"w":188,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":153,"y":160,"w":188,"h":256},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_109.png",
+	"frame": {"x":1243,"y":2,"w":178,"h":256},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":160,"w":178,"h":256},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_11.png",
+	"frame": {"x":3842,"y":986,"w":53,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":358,"w":53,"h":53},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_110.png",
+	"frame": {"x":985,"y":2,"w":187,"h":256},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":160,"w":187,"h":256},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_111.png",
+	"frame": {"x":2,"y":518,"w":192,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":153,"y":160,"w":192,"h":256},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_112.png",
+	"frame": {"x":1764,"y":2,"w":172,"h":255},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":159,"y":160,"w":172,"h":255},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_113.png",
+	"frame": {"x":2273,"y":2,"w":164,"h":235},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":163,"y":160,"w":164,"h":235},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_114.png",
+	"frame": {"x":367,"y":282,"w":142,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":179,"y":188,"w":142,"h":205},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_115.png",
+	"frame": {"x":1145,"y":191,"w":91,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":206,"y":234,"w":91,"h":157},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_116.png",
+	"frame": {"x":1363,"y":219,"w":146,"h":79},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":205,"y":292,"w":146,"h":79},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_117.png",
+	"frame": {"x":3595,"y":181,"w":203,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":205,"y":291,"w":203,"h":80},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_118.png",
+	"frame": {"x":3385,"y":147,"w":208,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":205,"y":291,"w":208,"h":76},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_119.png",
+	"frame": {"x":222,"y":224,"w":212,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":206,"y":291,"w":212,"h":56},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_12.png",
+	"frame": {"x":2636,"y":183,"w":81,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":345,"w":81,"h":81},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_120.png",
+	"frame": {"x":3397,"y":109,"w":210,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":291,"w":210,"h":36},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_121.png",
+	"frame": {"x":2021,"y":170,"w":189,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":229,"y":291,"w":189,"h":22},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_122.png",
+	"frame": {"x":3818,"y":109,"w":66,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":66,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_123.png",
+	"frame": {"x":3818,"y":109,"w":66,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":66,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_124.png",
+	"frame": {"x":2750,"y":266,"w":66,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":66,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_125.png",
+	"frame": {"x":914,"y":796,"w":66,"h":91},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":295,"w":66,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_126.png",
+	"frame": {"x":3260,"y":260,"w":66,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":295,"w":66,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_127.png",
+	"frame": {"x":3074,"y":352,"w":66,"h":91},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":295,"w":66,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_128.png",
+	"frame": {"x":3260,"y":353,"w":66,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":295,"w":66,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_129.png",
+	"frame": {"x":1759,"y":701,"w":66,"h":91},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":295,"w":66,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_13.png",
+	"frame": {"x":196,"y":540,"w":128,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":255,"y":319,"w":128,"h":129},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_130.png",
+	"frame": {"x":3708,"y":263,"w":66,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":66,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_131.png",
+	"frame": {"x":2051,"y":815,"w":66,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":66,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_132.png",
+	"frame": {"x":2216,"y":396,"w":66,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":66,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_133.png",
+	"frame": {"x":2243,"y":817,"w":66,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":66,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_134.png",
+	"frame": {"x":2051,"y":883,"w":66,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":66,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_135.png",
+	"frame": {"x":560,"y":951,"w":66,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":66,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_136.png",
+	"frame": {"x":1691,"y":470,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":329,"w":60,"h":60},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_137.png",
+	"frame": {"x":904,"y":614,"w":68,"h":91},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":295,"w":68,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_138.png",
+	"frame": {"x":1954,"y":745,"w":68,"h":91},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":295,"w":68,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_139.png",
+	"frame": {"x":1682,"y":375,"w":69,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":293,"w":69,"h":93},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_14.png",
+	"frame": {"x":1145,"y":350,"w":115,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":327,"w":115,"h":115},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_140.png",
+	"frame": {"x":818,"y":777,"w":63,"h":94},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":292,"w":63,"h":94},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_141.png",
+	"frame": {"x":1116,"y":826,"w":57,"h":95},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":291,"w":57,"h":95},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_142.png",
+	"frame": {"x":2912,"y":262,"w":54,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":291,"w":54,"h":95},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_143.png",
+	"frame": {"x":912,"y":864,"w":56,"h":95},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":291,"w":56,"h":95},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_144.png",
+	"frame": {"x":1009,"y":863,"w":57,"h":95},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":291,"w":57,"h":95},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_145.png",
+	"frame": {"x":1116,"y":767,"w":57,"h":94},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":292,"w":57,"h":94},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_146.png",
+	"frame": {"x":2386,"y":580,"w":57,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":292,"w":57,"h":94},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_147.png",
+	"frame": {"x":1852,"y":857,"w":56,"h":94},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":292,"w":56,"h":94},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_148.png",
+	"frame": {"x":583,"y":895,"w":54,"h":95},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":291,"w":54,"h":95},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_149.png",
+	"frame": {"x":1462,"y":796,"w":54,"h":96},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":290,"w":54,"h":96},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_15.png",
+	"frame": {"x":733,"y":195,"w":144,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":313,"w":144,"h":144},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_150.png",
+	"frame": {"x":1490,"y":961,"w":56,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":290,"w":56,"h":96},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_151.png",
+	"frame": {"x":2386,"y":676,"w":54,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":291,"w":54,"h":95},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_152.png",
+	"frame": {"x":331,"y":1117,"w":58,"h":94},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":292,"w":58,"h":94},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_153.png",
+	"frame": {"x":1969,"y":332,"w":64,"h":92},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":294,"w":64,"h":92},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_154.png",
+	"frame": {"x":3167,"y":349,"w":69,"h":91},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":295,"w":69,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_155.png",
+	"frame": {"x":1597,"y":325,"w":48,"h":114},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":273,"w":48,"h":114},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_156.png",
+	"frame": {"x":1970,"y":176,"w":49,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":301,"y":273,"w":49,"h":114},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_157.png",
+	"frame": {"x":2170,"y":393,"w":44,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":308,"y":278,"w":44,"h":88},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_158.png",
+	"frame": {"x":3279,"y":1103,"w":46,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":309,"y":285,"w":46,"h":70},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_159.png",
+	"frame": {"x":3995,"y":988,"w":49,"h":60},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":306,"y":289,"w":49,"h":60},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_16.png",
+	"frame": {"x":1001,"y":191,"w":142,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":249,"y":313,"w":142,"h":143},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_160.png",
+	"frame": {"x":1402,"y":1123,"w":52,"h":68},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":303,"y":287,"w":52,"h":68},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_161.png",
+	"frame": {"x":3508,"y":387,"w":50,"h":85},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":281,"w":50,"h":85},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_162.png",
+	"frame": {"x":2280,"y":265,"w":50,"h":110},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":300,"y":275,"w":50,"h":110},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_163.png",
+	"frame": {"x":1761,"y":280,"w":50,"h":111},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":300,"y":274,"w":50,"h":111},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_164.png",
+	"frame": {"x":996,"y":684,"w":50,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":300,"y":275,"w":50,"h":110},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_165.png",
+	"frame": {"x":3595,"y":263,"w":54,"h":111},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":296,"y":274,"w":54,"h":111},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_166.png",
+	"frame": {"x":1350,"y":784,"w":56,"h":110},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":275,"w":56,"h":110},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_167.png",
+	"frame": {"x":3886,"y":306,"w":57,"h":111},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":274,"w":57,"h":111},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_168.png",
+	"frame": {"x":477,"y":1043,"w":72,"h":80},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":306,"w":72,"h":80},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_169.png",
+	"frame": {"x":2859,"y":604,"w":69,"h":65},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":321,"w":69,"h":65},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_17.png",
+	"frame": {"x":192,"y":910,"w":121,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":262,"y":327,"w":121,"h":121},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_170.png",
+	"frame": {"x":3342,"y":694,"w":69,"h":65},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":321,"w":69,"h":65},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_171.png",
+	"frame": {"x":3337,"y":765,"w":70,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":302,"w":70,"h":84},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_172.png",
+	"frame": {"x":715,"y":951,"w":66,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":296,"w":66,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_173.png",
+	"frame": {"x":783,"y":951,"w":67,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":296,"w":67,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_174.png",
+	"frame": {"x":852,"y":951,"w":67,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":67,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_175.png",
+	"frame": {"x":2065,"y":593,"w":50,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":299,"y":327,"w":50,"h":59},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_176.png",
+	"frame": {"x":3961,"y":1039,"w":46,"h":59},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":327,"w":46,"h":59},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_177.png",
+	"frame": {"x":3837,"y":1041,"w":53,"h":60},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":328,"w":53,"h":60},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_178.png",
+	"frame": {"x":511,"y":516,"w":143,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":245,"y":369,"w":143,"h":25},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_179.png",
+	"frame": {"x":1948,"y":899,"w":101,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":360,"w":101,"h":28},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_18.png",
+	"frame": {"x":1238,"y":219,"w":123,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":261,"y":326,"w":123,"h":123},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_180.png",
+	"frame": {"x":1762,"y":856,"w":88,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":345,"w":88,"h":43},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_181.png",
+	"frame": {"x":3108,"y":763,"w":67,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":323,"w":67,"h":63},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_182.png",
+	"frame": {"x":3260,"y":446,"w":66,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":306,"w":66,"h":80},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_183.png",
+	"frame": {"x":1969,"y":398,"w":63,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":297,"w":63,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_184.png",
+	"frame": {"x":1452,"y":894,"w":65,"h":94},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":292,"w":65,"h":94},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_185.png",
+	"frame": {"x":4022,"y":1039,"w":44,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":327,"w":44,"h":59},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_186.png",
+	"frame": {"x":2961,"y":1106,"w":46,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":320,"w":46,"h":69},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_187.png",
+	"frame": {"x":1676,"y":532,"w":88,"h":75},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":310,"w":88,"h":75},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_188.png",
+	"frame": {"x":1360,"y":638,"w":82,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":310,"w":82,"h":75},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_189.png",
+	"frame": {"x":2117,"y":593,"w":59,"h":71},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":314,"w":59,"h":71},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_19.png",
+	"frame": {"x":192,"y":783,"w":123,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":262,"y":325,"w":123,"h":125},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_190.png",
+	"frame": {"x":964,"y":1117,"w":58,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":312,"w":58,"h":73},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_191.png",
+	"frame": {"x":3328,"y":416,"w":63,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":312,"w":63,"h":74},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_192.png",
+	"frame": {"x":2311,"y":910,"w":78,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":321,"w":78,"h":65},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_193.png",
+	"frame": {"x":2067,"y":289,"w":86,"h":61},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":322,"w":86,"h":61},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_194.png",
+	"frame": {"x":2391,"y":910,"w":73,"h":61},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":322,"w":73,"h":61},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_195.png",
+	"frame": {"x":2391,"y":985,"w":73,"h":61},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":322,"w":73,"h":61},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_196.png",
+	"frame": {"x":1361,"y":571,"w":81,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":318,"w":81,"h":65},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_197.png",
+	"frame": {"x":3800,"y":273,"w":84,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":321,"w":84,"h":65},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_198.png",
+	"frame": {"x":559,"y":1043,"w":72,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":323,"w":72,"h":63},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_199.png",
+	"frame": {"x":2478,"y":1060,"w":72,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":323,"w":72,"h":63},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_2.png",
+	"frame": {"x":1713,"y":318,"w":35,"h":38},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":305,"y":366,"w":35,"h":38},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_20.png",
+	"frame": {"x":3462,"y":1121,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":310,"y":375,"w":21,"h":21},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_200.png",
+	"frame": {"x":317,"y":808,"w":76,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":284,"w":76,"h":103},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_201.png",
+	"frame": {"x":1101,"y":1039,"w":61,"h":94},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":282,"w":61,"h":94},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_202.png",
+	"frame": {"x":3791,"y":480,"w":59,"h":93},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":285,"w":59,"h":93},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_203.png",
+	"frame": {"x":818,"y":684,"w":94,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":295,"w":94,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_204.png",
+	"frame": {"x":1462,"y":715,"w":96,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":306,"w":96,"h":79},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_205.png",
+	"frame": {"x":3018,"y":604,"w":69,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":268,"y":310,"w":69,"h":75},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_206.png",
+	"frame": {"x":3017,"y":681,"w":74,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":305,"w":74,"h":80},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_207.png",
+	"frame": {"x":2445,"y":585,"w":68,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":296,"w":68,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_208.png",
+	"frame": {"x":2515,"y":582,"w":53,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":292,"w":53,"h":93},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_209.png",
+	"frame": {"x":1212,"y":679,"w":31,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":310,"y":286,"w":31,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_21.png",
+	"frame": {"x":1676,"y":515,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":314,"y":379,"w":13,"h":13},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_210.png",
+	"frame": {"x":1212,"y":785,"w":37,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":303,"y":287,"w":37,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_211.png",
+	"frame": {"x":1948,"y":815,"w":43,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":287,"w":43,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_212.png",
+	"frame": {"x":1453,"y":852,"w":40,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":300,"y":287,"w":40,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_213.png",
+	"frame": {"x":1556,"y":857,"w":37,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":303,"y":287,"w":37,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_214.png",
+	"frame": {"x":2171,"y":483,"w":43,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":287,"w":43,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_215.png",
+	"frame": {"x":1659,"y":858,"w":40,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":300,"y":287,"w":40,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_216.png",
+	"frame": {"x":1948,"y":860,"w":37,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":304,"y":287,"w":37,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_217.png",
+	"frame": {"x":1106,"y":885,"w":34,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":307,"y":287,"w":34,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_218.png",
+	"frame": {"x":1209,"y":895,"w":31,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":310,"y":287,"w":31,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_219.png",
+	"frame": {"x":3502,"y":439,"w":65,"h":91},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":295,"w":65,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_22.png",
+	"frame": {"x":3172,"y":1081,"w":70,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":409,"y":375,"w":70,"h":16},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_220.png",
+	"frame": {"x":3799,"y":340,"w":85,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":323,"w":85,"h":63},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_221.png",
+	"frame": {"x":3260,"y":528,"w":76,"h":66},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":319,"w":76,"h":66},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_222.png",
+	"frame": {"x":436,"y":224,"w":61,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":328,"w":61,"h":56},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_223.png",
+	"frame": {"x":3009,"y":1106,"w":68,"h":53},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":334,"w":68,"h":53},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_224.png",
+	"frame": {"x":712,"y":1117,"w":89,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":330,"w":89,"h":58},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_225.png",
+	"frame": {"x":3328,"y":481,"w":68,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":312,"w":68,"h":74},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_226.png",
+	"frame": {"x":2383,"y":168,"w":73,"h":122},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":296,"y":264,"w":73,"h":122},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_227.png",
+	"frame": {"x":1262,"y":344,"w":94,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":262,"w":94,"h":124},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_228.png",
+	"frame": {"x":1262,"y":470,"w":93,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":284,"w":93,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_229.png",
+	"frame": {"x":1548,"y":896,"w":69,"h":93},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":293,"w":69,"h":93},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_23.png",
+	"frame": {"x":1243,"y":182,"w":195,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":367,"w":195,"h":35},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_230.png",
+	"frame": {"x":2525,"y":677,"w":65,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":295,"w":65,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_231.png",
+	"frame": {"x":1663,"y":788,"w":68,"h":95},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":295,"w":68,"h":95},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_232.png",
+	"frame": {"x":720,"y":671,"w":90,"h":96},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":293,"w":90,"h":96},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_233.png",
+	"frame": {"x":3799,"y":405,"w":85,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":315,"w":85,"h":73},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_234.png",
+	"frame": {"x":2543,"y":1075,"w":68,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":325,"w":68,"h":61},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_235.png",
+	"frame": {"x":1472,"y":1123,"w":52,"h":61},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":328,"w":52,"h":61},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_236.png",
+	"frame": {"x":2912,"y":359,"w":66,"h":54},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":337,"w":66,"h":54},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_237.png",
+	"frame": {"x":667,"y":827,"w":66,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":341,"w":66,"h":49},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_238.png",
+	"frame": {"x":2243,"y":909,"w":66,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":341,"w":66,"h":49},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_239.png",
+	"frame": {"x":3122,"y":989,"w":66,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":341,"w":66,"h":49},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_24.png",
+	"frame": {"x":3171,"y":2,"w":224,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":237,"y":327,"w":224,"h":134},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_240.png",
+	"frame": {"x":3341,"y":1028,"w":69,"h":65},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":321,"w":69,"h":65},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_241.png",
+	"frame": {"x":2471,"y":395,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":298,"w":65,"h":88},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_242.png",
+	"frame": {"x":1678,"y":725,"w":61,"h":79},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":307,"w":61,"h":79},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_243.png",
+	"frame": {"x":3107,"y":922,"w":64,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":322,"w":64,"h":65},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_244.png",
+	"frame": {"x":3777,"y":541,"w":90,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":266,"y":342,"w":90,"h":47},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_245.png",
+	"frame": {"x":2538,"y":395,"w":88,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":339,"w":88,"h":49},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_246.png",
+	"frame": {"x":3595,"y":574,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":339,"w":88,"h":49},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_247.png",
+	"frame": {"x":1106,"y":921,"w":31,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":287,"w":31,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_248.png",
+	"frame": {"x":1209,"y":928,"w":31,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":287,"w":31,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_249.png",
+	"frame": {"x":1287,"y":961,"w":31,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":287,"w":31,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_25.png",
+	"frame": {"x":3397,"y":2,"w":250,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":212,"y":343,"w":250,"h":105},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_250.png",
+	"frame": {"x":2035,"y":951,"w":31,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":287,"w":31,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_251.png",
+	"frame": {"x":1209,"y":895,"w":31,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":287,"w":31,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_252.png",
+	"frame": {"x":3404,"y":387,"w":31,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":286,"w":31,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_253.png",
+	"frame": {"x":1961,"y":489,"w":31,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":286,"w":31,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_254.png",
+	"frame": {"x":2570,"y":582,"w":53,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":292,"w":53,"h":93},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_255.png",
+	"frame": {"x":522,"y":1117,"w":58,"h":93},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":292,"w":58,"h":93},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_256.png",
+	"frame": {"x":3595,"y":392,"w":52,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":286,"w":52,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_257.png",
+	"frame": {"x":2491,"y":485,"w":50,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":293,"w":50,"h":95},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_258.png",
+	"frame": {"x":3685,"y":590,"w":48,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":298,"w":48,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_259.png",
+	"frame": {"x":3777,"y":590,"w":48,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":298,"w":48,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_26.png",
+	"frame": {"x":3649,"y":2,"w":235,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":207,"y":331,"w":235,"h":105},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_260.png",
+	"frame": {"x":3869,"y":591,"w":48,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":298,"w":48,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_261.png",
+	"frame": {"x":3961,"y":600,"w":48,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":298,"w":48,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_262.png",
+	"frame": {"x":2659,"y":755,"w":48,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":298,"w":48,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_263.png",
+	"frame": {"x":1654,"y":1123,"w":48,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":298,"w":48,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_264.png",
+	"frame": {"x":1970,"y":292,"w":38,"h":95},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":301,"y":293,"w":38,"h":95},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_265.png",
+	"frame": {"x":1560,"y":796,"w":59,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":301,"y":287,"w":59,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_266.png",
+	"frame": {"x":1257,"y":574,"w":62,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":286,"w":62,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_267.png",
+	"frame": {"x":2917,"y":163,"w":49,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":296,"y":289,"w":49,"h":97},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_268.png",
+	"frame": {"x":3886,"y":433,"w":53,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":301,"y":286,"w":53,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_269.png",
+	"frame": {"x":1753,"y":476,"w":57,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":286,"w":57,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_27.png",
+	"frame": {"x":2510,"y":2,"w":242,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":185,"y":309,"w":242,"h":147},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_270.png",
+	"frame": {"x":1857,"y":489,"w":56,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":298,"y":286,"w":56,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_271.png",
+	"frame": {"x":1994,"y":489,"w":53,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":301,"y":286,"w":53,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_272.png",
+	"frame": {"x":123,"y":1117,"w":58,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":286,"w":58,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_273.png",
+	"frame": {"x":227,"y":1117,"w":58,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":298,"y":286,"w":58,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_274.png",
+	"frame": {"x":2049,"y":489,"w":59,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":286,"w":59,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_275.png",
+	"frame": {"x":1961,"y":593,"w":59,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":286,"w":59,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_276.png",
+	"frame": {"x":2047,"y":654,"w":59,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":286,"w":59,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_277.png",
+	"frame": {"x":2108,"y":654,"w":59,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":286,"w":59,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_278.png",
+	"frame": {"x":2110,"y":489,"w":59,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":286,"w":59,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_279.png",
+	"frame": {"x":2767,"y":446,"w":69,"h":85},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":301,"w":69,"h":85},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_28.png",
+	"frame": {"x":2021,"y":2,"w":250,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":179,"y":295,"w":250,"h":166},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_280.png",
+	"frame": {"x":1643,"y":900,"w":69,"h":93},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":293,"w":69,"h":93},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_281.png",
+	"frame": {"x":3639,"y":1075,"w":58,"h":64},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":325,"w":58,"h":64},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_282.png",
+	"frame": {"x":3709,"y":946,"w":61,"h":64},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":325,"w":61,"h":64},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_283.png",
+	"frame": {"x":680,"y":904,"w":45,"h":86},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":283,"w":45,"h":86},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_284.png",
+	"frame": {"x":2611,"y":909,"w":44,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":285,"w":44,"h":64},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_285.png",
+	"frame": {"x":2766,"y":604,"w":67,"h":91},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":295,"w":67,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_286.png",
+	"frame": {"x":2311,"y":817,"w":77,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":295,"w":77,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_287.png",
+	"frame": {"x":2293,"y":580,"w":72,"h":91},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":295,"w":72,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_288.png",
+	"frame": {"x":2854,"y":452,"w":67,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":295,"w":67,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_289.png",
+	"frame": {"x":2926,"y":604,"w":69,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":296,"w":69,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_29.png",
+	"frame": {"x":1501,"y":2,"w":261,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":173,"y":292,"w":261,"h":169},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_290.png",
+	"frame": {"x":3409,"y":691,"w":74,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":304,"w":74,"h":82},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_291.png",
+	"frame": {"x":2679,"y":402,"w":81,"h":86},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":300,"w":81,"h":86},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_292.png",
+	"frame": {"x":1705,"y":173,"w":54,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":243,"w":54,"h":143},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_293.png",
+	"frame": {"x":733,"y":341,"w":60,"h":143},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":243,"w":60,"h":143},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_294.png",
+	"frame": {"x":824,"y":403,"w":70,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":233,"w":70,"h":153},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_295.png",
+	"frame": {"x":660,"y":401,"w":71,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":238,"w":71,"h":148},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_296.png",
+	"frame": {"x":603,"y":759,"w":66,"h":114},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":272,"w":66,"h":114},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_297.png",
+	"frame": {"x":477,"y":832,"w":67,"h":94},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":292,"w":67,"h":94},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_298.png",
+	"frame": {"x":573,"y":827,"w":66,"h":92},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":294,"w":66,"h":92},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_299.png",
+	"frame": {"x":2592,"y":677,"w":65,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":295,"w":65,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_3.png",
+	"frame": {"x":3068,"y":967,"w":32,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":305,"y":369,"w":32,"h":34},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_30.png",
+	"frame": {"x":2754,"y":2,"w":212,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":169,"y":299,"w":212,"h":159},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_300.png",
+	"frame": {"x":2216,"y":308,"w":62,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":300,"w":62,"h":86},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_301.png",
+	"frame": {"x":3008,"y":524,"w":78,"h":79},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":307,"w":78,"h":79},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_302.png",
+	"frame": {"x":3012,"y":439,"w":74,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":303,"w":74,"h":83},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_303.png",
+	"frame": {"x":2484,"y":322,"w":71,"h":87},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":299,"w":71,"h":87},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_304.png",
+	"frame": {"x":3922,"y":650,"w":67,"h":89},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":297,"w":67,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_305.png",
+	"frame": {"x":2375,"y":486,"w":68,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":294,"w":68,"h":92},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_306.png",
+	"frame": {"x":1866,"y":410,"w":77,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":285,"w":77,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_307.png",
+	"frame": {"x":3490,"y":225,"w":78,"h":103},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":283,"w":78,"h":103},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_308.png",
+	"frame": {"x":1358,"y":367,"w":84,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":284,"w":84,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_309.png",
+	"frame": {"x":3485,"y":691,"w":74,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":300,"w":74,"h":86},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_31.png",
+	"frame": {"x":511,"y":197,"w":147,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":249,"y":296,"w":147,"h":165},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_310.png",
+	"frame": {"x":1852,"y":694,"w":100,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":252,"y":311,"w":100,"h":75},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_311.png",
+	"frame": {"x":2838,"y":675,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":264,"y":306,"w":88,"h":80},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_312.png",
+	"frame": {"x":3485,"y":779,"w":76,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":305,"w":76,"h":81},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_313.png",
+	"frame": {"x":3088,"y":420,"w":85,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":303,"w":85,"h":83},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_314.png",
+	"frame": {"x":3250,"y":606,"w":77,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":300,"w":77,"h":86},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_315.png",
+	"frame": {"x":2838,"y":757,"w":66,"h":89},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":297,"w":66,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_316.png",
+	"frame": {"x":2543,"y":989,"w":67,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":302,"w":67,"h":84},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_317.png",
+	"frame": {"x":2923,"y":524,"w":78,"h":83},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":303,"w":78,"h":83},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_318.png",
+	"frame": {"x":2767,"y":358,"w":85,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":300,"w":85,"h":86},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_319.png",
+	"frame": {"x":3402,"y":602,"w":75,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":299,"w":75,"h":87},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_32.png",
+	"frame": {"x":1287,"y":1064,"w":23,"h":11},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":305,"y":375,"w":23,"h":11},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_320.png",
+	"frame": {"x":3089,"y":505,"w":82,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":301,"w":82,"h":85},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_321.png",
+	"frame": {"x":2130,"y":194,"w":103,"h":84},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":250,"y":302,"w":103,"h":84},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_322.png",
+	"frame": {"x":2289,"y":486,"w":92,"h":84},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":260,"y":302,"w":92,"h":84},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_323.png",
+	"frame": {"x":2929,"y":757,"w":66,"h":86},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":300,"w":66,"h":86},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_324.png",
+	"frame": {"x":2629,"y":333,"w":67,"h":92},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":294,"w":67,"h":92},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_325.png",
+	"frame": {"x":2280,"y":317,"w":76,"h":100},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":286,"w":76,"h":100},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_326.png",
+	"frame": {"x":1116,"y":679,"w":94,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":300,"w":94,"h":86},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_327.png",
+	"frame": {"x":3800,"y":201,"w":84,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":268,"y":316,"w":84,"h":70},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_328.png",
+	"frame": {"x":1402,"y":1051,"w":86,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":316,"w":86,"h":70},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_329.png",
+	"frame": {"x":3175,"y":502,"w":83,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":316,"w":83,"h":70},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_33.png",
+	"frame": {"x":469,"y":197,"w":34,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":361,"w":34,"h":25},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_330.png",
+	"frame": {"x":2216,"y":488,"w":99,"h":71},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":253,"y":315,"w":99,"h":71},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_331.png",
+	"frame": {"x":3999,"y":306,"w":102,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":250,"y":313,"w":102,"h":73},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_332.png",
+	"frame": {"x":3506,"y":305,"w":87,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":265,"y":306,"w":87,"h":80},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_333.png",
+	"frame": {"x":3173,"y":967,"w":66,"h":86},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":300,"w":66,"h":86},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_334.png",
+	"frame": {"x":3497,"y":506,"w":66,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":66,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_335.png",
+	"frame": {"x":3685,"y":522,"w":66,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":66,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_336.png",
+	"frame": {"x":1490,"y":1059,"w":74,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":328,"w":74,"h":62},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_337.png",
+	"frame": {"x":209,"y":477,"w":156,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":210,"y":328,"w":156,"h":61},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_338.png",
+	"frame": {"x":3886,"y":181,"w":151,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":328,"w":151,"h":61},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_339.png",
+	"frame": {"x":2216,"y":170,"w":136,"h":62},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":228,"y":328,"w":136,"h":62},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_34.png",
+	"frame": {"x":1824,"y":1053,"w":70,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":328,"w":70,"h":59},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_340.png",
+	"frame": {"x":3931,"y":987,"w":49,"h":62},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":296,"y":328,"w":49,"h":62},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_341.png",
+	"frame": {"x":4016,"y":858,"w":56,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":329,"w":56,"h":60},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_342.png",
+	"frame": {"x":1535,"y":1123,"w":59,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":339,"w":59,"h":52},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_343.png",
+	"frame": {"x":3173,"y":1035,"w":73,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":345,"w":73,"h":44},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_344.png",
+	"frame": {"x":3991,"y":410,"w":81,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":293,"w":81,"h":95},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_345.png",
+	"frame": {"x":2814,"y":163,"w":101,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":240,"y":296,"w":101,"h":92},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_346.png",
+	"frame": {"x":2968,"y":171,"w":102,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":237,"y":297,"w":102,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_347.png",
+	"frame": {"x":3258,"y":914,"w":77,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":261,"y":344,"w":77,"h":44},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_348.png",
+	"frame": {"x":1596,"y":1123,"w":56,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":336,"w":56,"h":52},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_349.png",
+	"frame": {"x":3899,"y":1038,"w":60,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":330,"w":60,"h":58},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_35.png",
+	"frame": {"x":1026,"y":336,"w":117,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":273,"w":117,"h":113},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_350.png",
+	"frame": {"x":2178,"y":758,"w":101,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":250,"y":334,"w":101,"h":57},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_351.png",
+	"frame": {"x":427,"y":1117,"w":93,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":333,"w":93,"h":58},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_352.png",
+	"frame": {"x":2613,"y":1036,"w":72,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":330,"w":72,"h":61},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_353.png",
+	"frame": {"x":3836,"y":1096,"w":59,"h":61},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":329,"w":59,"h":61},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_354.png",
+	"frame": {"x":894,"y":1043,"w":72,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":317,"w":72,"h":72},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_355.png",
+	"frame": {"x":2625,"y":574,"w":92,"h":68},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":322,"w":92,"h":68},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_356.png",
+	"frame": {"x":3705,"y":1071,"w":64,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":331,"w":64,"h":60},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_357.png",
+	"frame": {"x":2573,"y":318,"w":70,"h":54},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":337,"w":70,"h":54},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_358.png",
+	"frame": {"x":2757,"y":1121,"w":64,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":337,"w":64,"h":54},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_359.png",
+	"frame": {"x":4015,"y":920,"w":66,"h":57},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":334,"w":66,"h":57},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_36.png",
+	"frame": {"x":492,"y":543,"w":114,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":273,"w":114,"h":113},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_360.png",
+	"frame": {"x":4013,"y":650,"w":72,"h":59},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":332,"w":72,"h":59},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_361.png",
+	"frame": {"x":2228,"y":960,"w":81,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":329,"w":81,"h":62},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_362.png",
+	"frame": {"x":3409,"y":775,"w":74,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":281,"w":74,"h":82},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_363.png",
+	"frame": {"x":904,"y":503,"w":109,"h":76},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":233,"y":281,"w":109,"h":76},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_364.png",
+	"frame": {"x":1560,"y":714,"w":100,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":243,"y":281,"w":100,"h":80},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_365.png",
+	"frame": {"x":1852,"y":612,"w":99,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":243,"y":281,"w":99,"h":80},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_366.png",
+	"frame": {"x":1101,"y":954,"w":91,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":279,"w":91,"h":83},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_367.png",
+	"frame": {"x":2968,"y":350,"w":46,"h":104},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":299,"y":279,"w":46,"h":104},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_368.png",
+	"frame": {"x":3699,"y":402,"w":43,"h":98},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":306,"y":280,"w":43,"h":98},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_369.png",
+	"frame": {"x":1746,"y":1123,"w":51,"h":77},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":280,"w":51,"h":77},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_37.png",
+	"frame": {"x":608,"y":551,"w":113,"h":114},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":199,"y":268,"w":113,"h":114},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_370.png",
+	"frame": {"x":1863,"y":176,"w":95,"h":105},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":242,"w":95,"h":105},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_371.png",
+	"frame": {"x":2280,"y":168,"w":101,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":245,"y":254,"w":101,"h":95},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_372.png",
+	"frame": {"x":724,"y":554,"w":115,"h":92},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":263,"w":115,"h":92},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_373.png",
+	"frame": {"x":3409,"y":936,"w":44,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":304,"y":285,"w":44,"h":74},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_374.png",
+	"frame": {"x":3794,"y":924,"w":60,"h":79},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":279,"w":60,"h":79},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_375.png",
+	"frame": {"x":201,"y":1033,"w":82,"h":89},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":282,"w":82,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_376.png",
+	"frame": {"x":3479,"y":605,"w":75,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":282,"w":75,"h":84},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_377.png",
+	"frame": {"x":3173,"y":756,"w":75,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":282,"w":75,"h":84},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_378.png",
+	"frame": {"x":803,"y":1117,"w":58,"h":84},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":280,"w":58,"h":84},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_379.png",
+	"frame": {"x":2749,"y":823,"w":50,"h":87},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":279,"w":50,"h":87},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_38.png",
+	"frame": {"x":1761,"y":176,"w":100,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":264,"w":100,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_380.png",
+	"frame": {"x":3404,"y":566,"w":34,"h":91},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":305,"y":277,"w":34,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_381.png",
+	"frame": {"x":1350,"y":842,"w":43,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":302,"y":251,"w":43,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_382.png",
+	"frame": {"x":1753,"y":410,"w":64,"h":111},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":233,"w":64,"h":111},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_383.png",
+	"frame": {"x":1570,"y":515,"w":70,"h":104},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":296,"w":70,"h":104},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_384.png",
+	"frame": {"x":1142,"y":570,"w":65,"h":113},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":228,"w":65,"h":113},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_385.png",
+	"frame": {"x":3173,"y":921,"w":44,"h":83},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":257,"w":44,"h":83},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_386.png",
+	"frame": {"x":4020,"y":1100,"w":41,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":286,"w":41,"h":61},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_387.png",
+	"frame": {"x":896,"y":342,"w":84,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":227,"w":84,"h":159},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_388.png",
+	"frame": {"x":2629,"y":266,"w":65,"h":119},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":266,"w":65,"h":119},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_389.png",
+	"frame": {"x":818,"y":558,"w":84,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":262,"w":84,"h":124},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_39.png",
+	"frame": {"x":921,"y":922,"w":87,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":263,"w":87,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_390.png",
+	"frame": {"x":1213,"y":824,"w":95,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":324,"w":95,"h":69},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_391.png",
+	"frame": {"x":2190,"y":589,"w":101,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":251,"y":329,"w":101,"h":63},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_392.png",
+	"frame": {"x":1197,"y":1037,"w":88,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":265,"y":327,"w":88,"h":63},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_393.png",
+	"frame": {"x":1999,"y":984,"w":86,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":318,"w":86,"h":68},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_394.png",
+	"frame": {"x":2125,"y":1093,"w":67,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":304,"w":67,"h":82},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_395.png",
+	"frame": {"x":2838,"y":825,"w":66,"h":88},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":298,"w":66,"h":88},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_396.png",
+	"frame": {"x":3173,"y":574,"w":75,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":297,"w":75,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_397.png",
+	"frame": {"x":1010,"y":922,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":299,"w":89,"h":87},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_398.png",
+	"frame": {"x":3093,"y":679,"w":82,"h":78},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":308,"w":82,"h":78},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_399.png",
+	"frame": {"x":3175,"y":420,"w":83,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":306,"w":83,"h":80},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_4.png",
+	"frame": {"x":3122,"y":1057,"w":48,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":363,"w":48,"h":47},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_40.png",
+	"frame": {"x":3899,"y":1098,"w":58,"h":59},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":263,"w":58,"h":59},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_400.png",
+	"frame": {"x":3485,"y":862,"w":76,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":304,"w":76,"h":82},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_401.png",
+	"frame": {"x":1911,"y":982,"w":69,"h":86},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":300,"w":69,"h":86},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_402.png",
+	"frame": {"x":3017,"y":832,"w":66,"h":88},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":298,"w":66,"h":88},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_403.png",
+	"frame": {"x":2295,"y":654,"w":89,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":297,"w":89,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_404.png",
+	"frame": {"x":2659,"y":668,"w":85,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":301,"w":85,"h":85},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_405.png",
+	"frame": {"x":1636,"y":971,"w":92,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":305,"w":92,"h":81},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_406.png",
+	"frame": {"x":2595,"y":485,"w":87,"h":83},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":265,"y":303,"w":87,"h":83},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_407.png",
+	"frame": {"x":2680,"y":485,"w":84,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":299,"w":84,"h":87},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_408.png",
+	"frame": {"x":2138,"y":952,"w":67,"h":88},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":298,"w":67,"h":88},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_409.png",
+	"frame": {"x":3740,"y":640,"w":69,"h":89},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":297,"w":69,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_41.png",
+	"frame": {"x":768,"y":904,"w":33,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":197,"y":265,"w":33,"h":34},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_410.png",
+	"frame": {"x":2589,"y":402,"w":81,"h":88},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":298,"w":81,"h":88},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_411.png",
+	"frame": {"x":1444,"y":212,"w":156,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":210,"y":300,"w":156,"h":86},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_412.png",
+	"frame": {"x":733,"y":403,"w":149,"h":89},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":218,"y":297,"w":149,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_413.png",
+	"frame": {"x":1026,"y":451,"w":116,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":238,"y":297,"w":116,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_414.png",
+	"frame": {"x":3017,"y":763,"w":67,"h":89},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":297,"w":67,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_415.png",
+	"frame": {"x":3173,"y":665,"w":75,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":297,"w":75,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_416.png",
+	"frame": {"x":2928,"y":825,"w":68,"h":87},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":299,"w":68,"h":87},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_417.png",
+	"frame": {"x":3563,"y":861,"w":75,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":302,"w":75,"h":84},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_418.png",
+	"frame": {"x":2392,"y":243,"w":112,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":310,"w":112,"h":77},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_419.png",
+	"frame": {"x":3404,"y":305,"w":100,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":307,"w":100,"h":80},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_42.png",
+	"frame": {"x":2719,"y":163,"w":93,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":319,"w":93,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_420.png",
+	"frame": {"x":3089,"y":592,"w":85,"h":82},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":305,"w":85,"h":82},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_421.png",
+	"frame": {"x":2034,"y":398,"w":58,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":297,"w":58,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_422.png",
+	"frame": {"x":2854,"y":358,"w":56,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":295,"w":56,"h":92},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_423.png",
+	"frame": {"x":2295,"y":745,"w":70,"h":89},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":297,"w":70,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_424.png",
+	"frame": {"x":2854,"y":545,"w":57,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":322,"w":57,"h":67},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_425.png",
+	"frame": {"x":3772,"y":1034,"w":57,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":326,"w":57,"h":63},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_426.png",
+	"frame": {"x":3869,"y":543,"w":91,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":252,"y":343,"w":91,"h":46},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_427.png",
+	"frame": {"x":1896,"y":1053,"w":86,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":340,"w":86,"h":48},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_428.png",
+	"frame": {"x":2047,"y":758,"w":71,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":334,"w":71,"h":55},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_429.png",
+	"frame": {"x":3961,"y":1087,"w":48,"h":57},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":295,"y":332,"w":48,"h":57},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_43.png",
+	"frame": {"x":2968,"y":2,"w":167,"h":201},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":185,"y":246,"w":167,"h":201},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_430.png",
+	"frame": {"x":1760,"y":769,"w":85,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":298,"y":283,"w":85,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_431.png",
+	"frame": {"x":1444,"y":640,"w":112,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":289,"w":112,"h":73},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_432.png",
+	"frame": {"x":1245,"y":706,"w":103,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":254,"y":287,"w":103,"h":77},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_433.png",
+	"frame": {"x":3385,"y":225,"w":103,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":254,"y":286,"w":103,"h":78},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_434.png",
+	"frame": {"x":1194,"y":961,"w":74,"h":91},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":281,"w":74,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_435.png",
+	"frame": {"x":1857,"y":547,"w":63,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":298,"y":280,"w":63,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_436.png",
+	"frame": {"x":3701,"y":331,"w":69,"h":96},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":290,"w":69,"h":96},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_437.png",
+	"frame": {"x":718,"y":832,"w":70,"h":95},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":291,"w":70,"h":95},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_438.png",
+	"frame": {"x":624,"y":1043,"w":72,"h":93},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":293,"w":72,"h":93},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_439.png",
+	"frame": {"x":815,"y":842,"w":75,"h":95},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":291,"w":75,"h":95},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_44.png",
+	"frame": {"x":209,"y":282,"w":156,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":193,"y":244,"w":156,"h":193},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_440.png",
+	"frame": {"x":1738,"y":901,"w":69,"h":93},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":293,"w":69,"h":93},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_441.png",
+	"frame": {"x":1730,"y":972,"w":81,"h":92},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":294,"w":81,"h":92},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_442.png",
+	"frame": {"x":1578,"y":375,"w":93,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":284,"w":93,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_443.png",
+	"frame": {"x":2968,"y":264,"w":84,"h":104},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":299,"y":282,"w":84,"h":104},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_444.png",
+	"frame": {"x":3074,"y":246,"w":84,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":299,"y":282,"w":84,"h":104},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_445.png",
+	"frame": {"x":914,"y":684,"w":80,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":276,"w":80,"h":110},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_446.png",
+	"frame": {"x":1863,"y":332,"w":104,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":249,"y":310,"w":104,"h":76},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_447.png",
+	"frame": {"x":3404,"y":420,"w":96,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":313,"w":96,"h":73},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_448.png",
+	"frame": {"x":3595,"y":446,"w":96,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":313,"w":96,"h":73},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_449.png",
+	"frame": {"x":2454,"y":909,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":308,"w":78,"h":78},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_45.png",
+	"frame": {"x":3886,"y":2,"w":143,"h":182},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":207,"y":253,"w":143,"h":182},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_450.png",
+	"frame": {"x":2751,"y":754,"w":67,"h":85},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":301,"w":67,"h":85},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_451.png",
+	"frame": {"x":3561,"y":691,"w":79,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":303,"w":79,"h":83},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_452.png",
+	"frame": {"x":1753,"y":535,"w":102,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":254,"y":313,"w":102,"h":73},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_453.png",
+	"frame": {"x":2818,"y":257,"w":92,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":262,"y":287,"w":92,"h":99},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_454.png",
+	"frame": {"x":3160,"y":260,"w":87,"h":98},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":288,"w":87,"h":98},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_455.png",
+	"frame": {"x":1357,"y":471,"w":85,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":288,"w":85,"h":98},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_456.png",
+	"frame": {"x":2130,"y":299,"w":84,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":294,"w":84,"h":92},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_457.png",
+	"frame": {"x":482,"y":951,"w":90,"h":76},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":310,"w":90,"h":76},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_458.png",
+	"frame": {"x":395,"y":797,"w":113,"h":80},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":306,"w":113,"h":80},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_459.png",
+	"frame": {"x":1320,"y":961,"w":93,"h":80},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":306,"w":93,"h":80},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_46.png",
+	"frame": {"x":879,"y":195,"w":120,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":223,"y":274,"w":120,"h":145},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_460.png",
+	"frame": {"x":2923,"y":439,"w":87,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":303,"w":87,"h":83},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_461.png",
+	"frame": {"x":1131,"y":1102,"w":73,"h":84},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":302,"w":73,"h":84},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_462.png",
+	"frame": {"x":3408,"y":982,"w":68,"h":75},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":311,"w":68,"h":75},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_463.png",
+	"frame": {"x":3886,"y":488,"w":99,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":255,"y":333,"w":99,"h":53},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_464.png",
+	"frame": {"x":2382,"y":322,"w":100,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":252,"y":315,"w":100,"h":71},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_465.png",
+	"frame": {"x":3693,"y":447,"w":96,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":314,"w":96,"h":73},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_466.png",
+	"frame": {"x":2094,"y":393,"w":94,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":259,"y":314,"w":94,"h":74},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_467.png",
+	"frame": {"x":2658,"y":875,"w":88,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":265,"y":326,"w":88,"h":62},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_468.png",
+	"frame": {"x":2143,"y":817,"w":98,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":317,"w":98,"h":70},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_469.png",
+	"frame": {"x":2506,"y":246,"w":121,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":319,"w":121,"h":70},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_47.png",
+	"frame": {"x":2021,"y":194,"w":107,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":233,"y":314,"w":107,"h":93},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_470.png",
+	"frame": {"x":719,"y":763,"w":97,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":321,"w":97,"h":67},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_471.png",
+	"frame": {"x":380,"y":1043,"w":95,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":314,"w":95,"h":72},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_472.png",
+	"frame": {"x":719,"y":1043,"w":72,"h":87},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":299,"w":72,"h":87},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_473.png",
+	"frame": {"x":3563,"y":776,"w":77,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":303,"w":77,"h":83},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_474.png",
+	"frame": {"x":808,"y":1043,"w":72,"h":84},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":302,"w":72,"h":84},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_475.png",
+	"frame": {"x":3337,"y":851,"w":70,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":301,"w":70,"h":85},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_476.png",
+	"frame": {"x":3831,"y":641,"w":69,"h":89},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":297,"w":69,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_477.png",
+	"frame": {"x":2226,"y":1024,"w":67,"h":83},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":303,"w":67,"h":83},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_478.png",
+	"frame": {"x":3642,"y":780,"w":80,"h":82},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":304,"w":80,"h":82},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_479.png",
+	"frame": {"x":3726,"y":780,"w":67,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":303,"w":67,"h":83},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_48.png",
+	"frame": {"x":3878,"y":851,"w":65,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":265,"y":334,"w":65,"h":67},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_480.png",
+	"frame": {"x":292,"y":1033,"w":82,"h":86},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":296,"y":301,"w":82,"h":86},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_481.png",
+	"frame": {"x":628,"y":951,"w":85,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":298,"w":85,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_482.png",
+	"frame": {"x":3562,"y":1093,"w":73,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":318,"w":73,"h":70},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_483.png",
+	"frame": {"x":2687,"y":939,"w":71,"h":68},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":320,"w":71,"h":68},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_484.png",
+	"frame": {"x":2687,"y":1027,"w":68,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":318,"w":68,"h":70},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_485.png",
+	"frame": {"x":1641,"y":1054,"w":67,"h":85},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":301,"w":67,"h":85},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_486.png",
+	"frame": {"x":3250,"y":694,"w":67,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":67,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_487.png",
+	"frame": {"x":2311,"y":977,"w":78,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":318,"w":78,"h":68},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_488.png",
+	"frame": {"x":2828,"y":1027,"w":72,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":323,"w":72,"h":63},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_489.png",
+	"frame": {"x":2311,"y":1047,"w":78,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":321,"w":78,"h":65},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_49.png",
+	"frame": {"x":3800,"y":181,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":320,"y":384,"w":16,"h":16},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_490.png",
+	"frame": {"x":2528,"y":846,"w":86,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":322,"w":86,"h":61},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_491.png",
+	"frame": {"x":1825,"y":1114,"w":73,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":322,"w":73,"h":61},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_492.png",
+	"frame": {"x":2306,"y":1114,"w":73,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":322,"w":73,"h":61},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_493.png",
+	"frame": {"x":3964,"y":791,"w":81,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":318,"w":81,"h":65},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_494.png",
+	"frame": {"x":3878,"y":784,"w":84,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":321,"w":84,"h":65},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_495.png",
+	"frame": {"x":2902,"y":1030,"w":72,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":323,"w":72,"h":63},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_496.png",
+	"frame": {"x":1874,"y":273,"w":94,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":324,"w":94,"h":57},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_497.png",
+	"frame": {"x":1852,"y":771,"w":94,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":295,"w":94,"h":84},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_498.png",
+	"frame": {"x":1759,"y":610,"w":91,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":296,"w":91,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_499.png",
+	"frame": {"x":1217,"y":1102,"w":73,"h":81},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":295,"y":305,"w":73,"h":81},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_5.png",
+	"frame": {"x":3947,"y":858,"w":67,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":357,"w":67,"h":60},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_50.png",
+	"frame": {"x":3897,"y":985,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":320,"y":384,"w":32,"h":32},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_500.png",
+	"frame": {"x":1320,"y":1056,"w":80,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":312,"w":80,"h":74},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_501.png",
+	"frame": {"x":3795,"y":783,"w":69,"h":81},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":305,"w":69,"h":81},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_502.png",
+	"frame": {"x":1900,"y":1103,"w":75,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":314,"w":75,"h":72},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_503.png",
+	"frame": {"x":2976,"y":1036,"w":71,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":318,"w":71,"h":68},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_504.png",
+	"frame": {"x":3049,"y":1036,"w":71,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":318,"w":71,"h":68},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_505.png",
+	"frame": {"x":2054,"y":1103,"w":69,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":314,"w":69,"h":72},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_506.png",
+	"frame": {"x":1728,"y":1055,"w":66,"h":89},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":297,"w":66,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_507.png",
+	"frame": {"x":1954,"y":654,"w":91,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":296,"w":91,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_508.png",
+	"frame": {"x":2284,"y":395,"w":91,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":296,"w":91,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_509.png",
+	"frame": {"x":478,"y":658,"w":134,"h":81},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":298,"w":134,"h":81},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_51.png",
+	"frame": {"x":3639,"y":1009,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":320,"y":384,"w":64,"h":64},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_510.png",
+	"frame": {"x":603,"y":666,"w":115,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":295,"w":115,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_511.png",
+	"frame": {"x":3329,"y":602,"w":90,"h":71},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":315,"w":90,"h":71},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_512.png",
+	"frame": {"x":2454,"y":989,"w":87,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":317,"w":87,"h":69},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_513.png",
+	"frame": {"x":3721,"y":865,"w":79,"h":71},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":262,"y":315,"w":79,"h":71},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_514.png",
+	"frame": {"x":3072,"y":171,"w":97,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":313,"w":97,"h":73},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_515.png",
+	"frame": {"x":1753,"y":332,"w":108,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":264,"y":310,"w":108,"h":76},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_516.png",
+	"frame": {"x":3261,"y":960,"w":73,"h":78},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":308,"w":73,"h":78},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_517.png",
+	"frame": {"x":3173,"y":842,"w":83,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":309,"w":83,"h":77},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_518.png",
+	"frame": {"x":1558,"y":645,"w":67,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":284,"w":67,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_519.png",
+	"frame": {"x":1026,"y":542,"w":66,"h":114},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":272,"w":66,"h":114},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_52.png",
+	"frame": {"x":2757,"y":1080,"w":51,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":331,"w":51,"h":29},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_520.png",
+	"frame": {"x":1245,"y":638,"w":66,"h":113},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":273,"w":66,"h":113},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_521.png",
+	"frame": {"x":1048,"y":678,"w":66,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":275,"w":66,"h":111},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_522.png",
+	"frame": {"x":3886,"y":365,"w":66,"h":103},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":283,"w":66,"h":103},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_523.png",
+	"frame": {"x":3734,"y":712,"w":66,"h":68},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":318,"w":66,"h":68},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_524.png",
+	"frame": {"x":3327,"y":1099,"w":66,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":316,"w":66,"h":70},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_525.png",
+	"frame": {"x":3248,"y":1035,"w":66,"h":71},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":315,"w":66,"h":71},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_526.png",
+	"frame": {"x":1977,"y":1103,"w":75,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":314,"w":75,"h":72},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_527.png",
+	"frame": {"x":3064,"y":1106,"w":71,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":318,"w":71,"h":68},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_528.png",
+	"frame": {"x":2534,"y":909,"w":75,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":308,"w":75,"h":78},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_529.png",
+	"frame": {"x":1444,"y":476,"w":124,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":228,"y":277,"w":124,"h":109},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_53.png",
+	"frame": {"x":315,"y":913,"w":84,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":235,"y":242,"w":84,"h":118},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_530.png",
+	"frame": {"x":1144,"y":467,"w":116,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":237,"y":285,"w":116,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_531.png",
+	"frame": {"x":2445,"y":770,"w":81,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":306,"w":81,"h":80},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_532.png",
+	"frame": {"x":196,"y":671,"w":129,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":226,"y":276,"w":129,"h":110},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_533.png",
+	"frame": {"x":2918,"y":961,"w":73,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":319,"w":73,"h":67},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_534.png",
+	"frame": {"x":3485,"y":1023,"w":75,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":319,"w":75,"h":67},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_535.png",
+	"frame": {"x":3408,"y":1052,"w":75,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":319,"w":75,"h":67},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_536.png",
+	"frame": {"x":2823,"y":1106,"w":69,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":319,"w":69,"h":67},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_537.png",
+	"frame": {"x":3877,"y":918,"w":65,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":319,"w":65,"h":67},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_538.png",
+	"frame": {"x":3137,"y":1106,"w":68,"h":70},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":316,"w":68,"h":70},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_539.png",
+	"frame": {"x":3561,"y":947,"w":73,"h":75},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":311,"w":73,"h":75},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_54.png",
+	"frame": {"x":1013,"y":1011,"w":86,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":235,"y":242,"w":86,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_540.png",
+	"frame": {"x":3250,"y":763,"w":77,"h":85},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":301,"w":77,"h":85},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_541.png",
+	"frame": {"x":2928,"y":675,"w":80,"h":87},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":299,"w":80,"h":87},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_542.png",
+	"frame": {"x":2993,"y":967,"w":73,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":319,"w":73,"h":67},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_543.png",
+	"frame": {"x":3562,"y":1022,"w":75,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":317,"w":75,"h":69},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_544.png",
+	"frame": {"x":3485,"y":1092,"w":75,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":317,"w":75,"h":69},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_545.png",
+	"frame": {"x":2892,"y":1106,"w":69,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":319,"w":69,"h":67},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_546.png",
+	"frame": {"x":3946,"y":920,"w":65,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":319,"w":65,"h":67},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_547.png",
+	"frame": {"x":3258,"y":842,"w":77,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":316,"w":77,"h":70},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_548.png",
+	"frame": {"x":2766,"y":517,"w":86,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":266,"y":302,"w":86,"h":85},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_549.png",
+	"frame": {"x":617,"y":1117,"w":58,"h":93},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":295,"y":295,"w":58,"h":93},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_55.png",
+	"frame": {"x":2381,"y":1125,"w":76,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":239,"y":243,"w":76,"h":44},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_550.png",
+	"frame": {"x":378,"y":537,"w":112,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":268,"w":112,"h":119},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_551.png",
+	"frame": {"x":3328,"y":310,"w":74,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":283,"w":74,"h":104},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_552.png",
+	"frame": {"x":3595,"y":319,"w":71,"h":104},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":283,"w":71,"h":104},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_553.png",
+	"frame": {"x":2169,"y":654,"w":69,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":285,"w":69,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_554.png",
+	"frame": {"x":2445,"y":485,"w":44,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":289,"w":44,"h":98},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_555.png",
+	"frame": {"x":968,"y":1013,"w":43,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":288,"w":43,"h":99},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_556.png",
+	"frame": {"x":482,"y":901,"w":48,"h":99},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":288,"w":48,"h":99},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_557.png",
+	"frame": {"x":1833,"y":915,"w":51,"h":99},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":288,"w":51,"h":99},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_558.png",
+	"frame": {"x":1934,"y":929,"w":51,"h":99},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":288,"w":51,"h":99},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_559.png",
+	"frame": {"x":3987,"y":507,"w":85,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":295,"w":85,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_56.png",
+	"frame": {"x":2723,"y":333,"w":64,"h":24},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":250,"y":242,"w":64,"h":24},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_560.png",
+	"frame": {"x":2528,"y":770,"w":74,"h":87},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":299,"w":74,"h":87},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_561.png",
+	"frame": {"x":3977,"y":724,"w":65,"h":84},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":302,"w":65,"h":84},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_562.png",
+	"frame": {"x":2838,"y":960,"w":65,"h":78},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":308,"w":65,"h":78},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_563.png",
+	"frame": {"x":2757,"y":1006,"w":69,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":314,"w":69,"h":72},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_564.png",
+	"frame": {"x":1566,"y":1057,"w":64,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":313,"w":64,"h":73},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_565.png",
+	"frame": {"x":2757,"y":939,"w":65,"h":79},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":307,"w":65,"h":79},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_566.png",
+	"frame": {"x":3556,"y":625,"w":64,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":296,"w":64,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_567.png",
+	"frame": {"x":3648,"y":640,"w":70,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":296,"w":70,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_568.png",
+	"frame": {"x":1312,"y":887,"w":72,"h":87},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":299,"w":72,"h":87},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_569.png",
+	"frame": {"x":3640,"y":862,"w":79,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":305,"w":79,"h":81},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_57.png",
+	"frame": {"x":1444,"y":300,"w":151,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":275,"w":151,"h":69},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_570.png",
+	"frame": {"x":2658,"y":805,"w":68,"h":89},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":297,"w":68,"h":89},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_571.png",
+	"frame": {"x":2442,"y":677,"w":81,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":295,"w":81,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_572.png",
+	"frame": {"x":2746,"y":673,"w":79,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":314,"y":296,"w":79,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_573.png",
+	"frame": {"x":1402,"y":961,"w":86,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":318,"y":298,"w":86,"h":88},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_574.png",
+	"frame": {"x":1548,"y":967,"w":86,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":297,"w":86,"h":88},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_575.png",
+	"frame": {"x":2612,"y":975,"w":63,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":330,"w":63,"h":59},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_576.png",
+	"frame": {"x":889,"y":1117,"w":73,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":328,"w":73,"h":58},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_577.png",
+	"frame": {"x":2449,"y":852,"w":75,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":296,"y":331,"w":75,"h":55},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_578.png",
+	"frame": {"x":1401,"y":887,"w":72,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":337,"w":72,"h":49},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_579.png",
+	"frame": {"x":2143,"y":889,"w":98,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":344,"w":98,"h":53},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_58.png",
+	"frame": {"x":2507,"y":183,"w":127,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":232,"y":276,"w":127,"h":61},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_580.png",
+	"frame": {"x":3404,"y":495,"w":69,"h":91},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":295,"w":69,"h":91},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_581.png",
+	"frame": {"x":2695,"y":574,"w":92,"h":69},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":302,"w":92,"h":69},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_582.png",
+	"frame": {"x":2748,"y":875,"w":88,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":308,"w":88,"h":62},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_583.png",
+	"frame": {"x":1565,"y":587,"w":56,"h":105},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":285,"w":56,"h":105},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_584.png",
+	"frame": {"x":3485,"y":946,"w":75,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":297,"w":75,"h":74},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_585.png",
+	"frame": {"x":3589,"y":521,"w":94,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":261,"y":303,"w":94,"h":51},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_586.png",
+	"frame": {"x":2685,"y":1099,"w":76,"h":70},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":294,"w":76,"h":70},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_587.png",
+	"frame": {"x":2968,"y":398,"w":39,"h":96},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":299,"y":285,"w":39,"h":96},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_588.png",
+	"frame": {"x":1824,"y":979,"w":72,"h":85},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":313,"w":72,"h":85},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_589.png",
+	"frame": {"x":1007,"y":796,"w":107,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":342,"w":107,"h":56},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_59.png",
+	"frame": {"x":1984,"y":1054,"w":72,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":290,"w":72,"h":47},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_590.png",
+	"frame": {"x":1578,"y":470,"w":111,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":347,"w":111,"h":43},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_591.png",
+	"frame": {"x":561,"y":658,"w":126,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":355,"w":126,"h":40},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_592.png",
+	"frame": {"x":3171,"y":206,"w":135,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":251,"y":365,"w":135,"h":28},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_593.png",
+	"frame": {"x":436,"y":224,"w":61,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":292,"w":61,"h":56},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_594.png",
+	"frame": {"x":3260,"y":528,"w":76,"h":66},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":292,"w":76,"h":66},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_595.png",
+	"frame": {"x":3640,"y":945,"w":62,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":291,"w":62,"h":67},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_596.png",
+	"frame": {"x":2838,"y":893,"w":65,"h":88},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":298,"w":65,"h":88},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_597.png",
+	"frame": {"x":3017,"y":900,"w":65,"h":88},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":298,"w":65,"h":88},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_598.png",
+	"frame": {"x":3107,"y":832,"w":64,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":298,"w":64,"h":88},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_599.png",
+	"frame": {"x":2928,"y":895,"w":64,"h":87},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":299,"w":64,"h":87},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_6.png",
+	"frame": {"x":3795,"y":854,"w":80,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":354,"w":80,"h":68},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_60.png",
+	"frame": {"x":367,"y":489,"w":142,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":178,"y":301,"w":142,"h":46},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_600.png",
+	"frame": {"x":2138,"y":1021,"w":63,"h":86},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":300,"w":63,"h":86},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_601.png",
+	"frame": {"x":2391,"y":1060,"w":63,"h":85},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":301,"w":63,"h":85},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_602.png",
+	"frame": {"x":3890,"y":719,"w":63,"h":85},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":301,"w":63,"h":85},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_603.png",
+	"frame": {"x":2613,"y":1099,"w":70,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":296,"w":70,"h":76},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_604.png",
+	"frame": {"x":3209,"y":1103,"w":68,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":305,"w":68,"h":70},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_605.png",
+	"frame": {"x":3409,"y":859,"w":74,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":299,"w":74,"h":75},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_606.png",
+	"frame": {"x":3341,"y":938,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":298,"w":65,"h":88},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_607.png",
+	"frame": {"x":2194,"y":1093,"w":64,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":309,"w":64,"h":82},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_608.png",
+	"frame": {"x":3395,"y":1121,"w":48,"h":65},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":308,"y":327,"w":48,"h":65},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_609.png",
+	"frame": {"x":3775,"y":986,"w":46,"h":65},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":308,"y":327,"w":46,"h":65},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_61.png",
+	"frame": {"x":1118,"y":637,"w":125,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":177,"y":316,"w":125,"h":31},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_610.png",
+	"frame": {"x":2459,"y":1134,"w":41,"h":64},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":314,"y":328,"w":41,"h":64},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_611.png",
+	"frame": {"x":1300,"y":1132,"w":43,"h":64},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":315,"y":328,"w":43,"h":64},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_612.png",
+	"frame": {"x":2390,"y":773,"w":90,"h":53},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":340,"w":90,"h":53},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_613.png",
+	"frame": {"x":3328,"y":206,"w":102,"h":55},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":343,"w":102,"h":55},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_614.png",
+	"frame": {"x":2240,"y":654,"w":53,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":292,"y":249,"w":53,"h":102},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_615.png",
+	"frame": {"x":997,"y":610,"w":66,"h":119},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":300,"y":248,"w":66,"h":119},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_616.png",
+	"frame": {"x":3642,"y":712,"w":66,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":66,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_617.png",
+	"frame": {"x":2617,"y":770,"w":61,"h":39},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":296,"w":61,"h":39},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_618.png",
+	"frame": {"x":3642,"y":712,"w":66,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":296,"w":66,"h":90},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_619.png",
+	"frame": {"x":2617,"y":833,"w":61,"h":39},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":296,"w":61,"h":39},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_62.png",
+	"frame": {"x":1662,"y":645,"w":110,"h":14},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":191,"y":333,"w":110,"h":14},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_63.png",
+	"frame": {"x":3171,"y":236,"w":130,"h":7},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":210,"y":348,"w":130,"h":7},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_64.png",
+	"frame": {"x":1007,"y":854,"w":106,"h":7},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":348,"w":106,"h":7},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_65.png",
+	"frame": {"x":2377,"y":395,"w":92,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":205,"y":292,"w":92,"h":88},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_66.png",
+	"frame": {"x":3771,"y":1093,"w":63,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":295,"w":63,"h":61},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_67.png",
+	"frame": {"x":2390,"y":865,"w":57,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":296,"w":57,"h":43},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_68.png",
+	"frame": {"x":1350,"y":715,"w":110,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":216,"y":325,"w":110,"h":67},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_69.png",
+	"frame": {"x":1444,"y":587,"w":119,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":216,"y":341,"w":119,"h":51},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_7.png",
+	"frame": {"x":3804,"y":712,"w":84,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":354,"w":84,"h":69},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_70.png",
+	"frame": {"x":3497,"y":574,"w":96,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":239,"y":363,"w":96,"h":29},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_71.png",
+	"frame": {"x":326,"y":540,"w":129,"h":50},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":231,"y":288,"w":129,"h":50},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_72.png",
+	"frame": {"x":1315,"y":785,"w":99,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":233,"y":305,"w":99,"h":33},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_73.png",
+	"frame": {"x":1444,"y":371,"w":103,"h":132},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":241,"y":241,"w":103,"h":132},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_74.png",
+	"frame": {"x":982,"y":507,"w":42,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":241,"y":252,"w":42,"h":94},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_75.png",
+	"frame": {"x":982,"y":342,"w":42,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":240,"w":42,"h":163},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_76.png",
+	"frame": {"x":3886,"y":147,"w":32,"h":172},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":327,"y":227,"w":32,"h":172},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_77.png",
+	"frame": {"x":3705,"y":1009,"w":60,"h":65},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":295,"y":212,"w":60,"h":65},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_78.png",
+	"frame": {"x":1300,"y":1064,"w":18,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":220,"w":18,"h":58},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_79.png",
+	"frame": {"x":393,"y":658,"w":83,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":218,"y":259,"w":83,"h":137},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_8.png",
+	"frame": {"x":2260,"y":1093,"w":82,"h":44},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":363,"w":82,"h":44},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_80.png",
+	"frame": {"x":1678,"y":622,"w":79,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":218,"y":292,"w":79,"h":101},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_81.png",
+	"frame": {"x":3328,"y":551,"w":74,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":344,"w":74,"h":49},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_82.png",
+	"frame": {"x":1833,"y":968,"w":87,"h":9},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":242,"y":329,"w":87,"h":9},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_83.png",
+	"frame": {"x":478,"y":794,"w":79,"h":5},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":328,"w":79,"h":5},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_84.png",
+	"frame": {"x":1118,"y":670,"w":119,"h":7},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":210,"y":317,"w":119,"h":7},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_85.png",
+	"frame": {"x":2143,"y":944,"w":91,"h":6},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":212,"y":317,"w":91,"h":6},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_86.png",
+	"frame": {"x":401,"y":912,"w":129,"h":79},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":156,"y":286,"w":129,"h":79},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_87.png",
+	"frame": {"x":2,"y":1034,"w":197,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":156,"y":284,"w":197,"h":81},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_88.png",
+	"frame": {"x":3171,"y":138,"w":212,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":284,"w":212,"h":66},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_89.png",
+	"frame": {"x":2510,"y":151,"w":200,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":174,"y":285,"w":200,"h":30},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_9.png",
+	"frame": {"x":2087,"y":984,"w":87,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":360,"w":87,"h":49},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_90.png",
+	"frame": {"x":4060,"y":147,"w":147,"h":12},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":232,"y":285,"w":147,"h":12},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_91.png",
+	"frame": {"x":3886,"y":244,"w":145,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":159,"y":323,"w":145,"h":60},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_92.png",
+	"frame": {"x":660,"y":197,"w":202,"h":71},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":159,"y":311,"w":202,"h":71},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_93.png",
+	"frame": {"x":3609,"y":109,"w":207,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":159,"y":311,"w":207,"h":70},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_94.png",
+	"frame": {"x":1501,"y":173,"w":196,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":178,"y":311,"w":196,"h":37},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_95.png",
+	"frame": {"x":3171,"y":245,"w":126,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":311,"w":126,"h":13},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_96.png",
+	"frame": {"x":2,"y":1117,"w":119,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":299,"y":324,"w":119,"h":58},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_97.png",
+	"frame": {"x":2543,"y":485,"w":95,"h":50},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":315,"y":329,"w":95,"h":50},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_98.png",
+	"frame": {"x":2543,"y":485,"w":95,"h":50},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":315,"y":329,"w":95,"h":50},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hibiki_99.png",
+	"frame": {"x":1039,"y":1102,"w":90,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":227,"y":276,"w":90,"h":73},
+	"sourceSize": {"w":640,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "hibiki-xxhdpi.png",
+	"format": "RGBA8888",
+	"size": {"w":4074,"h":1177},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1e5440c08bf0e0db3090ca2418d5f07d:effb513b4c224d5def11a742590d9af0:d744f57086eee229333e748bb82cb091$"
+}
+}

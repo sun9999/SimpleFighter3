@@ -1,0 +1,5286 @@
+{"frames": [
+
+{
+	"filename": "Yuri Sakazaki_0.png",
+	"frame": {"x":661,"y":2,"w":43,"h":50},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":102,"w":43,"h":50},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_1.png",
+	"frame": {"x":553,"y":2,"w":43,"h":52},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":101,"w":43,"h":52},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_10.png",
+	"frame": {"x":1831,"y":37,"w":24,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":113,"w":24,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_100.png",
+	"frame": {"x":348,"y":82,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_101.png",
+	"frame": {"x":416,"y":36,"w":19,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":95,"w":19,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_102.png",
+	"frame": {"x":475,"y":37,"w":19,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":95,"w":19,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_103.png",
+	"frame": {"x":798,"y":48,"w":19,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":95,"w":19,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_104.png",
+	"frame": {"x":1722,"y":50,"w":16,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":109,"w":16,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_105.png",
+	"frame": {"x":1708,"y":94,"w":20,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":98,"w":20,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_106.png",
+	"frame": {"x":1773,"y":99,"w":21,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":97,"w":21,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_107.png",
+	"frame": {"x":853,"y":37,"w":22,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":97,"w":22,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_108.png",
+	"frame": {"x":819,"y":69,"w":20,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":96,"w":20,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_109.png",
+	"frame": {"x":534,"y":45,"w":17,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":95,"w":17,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_11.png",
+	"frame": {"x":713,"y":2,"w":43,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":102,"w":43,"h":49},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_110.png",
+	"frame": {"x":437,"y":99,"w":16,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":95,"w":16,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_111.png",
+	"frame": {"x":594,"y":132,"w":14,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":96,"w":14,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_112.png",
+	"frame": {"x":169,"y":39,"w":15,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":96,"w":15,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_113.png",
+	"frame": {"x":798,"y":117,"w":20,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_114.png",
+	"frame": {"x":667,"y":110,"w":21,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":96,"w":21,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_115.png",
+	"frame": {"x":381,"y":66,"w":20,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":95,"w":20,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_116.png",
+	"frame": {"x":381,"y":88,"w":16,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":95,"w":16,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_117.png",
+	"frame": {"x":859,"y":142,"w":14,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":94,"w":14,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_118.png",
+	"frame": {"x":593,"y":148,"w":12,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":94,"w":12,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_119.png",
+	"frame": {"x":1030,"y":131,"w":12,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":95,"w":12,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_12.png",
+	"frame": {"x":1027,"y":2,"w":43,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":105,"w":43,"h":43},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_120.png",
+	"frame": {"x":894,"y":124,"w":16,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":95,"w":16,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_121.png",
+	"frame": {"x":308,"y":82,"w":13,"h":38},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":89,"w":13,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_122.png",
+	"frame": {"x":347,"y":67,"w":13,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":89,"w":13,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_123.png",
+	"frame": {"x":946,"y":189,"w":15,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":90,"w":15,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_124.png",
+	"frame": {"x":894,"y":159,"w":18,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":18,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_125.png",
+	"frame": {"x":853,"y":70,"w":19,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":19,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_126.png",
+	"frame": {"x":798,"y":150,"w":20,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":20,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_127.png",
+	"frame": {"x":798,"y":83,"w":19,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":88,"w":19,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_128.png",
+	"frame": {"x":1072,"y":44,"w":15,"h":38},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":84,"w":15,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_129.png",
+	"frame": {"x":764,"y":34,"w":12,"h":46},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":80,"w":12,"h":46},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_13.png",
+	"frame": {"x":932,"y":2,"w":37,"h":47},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":104,"w":37,"h":47},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_130.png",
+	"frame": {"x":97,"y":153,"w":20,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":88,"w":20,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_131.png",
+	"frame": {"x":914,"y":46,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":96,"w":25,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_132.png",
+	"frame": {"x":1995,"y":134,"w":17,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":17,"h":15},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_133.png",
+	"frame": {"x":249,"y":97,"w":18,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":98,"w":18,"h":16},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_134.png",
+	"frame": {"x":1785,"y":143,"w":17,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":17,"h":16},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_135.png",
+	"frame": {"x":1525,"y":75,"w":16,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":94,"w":16,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_136.png",
+	"frame": {"x":1522,"y":169,"w":16,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":93,"w":16,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_137.png",
+	"frame": {"x":534,"y":117,"w":20,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":95,"w":20,"h":16},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_138.png",
+	"frame": {"x":347,"y":35,"w":28,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":88,"w":28,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_139.png",
+	"frame": {"x":1378,"y":34,"w":17,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":84,"w":17,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_14.png",
+	"frame": {"x":823,"y":2,"w":33,"h":52},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":102,"w":33,"h":52},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_140.png",
+	"frame": {"x":622,"y":78,"w":21,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":90,"w":21,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_141.png",
+	"frame": {"x":1583,"y":125,"w":20,"h":18},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":97,"w":20,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_142.png",
+	"frame": {"x":1808,"y":85,"w":16,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":96,"w":16,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_143.png",
+	"frame": {"x":471,"y":103,"w":16,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":95,"w":16,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_144.png",
+	"frame": {"x":369,"y":106,"w":20,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":99,"w":20,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_145.png",
+	"frame": {"x":1233,"y":62,"w":24,"h":14},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":100,"w":24,"h":14},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_146.png",
+	"frame": {"x":1098,"y":165,"w":24,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":100,"w":24,"h":13},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_147.png",
+	"frame": {"x":914,"y":157,"w":30,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":95,"w":30,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_148.png",
+	"frame": {"x":78,"y":59,"w":14,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":84,"w":14,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_149.png",
+	"frame": {"x":1606,"y":24,"w":12,"h":46},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":82,"w":12,"h":46},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_15.png",
+	"frame": {"x":437,"y":2,"w":33,"h":57},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":99,"w":33,"h":57},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_150.png",
+	"frame": {"x":768,"y":142,"w":18,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":100,"w":18,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_151.png",
+	"frame": {"x":351,"y":123,"w":16,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":108,"w":16,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_152.png",
+	"frame": {"x":351,"y":123,"w":16,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":108,"w":16,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_153.png",
+	"frame": {"x":768,"y":142,"w":18,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":100,"w":18,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_154.png",
+	"frame": {"x":735,"y":136,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_155.png",
+	"frame": {"x":915,"y":73,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_156.png",
+	"frame": {"x":735,"y":158,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_157.png",
+	"frame": {"x":294,"y":134,"w":17,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":108,"w":17,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_158.png",
+	"frame": {"x":313,"y":117,"w":17,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":108,"w":17,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_159.png",
+	"frame": {"x":1401,"y":84,"w":17,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":108,"w":17,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_16.png",
+	"frame": {"x":123,"y":2,"w":35,"h":61},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":97,"w":35,"h":61},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_160.png",
+	"frame": {"x":1065,"y":131,"w":30,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":118,"w":30,"h":12},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_161.png",
+	"frame": {"x":1194,"y":206,"w":24,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":112,"w":24,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_162.png",
+	"frame": {"x":391,"y":106,"w":20,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":112,"w":20,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_163.png",
+	"frame": {"x":913,"y":186,"w":18,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":97,"w":18,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_164.png",
+	"frame": {"x":977,"y":188,"w":16,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":97,"w":16,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_165.png",
+	"frame": {"x":1571,"y":147,"w":16,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":108,"w":16,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_166.png",
+	"frame": {"x":1589,"y":147,"w":16,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":108,"w":16,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_167.png",
+	"frame": {"x":471,"y":72,"w":23,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":96,"w":23,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_168.png",
+	"frame": {"x":768,"y":162,"w":18,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":96,"w":18,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_169.png",
+	"frame": {"x":856,"y":91,"w":19,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":95,"w":19,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_17.png",
+	"frame": {"x":2,"y":2,"w":37,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":95,"w":37,"h":64},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_170.png",
+	"frame": {"x":1001,"y":206,"w":18,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":96,"w":18,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_171.png",
+	"frame": {"x":943,"y":128,"w":30,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":99,"w":30,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_172.png",
+	"frame": {"x":1943,"y":38,"w":32,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":99,"w":32,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_173.png",
+	"frame": {"x":1135,"y":96,"w":21,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":100,"w":21,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_174.png",
+	"frame": {"x":825,"y":179,"w":31,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":99,"w":31,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_175.png",
+	"frame": {"x":768,"y":112,"w":28,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":99,"w":28,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_176.png",
+	"frame": {"x":1219,"y":185,"w":19,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":100,"w":19,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_177.png",
+	"frame": {"x":701,"y":111,"w":21,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":94,"w":21,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_178.png",
+	"frame": {"x":756,"y":208,"w":16,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":94,"w":16,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_179.png",
+	"frame": {"x":1125,"y":125,"w":16,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":94,"w":16,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_18.png",
+	"frame": {"x":2,"y":68,"w":36,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":96,"w":36,"h":63},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_180.png",
+	"frame": {"x":163,"y":158,"w":18,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":94,"w":18,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_181.png",
+	"frame": {"x":1062,"y":109,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_182.png",
+	"frame": {"x":941,"y":41,"w":29,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":97,"w":29,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_183.png",
+	"frame": {"x":1361,"y":133,"w":26,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":100,"w":26,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_184.png",
+	"frame": {"x":1808,"y":55,"w":21,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":100,"w":21,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_185.png",
+	"frame": {"x":911,"y":95,"w":27,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":97,"w":27,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_186.png",
+	"frame": {"x":391,"y":157,"w":23,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":98,"w":23,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_187.png",
+	"frame": {"x":215,"y":157,"w":28,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":98,"w":28,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_188.png",
+	"frame": {"x":735,"y":81,"w":27,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":98,"w":27,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_189.png",
+	"frame": {"x":333,"y":157,"w":26,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":98,"w":26,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_19.png",
+	"frame": {"x":41,"y":2,"w":35,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":96,"w":35,"h":63},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_190.png",
+	"frame": {"x":245,"y":157,"w":28,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":98,"w":28,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_191.png",
+	"frame": {"x":946,"y":157,"w":27,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":98,"w":27,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_192.png",
+	"frame": {"x":701,"y":176,"w":26,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":98,"w":26,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_193.png",
+	"frame": {"x":1210,"y":88,"w":23,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":98,"w":23,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_194.png",
+	"frame": {"x":1393,"y":107,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":103,"w":25,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_195.png",
+	"frame": {"x":1540,"y":192,"w":26,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":106,"w":26,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_196.png",
+	"frame": {"x":1947,"y":179,"w":17,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":106,"w":17,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_197.png",
+	"frame": {"x":1500,"y":173,"w":20,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":113,"w":20,"h":15},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_198.png",
+	"frame": {"x":272,"y":112,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":109,"w":20,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_199.png",
+	"frame": {"x":1756,"y":208,"w":16,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":108,"w":16,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_2.png",
+	"frame": {"x":496,"y":2,"w":41,"h":55},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":100,"w":41,"h":55},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_20.png",
+	"frame": {"x":2,"y":133,"w":36,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":96,"w":36,"h":62},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_200.png",
+	"frame": {"x":1831,"y":63,"w":22,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":99,"w":22,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_201.png",
+	"frame": {"x":1100,"y":206,"w":30,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":109,"w":30,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_202.png",
+	"frame": {"x":1846,"y":180,"w":19,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":105,"w":19,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_203.png",
+	"frame": {"x":1095,"y":109,"w":28,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":108,"w":28,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_204.png",
+	"frame": {"x":208,"y":136,"w":20,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":108,"w":20,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_205.png",
+	"frame": {"x":1628,"y":183,"w":19,"h":25},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":102,"w":19,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_206.png",
+	"frame": {"x":1677,"y":72,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_207.png",
+	"frame": {"x":534,"y":79,"w":20,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":92,"w":20,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_208.png",
+	"frame": {"x":308,"y":35,"w":23,"h":37},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":91,"w":23,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_209.png",
+	"frame": {"x":72,"y":153,"w":23,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":90,"w":23,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_21.png",
+	"frame": {"x":1824,"y":2,"w":36,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":111,"w":36,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_210.png",
+	"frame": {"x":1732,"y":208,"w":16,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":107,"w":16,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_211.png",
+	"frame": {"x":1867,"y":178,"w":17,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":103,"w":17,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_212.png",
+	"frame": {"x":1597,"y":204,"w":20,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":101,"w":20,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_213.png",
+	"frame": {"x":1495,"y":70,"w":23,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":100,"w":23,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_214.png",
+	"frame": {"x":416,"y":71,"w":19,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":95,"w":19,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_215.png",
+	"frame": {"x":106,"y":117,"w":21,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":94,"w":21,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_216.png",
+	"frame": {"x":106,"y":117,"w":21,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":94,"w":21,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_217.png",
+	"frame": {"x":666,"y":133,"w":21,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":95,"w":21,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_218.png",
+	"frame": {"x":1609,"y":92,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_219.png",
+	"frame": {"x":1439,"y":190,"w":20,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":99,"w":20,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_22.png",
+	"frame": {"x":1862,"y":2,"w":36,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":110,"w":36,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_220.png",
+	"frame": {"x":1439,"y":190,"w":20,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":99,"w":20,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_221.png",
+	"frame": {"x":1461,"y":190,"w":20,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":99,"w":20,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_222.png",
+	"frame": {"x":1483,"y":190,"w":19,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":99,"w":19,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_223.png",
+	"frame": {"x":1642,"y":94,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_224.png",
+	"frame": {"x":1766,"y":185,"w":15,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":107,"w":15,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_225.png",
+	"frame": {"x":1543,"y":56,"w":14,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":109,"w":14,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_226.png",
+	"frame": {"x":161,"y":92,"w":17,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":107,"w":17,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_227.png",
+	"frame": {"x":1594,"y":39,"w":13,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":96,"w":13,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_228.png",
+	"frame": {"x":1469,"y":30,"w":10,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":93,"w":10,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_229.png",
+	"frame": {"x":1506,"y":30,"w":10,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":93,"w":10,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_23.png",
+	"frame": {"x":1900,"y":2,"w":36,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":110,"w":36,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_230.png",
+	"frame": {"x":620,"y":189,"w":10,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":93,"w":10,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_231.png",
+	"frame": {"x":683,"y":173,"w":16,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":95,"w":16,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_232.png",
+	"frame": {"x":1008,"y":110,"w":20,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":95,"w":20,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_233.png",
+	"frame": {"x":858,"y":158,"w":20,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":94,"w":20,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_234.png",
+	"frame": {"x":1693,"y":162,"w":20,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":100,"w":20,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_235.png",
+	"frame": {"x":1930,"y":111,"w":20,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":98,"w":20,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_236.png",
+	"frame": {"x":1235,"y":88,"w":20,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":98,"w":20,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_237.png",
+	"frame": {"x":1675,"y":94,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_238.png",
+	"frame": {"x":1740,"y":95,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_239.png",
+	"frame": {"x":1831,"y":87,"w":21,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":96,"w":21,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_24.png",
+	"frame": {"x":1938,"y":2,"w":36,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":110,"w":36,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_240.png",
+	"frame": {"x":1055,"y":145,"w":17,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":17,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_241.png",
+	"frame": {"x":245,"y":189,"w":17,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":17,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_242.png",
+	"frame": {"x":264,"y":189,"w":17,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":17,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_243.png",
+	"frame": {"x":283,"y":189,"w":17,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":17,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_244.png",
+	"frame": {"x":628,"y":131,"w":17,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":92,"w":17,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_245.png",
+	"frame": {"x":302,"y":189,"w":17,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":17,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_246.png",
+	"frame": {"x":321,"y":189,"w":17,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":17,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_247.png",
+	"frame": {"x":340,"y":189,"w":17,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":17,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_248.png",
+	"frame": {"x":496,"y":117,"w":15,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":92,"w":15,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_249.png",
+	"frame": {"x":856,"y":124,"w":16,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":92,"w":16,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_25.png",
+	"frame": {"x":1976,"y":2,"w":36,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":110,"w":36,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_250.png",
+	"frame": {"x":657,"y":208,"w":16,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":94,"w":16,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_251.png",
+	"frame": {"x":664,"y":156,"w":15,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":94,"w":15,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_252.png",
+	"frame": {"x":527,"y":189,"w":15,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":93,"w":15,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_253.png",
+	"frame": {"x":544,"y":189,"w":15,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":93,"w":15,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_254.png",
+	"frame": {"x":556,"y":127,"w":14,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":92,"w":14,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_255.png",
+	"frame": {"x":120,"y":60,"w":15,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":88,"w":15,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_256.png",
+	"frame": {"x":120,"y":77,"w":19,"h":39},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":89,"w":19,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_257.png",
+	"frame": {"x":701,"y":134,"w":21,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":96,"w":21,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_258.png",
+	"frame": {"x":1008,"y":145,"w":21,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":95,"w":21,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_259.png",
+	"frame": {"x":1100,"y":61,"w":21,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":95,"w":21,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_26.png",
+	"frame": {"x":162,"y":60,"w":11,"h":5},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":124,"w":11,"h":5},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_260.png",
+	"frame": {"x":120,"y":77,"w":19,"h":39},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":89,"w":19,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_261.png",
+	"frame": {"x":1182,"y":54,"w":15,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":96,"w":15,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_262.png",
+	"frame": {"x":1194,"y":135,"w":13,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":95,"w":13,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_263.png",
+	"frame": {"x":561,"y":189,"w":13,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":93,"w":13,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_264.png",
+	"frame": {"x":576,"y":189,"w":13,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":93,"w":13,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_265.png",
+	"frame": {"x":591,"y":189,"w":13,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":93,"w":13,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_266.png",
+	"frame": {"x":557,"y":143,"w":17,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":94,"w":17,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_267.png",
+	"frame": {"x":359,"y":189,"w":17,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":17,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_268.png",
+	"frame": {"x":378,"y":189,"w":17,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":17,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_269.png",
+	"frame": {"x":397,"y":189,"w":17,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":17,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_27.png",
+	"frame": {"x":1655,"y":212,"w":21,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":122,"w":21,"h":8},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_270.png",
+	"frame": {"x":416,"y":189,"w":17,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":17,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_271.png",
+	"frame": {"x":435,"y":189,"w":17,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":17,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_272.png",
+	"frame": {"x":1008,"y":74,"w":20,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":94,"w":20,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_273.png",
+	"frame": {"x":1277,"y":180,"w":20,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":104,"w":20,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_274.png",
+	"frame": {"x":1966,"y":176,"w":17,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":105,"w":17,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_275.png",
+	"frame": {"x":1323,"y":180,"w":17,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":104,"w":17,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_276.png",
+	"frame": {"x":1928,"y":179,"w":17,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":104,"w":17,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_277.png",
+	"frame": {"x":561,"y":189,"w":13,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":93,"w":13,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_278.png",
+	"frame": {"x":893,"y":185,"w":18,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":109,"w":18,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_279.png",
+	"frame": {"x":1886,"y":180,"w":19,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":105,"w":19,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_28.png",
+	"frame": {"x":80,"y":193,"w":33,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":100,"w":33,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_280.png",
+	"frame": {"x":1654,"y":27,"w":21,"h":41},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":87,"w":21,"h":41},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_281.png",
+	"frame": {"x":1515,"y":2,"w":26,"h":42},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":86,"w":26,"h":42},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_282.png",
+	"frame": {"x":1383,"y":2,"w":30,"h":41},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":87,"w":30,"h":41},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_283.png",
+	"frame": {"x":1426,"y":2,"w":29,"h":41},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":87,"w":29,"h":41},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_284.png",
+	"frame": {"x":877,"y":46,"w":25,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":93,"w":25,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_285.png",
+	"frame": {"x":473,"y":189,"w":16,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":93,"w":16,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_286.png",
+	"frame": {"x":491,"y":189,"w":16,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":93,"w":16,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_287.png",
+	"frame": {"x":1962,"y":90,"w":21,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":21,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_288.png",
+	"frame": {"x":1064,"y":61,"w":14,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":95,"w":14,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_289.png",
+	"frame": {"x":1929,"y":90,"w":19,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":94,"w":19,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_29.png",
+	"frame": {"x":445,"y":156,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":98,"w":26,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_290.png",
+	"frame": {"x":1755,"y":143,"w":17,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":94,"w":17,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_291.png",
+	"frame": {"x":1864,"y":87,"w":22,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":92,"w":22,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_292.png",
+	"frame": {"x":1903,"y":38,"w":27,"h":38},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":91,"w":27,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_293.png",
+	"frame": {"x":591,"y":162,"w":25,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":99,"w":25,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_294.png",
+	"frame": {"x":1154,"y":54,"w":26,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":98,"w":26,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_295.png",
+	"frame": {"x":1182,"y":88,"w":26,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":98,"w":26,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_296.png",
+	"frame": {"x":160,"y":121,"w":23,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":98,"w":23,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_297.png",
+	"frame": {"x":1310,"y":102,"w":23,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":99,"w":23,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_298.png",
+	"frame": {"x":1942,"y":133,"w":18,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":109,"w":18,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_299.png",
+	"frame": {"x":226,"y":97,"w":18,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":108,"w":18,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_3.png",
+	"frame": {"x":1249,"y":2,"w":41,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":108,"w":41,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_30.png",
+	"frame": {"x":1124,"y":143,"w":28,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":101,"w":28,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_300.png",
+	"frame": {"x":1528,"y":99,"w":17,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":92,"w":17,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_301.png",
+	"frame": {"x":1998,"y":73,"w":14,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":92,"w":14,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_302.png",
+	"frame": {"x":948,"y":72,"w":26,"h":24},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":90,"w":26,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_303.png",
+	"frame": {"x":1896,"y":89,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_304.png",
+	"frame": {"x":1831,"y":110,"w":21,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":97,"w":21,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_305.png",
+	"frame": {"x":1249,"y":58,"w":21,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":97,"w":21,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_306.png",
+	"frame": {"x":1864,"y":111,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_307.png",
+	"frame": {"x":677,"y":77,"w":22,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":97,"w":22,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_308.png",
+	"frame": {"x":1897,"y":111,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_309.png",
+	"frame": {"x":1245,"y":206,"w":18,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":105,"w":18,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_31.png",
+	"frame": {"x":302,"y":158,"w":29,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":100,"w":29,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_310.png",
+	"frame": {"x":184,"y":94,"w":17,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":107,"w":17,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_311.png",
+	"frame": {"x":528,"y":135,"w":20,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":102,"w":20,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_312.png",
+	"frame": {"x":1697,"y":28,"w":20,"h":41},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":85,"w":20,"h":41},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_313.png",
+	"frame": {"x":76,"y":96,"w":19,"h":39},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":87,"w":19,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_314.png",
+	"frame": {"x":1135,"y":61,"w":17,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":94,"w":17,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_315.png",
+	"frame": {"x":1599,"y":183,"w":19,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":100,"w":19,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_316.png",
+	"frame": {"x":1249,"y":41,"w":15,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":97,"w":15,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_317.png",
+	"frame": {"x":502,"y":156,"w":24,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":97,"w":24,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_318.png",
+	"frame": {"x":1962,"y":113,"w":23,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":97,"w":23,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_319.png",
+	"frame": {"x":1282,"y":47,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_32.png",
+	"frame": {"x":275,"y":156,"w":25,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":98,"w":25,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_320.png",
+	"frame": {"x":1034,"y":206,"w":18,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":18,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_321.png",
+	"frame": {"x":1995,"y":101,"w":17,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":96,"w":17,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_322.png",
+	"frame": {"x":701,"y":81,"w":28,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":95,"w":28,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_323.png",
+	"frame": {"x":736,"y":47,"w":26,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":95,"w":26,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_324.png",
+	"frame": {"x":1335,"y":50,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_325.png",
+	"frame": {"x":975,"y":128,"w":28,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":97,"w":28,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_326.png",
+	"frame": {"x":416,"y":156,"w":27,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":97,"w":27,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_327.png",
+	"frame": {"x":790,"y":208,"w":16,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":96,"w":16,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_328.png",
+	"frame": {"x":1964,"y":73,"w":15,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":96,"w":15,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_329.png",
+	"frame": {"x":975,"y":158,"w":28,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":97,"w":28,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_33.png",
+	"frame": {"x":974,"y":48,"w":23,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":96,"w":23,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_330.png",
+	"frame": {"x":115,"y":193,"w":33,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":97,"w":33,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_331.png",
+	"frame": {"x":1010,"y":180,"w":24,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":98,"w":24,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_332.png",
+	"frame": {"x":528,"y":157,"w":27,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":98,"w":27,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_333.png",
+	"frame": {"x":1977,"y":37,"w":35,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":93,"w":35,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_334.png",
+	"frame": {"x":40,"y":79,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":93,"w":34,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_335.png",
+	"frame": {"x":622,"y":168,"w":19,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":94,"w":19,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_336.png",
+	"frame": {"x":1609,"y":114,"w":19,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":99,"w":19,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_337.png",
+	"frame": {"x":1525,"y":42,"w":16,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":96,"w":16,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_338.png",
+	"frame": {"x":437,"y":68,"w":32,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":98,"w":32,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_339.png",
+	"frame": {"x":819,"y":37,"w":32,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":97,"w":32,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_34.png",
+	"frame": {"x":819,"y":91,"w":23,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":94,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_340.png",
+	"frame": {"x":912,"y":124,"w":29,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":96,"w":29,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_341.png",
+	"frame": {"x":1265,"y":147,"w":21,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":96,"w":21,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_342.png",
+	"frame": {"x":226,"y":78,"w":17,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":108,"w":17,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_343.png",
+	"frame": {"x":1249,"y":183,"w":26,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":108,"w":26,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_344.png",
+	"frame": {"x":1831,"y":133,"w":26,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":108,"w":26,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_345.png",
+	"frame": {"x":1991,"y":151,"w":19,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":107,"w":19,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_346.png",
+	"frame": {"x":1570,"y":170,"w":22,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":101,"w":22,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_347.png",
+	"frame": {"x":1606,"y":2,"w":20,"h":46},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":83,"w":20,"h":46},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_348.png",
+	"frame": {"x":1654,"y":2,"w":23,"h":43},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":85,"w":23,"h":43},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_349.png",
+	"frame": {"x":228,"y":35,"w":22,"h":39},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":89,"w":22,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_35.png",
+	"frame": {"x":820,"y":116,"w":24,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":94,"w":24,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_350.png",
+	"frame": {"x":1654,"y":50,"w":19,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":96,"w":19,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_351.png",
+	"frame": {"x":1907,"y":180,"w":19,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":105,"w":19,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_352.png",
+	"frame": {"x":1991,"y":194,"w":22,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":108,"w":22,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_353.png",
+	"frame": {"x":596,"y":110,"w":30,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":109,"w":30,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_354.png",
+	"frame": {"x":1568,"y":194,"w":27,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":108,"w":27,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_355.png",
+	"frame": {"x":1991,"y":172,"w":21,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":109,"w":21,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_356.png",
+	"frame": {"x":207,"y":94,"w":17,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":108,"w":17,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_357.png",
+	"frame": {"x":272,"y":134,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":108,"w":20,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_358.png",
+	"frame": {"x":269,"y":35,"w":37,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":105,"w":37,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_359.png",
+	"frame": {"x":1699,"y":2,"w":40,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":104,"w":40,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_36.png",
+	"frame": {"x":791,"y":182,"w":24,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":95,"w":24,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_360.png",
+	"frame": {"x":1862,"y":38,"w":39,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":104,"w":39,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_361.png",
+	"frame": {"x":1299,"y":180,"w":24,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":106,"w":24,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_362.png",
+	"frame": {"x":456,"y":136,"w":18,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":109,"w":18,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_363.png",
+	"frame": {"x":1315,"y":47,"w":18,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":108,"w":18,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_364.png",
+	"frame": {"x":313,"y":117,"w":17,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":108,"w":17,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_365.png",
+	"frame": {"x":1640,"y":116,"w":17,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":92,"w":17,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_366.png",
+	"frame": {"x":1866,"y":156,"w":24,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":94,"w":24,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_367.png",
+	"frame": {"x":1391,"y":162,"w":25,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":91,"w":25,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_368.png",
+	"frame": {"x":1420,"y":133,"w":24,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":89,"w":24,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_369.png",
+	"frame": {"x":225,"y":189,"w":18,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":86,"w":18,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_37.png",
+	"frame": {"x":1158,"y":86,"w":22,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":22,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_370.png",
+	"frame": {"x":701,"y":157,"w":17,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":87,"w":17,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_371.png",
+	"frame": {"x":1671,"y":116,"w":19,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":89,"w":19,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_372.png",
+	"frame": {"x":1663,"y":137,"w":22,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":89,"w":22,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_373.png",
+	"frame": {"x":1270,"y":206,"w":18,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":90,"w":18,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_374.png",
+	"frame": {"x":1009,"y":48,"w":18,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":90,"w":18,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_375.png",
+	"frame": {"x":1607,"y":162,"w":19,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":87,"w":19,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_376.png",
+	"frame": {"x":933,"y":206,"w":18,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":91,"w":18,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_377.png",
+	"frame": {"x":2014,"y":44,"w":36,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":89,"w":36,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_378.png",
+	"frame": {"x":629,"y":47,"w":35,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":89,"w":35,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_379.png",
+	"frame": {"x":377,"y":36,"w":37,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":89,"w":37,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_38.png",
+	"frame": {"x":1091,"y":84,"w":23,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":91,"w":23,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_380.png",
+	"frame": {"x":632,"y":189,"w":23,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":90,"w":23,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_381.png",
+	"frame": {"x":1469,"y":109,"w":17,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":90,"w":17,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_382.png",
+	"frame": {"x":1915,"y":157,"w":20,"h":24},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":91,"w":20,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_383.png",
+	"frame": {"x":1915,"y":133,"w":22,"h":25},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":90,"w":22,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_384.png",
+	"frame": {"x":40,"y":115,"w":38,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":90,"w":38,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_385.png",
+	"frame": {"x":1741,"y":2,"w":40,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":90,"w":40,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_386.png",
+	"frame": {"x":1187,"y":150,"w":30,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":90,"w":30,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_387.png",
+	"frame": {"x":2014,"y":171,"w":20,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":102,"w":20,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_388.png",
+	"frame": {"x":1824,"y":180,"w":20,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":105,"w":20,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_389.png",
+	"frame": {"x":1106,"y":180,"w":24,"h":25},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":102,"w":24,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_39.png",
+	"frame": {"x":1824,"y":205,"w":24,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":89,"w":24,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_390.png",
+	"frame": {"x":1513,"y":141,"w":25,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":101,"w":25,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_391.png",
+	"frame": {"x":1540,"y":147,"w":21,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":99,"w":21,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_392.png",
+	"frame": {"x":1723,"y":162,"w":20,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":100,"w":20,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_393.png",
+	"frame": {"x":1072,"y":180,"w":24,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":96,"w":24,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_394.png",
+	"frame": {"x":1098,"y":131,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":96,"w":24,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_395.png",
+	"frame": {"x":764,"y":82,"w":28,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":96,"w":28,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_396.png",
+	"frame": {"x":974,"y":73,"w":26,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":96,"w":26,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_397.png",
+	"frame": {"x":1257,"y":81,"w":24,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":97,"w":24,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_398.png",
+	"frame": {"x":1240,"y":150,"w":23,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":97,"w":23,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_399.png",
+	"frame": {"x":1154,"y":149,"w":22,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":97,"w":22,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_4.png",
+	"frame": {"x":1161,"y":2,"w":42,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":108,"w":42,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_40.png",
+	"frame": {"x":1965,"y":157,"w":24,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":88,"w":24,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_400.png",
+	"frame": {"x":1688,"y":50,"w":20,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":95,"w":20,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_401.png",
+	"frame": {"x":1219,"y":150,"w":19,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":94,"w":19,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_402.png",
+	"frame": {"x":974,"y":101,"w":25,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":95,"w":25,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_403.png",
+	"frame": {"x":657,"y":173,"w":24,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":94,"w":24,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_404.png",
+	"frame": {"x":1740,"y":53,"w":19,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":95,"w":19,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_405.png",
+	"frame": {"x":1257,"y":114,"w":24,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":97,"w":24,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_406.png",
+	"frame": {"x":377,"y":2,"w":32,"h":58},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":70,"w":32,"h":58},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_407.png",
+	"frame": {"x":1591,"y":104,"w":16,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":109,"w":16,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_408.png",
+	"frame": {"x":290,"y":92,"w":16,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":110,"w":16,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_409.png",
+	"frame": {"x":1637,"y":162,"w":25,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":109,"w":25,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_41.png",
+	"frame": {"x":332,"y":113,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":92,"w":13,"h":13},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_410.png",
+	"frame": {"x":1850,"y":205,"w":24,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":109,"w":24,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_411.png",
+	"frame": {"x":1295,"y":206,"w":22,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":110,"w":22,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_412.png",
+	"frame": {"x":413,"y":106,"w":20,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":109,"w":20,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_413.png",
+	"frame": {"x":332,"y":128,"w":17,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":108,"w":17,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_414.png",
+	"frame": {"x":1902,"y":205,"w":23,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":109,"w":23,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_415.png",
+	"frame": {"x":123,"y":39,"w":44,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":109,"w":44,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_416.png",
+	"frame": {"x":142,"y":153,"w":38,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":109,"w":38,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_417.png",
+	"frame": {"x":735,"y":113,"w":31,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":107,"w":31,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_418.png",
+	"frame": {"x":2014,"y":193,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":107,"w":21,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_419.png",
+	"frame": {"x":391,"y":126,"w":17,"h":20},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":108,"w":17,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_42.png",
+	"frame": {"x":1808,"y":191,"w":14,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":91,"w":14,"h":15},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_420.png",
+	"frame": {"x":230,"y":117,"w":18,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":92,"w":18,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_421.png",
+	"frame": {"x":1941,"y":157,"w":22,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":93,"w":22,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_422.png",
+	"frame": {"x":1469,"y":2,"w":44,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":94,"w":44,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_423.png",
+	"frame": {"x":2014,"y":2,"w":40,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":93,"w":40,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_424.png",
+	"frame": {"x":1815,"y":156,"w":24,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":92,"w":24,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_425.png",
+	"frame": {"x":1283,"y":69,"w":25,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":98,"w":25,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_426.png",
+	"frame": {"x":557,"y":162,"w":25,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":96,"w":25,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_427.png",
+	"frame": {"x":2014,"y":82,"w":26,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":99,"w":26,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_428.png",
+	"frame": {"x":1368,"y":53,"w":25,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":99,"w":25,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_429.png",
+	"frame": {"x":129,"y":117,"w":34,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":99,"w":34,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_43.png",
+	"frame": {"x":210,"y":75,"w":14,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":92,"w":14,"h":14},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_430.png",
+	"frame": {"x":666,"y":47,"w":33,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":100,"w":33,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_431.png",
+	"frame": {"x":1187,"y":178,"w":26,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":98,"w":26,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_432.png",
+	"frame": {"x":1067,"y":206,"w":18,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":18,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_433.png",
+	"frame": {"x":1702,"y":116,"w":21,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":99,"w":21,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_434.png",
+	"frame": {"x":1391,"y":190,"w":22,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":99,"w":22,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_435.png",
+	"frame": {"x":877,"y":95,"w":27,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":96,"w":27,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_436.png",
+	"frame": {"x":308,"y":60,"w":20,"h":37},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":91,"w":20,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_437.png",
+	"frame": {"x":729,"y":180,"w":25,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":96,"w":25,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_438.png",
+	"frame": {"x":1774,"y":55,"w":23,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":96,"w":23,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_439.png",
+	"frame": {"x":1133,"y":173,"w":25,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":97,"w":25,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_44.png",
+	"frame": {"x":1313,"y":165,"w":15,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":92,"w":15,"h":13},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_440.png",
+	"frame": {"x":1335,"y":72,"w":24,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":97,"w":24,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_441.png",
+	"frame": {"x":1368,"y":84,"w":21,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":97,"w":21,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_442.png",
+	"frame": {"x":1361,"y":107,"w":24,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":98,"w":24,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_443.png",
+	"frame": {"x":1540,"y":170,"w":20,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":100,"w":20,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_444.png",
+	"frame": {"x":1415,"y":190,"w":22,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":88,"w":22,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_445.png",
+	"frame": {"x":1927,"y":205,"w":19,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":90,"w":19,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_446.png",
+	"frame": {"x":1876,"y":205,"w":19,"h":24},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":90,"w":19,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_447.png",
+	"frame": {"x":556,"y":78,"w":31,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":94,"w":31,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_448.png",
+	"frame": {"x":589,"y":78,"w":31,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":94,"w":31,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_449.png",
+	"frame": {"x":1764,"y":122,"w":19,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":99,"w":19,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_45.png",
+	"frame": {"x":1559,"y":27,"w":36,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":98,"w":36,"h":10},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_450.png",
+	"frame": {"x":1559,"y":39,"w":20,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":95,"w":20,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_451.png",
+	"frame": {"x":1310,"y":69,"w":23,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":97,"w":23,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_452.png",
+	"frame": {"x":1896,"y":67,"w":20,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":96,"w":20,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_453.png",
+	"frame": {"x":1733,"y":117,"w":20,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":99,"w":20,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_454.png",
+	"frame": {"x":1314,"y":133,"w":20,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":98,"w":20,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_455.png",
+	"frame": {"x":1160,"y":173,"w":25,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":97,"w":25,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_456.png",
+	"frame": {"x":1740,"y":32,"w":19,"h":41},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":87,"w":19,"h":41},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_457.png",
+	"frame": {"x":78,"y":75,"w":19,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":88,"w":19,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_458.png",
+	"frame": {"x":119,"y":153,"w":21,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":90,"w":21,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_459.png",
+	"frame": {"x":1862,"y":64,"w":21,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":96,"w":21,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_46.png",
+	"frame": {"x":1125,"y":84,"w":34,"h":8},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":99,"w":34,"h":8},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_460.png",
+	"frame": {"x":1342,"y":163,"w":21,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":97,"w":21,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_461.png",
+	"frame": {"x":1031,"y":145,"w":22,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":96,"w":22,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_462.png",
+	"frame": {"x":1461,"y":70,"w":15,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":96,"w":15,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_463.png",
+	"frame": {"x":967,"y":206,"w":18,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":96,"w":18,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_464.png",
+	"frame": {"x":1693,"y":139,"w":21,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":99,"w":21,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_465.png",
+	"frame": {"x":1724,"y":139,"w":21,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":99,"w":21,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_466.png",
+	"frame": {"x":2014,"y":113,"w":26,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":99,"w":26,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_467.png",
+	"frame": {"x":496,"y":45,"w":28,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":92,"w":28,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_468.png",
+	"frame": {"x":437,"y":37,"w":29,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":92,"w":29,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_469.png",
+	"frame": {"x":553,"y":47,"w":29,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":92,"w":29,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_47.png",
+	"frame": {"x":1420,"y":34,"w":26,"h":4},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":101,"w":26,"h":4},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_470.png",
+	"frame": {"x":591,"y":47,"w":29,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":92,"w":29,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_471.png",
+	"frame": {"x":645,"y":77,"w":30,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":97,"w":30,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_472.png",
+	"frame": {"x":1283,"y":101,"w":25,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":98,"w":25,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_473.png",
+	"frame": {"x":1335,"y":98,"w":24,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":97,"w":24,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_474.png",
+	"frame": {"x":473,"y":156,"w":27,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":97,"w":27,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_475.png",
+	"frame": {"x":1806,"y":103,"w":23,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":100,"w":23,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_476.png",
+	"frame": {"x":185,"y":113,"w":20,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":97,"w":20,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_477.png",
+	"frame": {"x":1737,"y":185,"w":27,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":95,"w":27,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_478.png",
+	"frame": {"x":1892,"y":156,"w":21,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":95,"w":21,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_479.png",
+	"frame": {"x":1859,"y":133,"w":26,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":95,"w":26,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_48.png",
+	"frame": {"x":246,"y":140,"w":13,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":82,"w":13,"h":14},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_480.png",
+	"frame": {"x":185,"y":136,"w":20,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":95,"w":20,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_481.png",
+	"frame": {"x":183,"y":158,"w":30,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":97,"w":30,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_482.png",
+	"frame": {"x":877,"y":73,"w":36,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":98,"w":36,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_483.png",
+	"frame": {"x":756,"y":182,"w":33,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":96,"w":33,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_484.png",
+	"frame": {"x":183,"y":189,"w":19,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":86,"w":19,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_485.png",
+	"frame": {"x":117,"y":98,"w":39,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":101,"w":39,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_486.png",
+	"frame": {"x":1655,"y":183,"w":22,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":101,"w":22,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_487.png",
+	"frame": {"x":1230,"y":120,"w":25,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":100,"w":25,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_488.png",
+	"frame": {"x":1292,"y":33,"w":12,"h":41},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":87,"w":12,"h":41},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_489.png",
+	"frame": {"x":267,"y":77,"w":13,"h":39},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":89,"w":13,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_49.png",
+	"frame": {"x":250,"y":78,"w":15,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":82,"w":15,"h":15},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_490.png",
+	"frame": {"x":606,"y":189,"w":12,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":93,"w":12,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_491.png",
+	"frame": {"x":1164,"y":206,"w":18,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":100,"w":18,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_492.png",
+	"frame": {"x":1679,"y":184,"w":22,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":101,"w":22,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_493.png",
+	"frame": {"x":1626,"y":204,"w":20,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":101,"w":20,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_494.png",
+	"frame": {"x":1335,"y":34,"w":14,"h":41},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":87,"w":14,"h":41},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_495.png",
+	"frame": {"x":1112,"y":45,"w":14,"h":38},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":90,"w":14,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_496.png",
+	"frame": {"x":693,"y":208,"w":16,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":93,"w":16,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_497.png",
+	"frame": {"x":1426,"y":33,"w":14,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":94,"w":14,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_498.png",
+	"frame": {"x":1559,"y":83,"w":19,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":96,"w":19,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_499.png",
+	"frame": {"x":1693,"y":139,"w":21,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":99,"w":21,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_5.png",
+	"frame": {"x":1205,"y":2,"w":42,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":108,"w":42,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_50.png",
+	"frame": {"x":230,"y":140,"w":14,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":82,"w":14,"h":14},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_500.png",
+	"frame": {"x":1724,"y":139,"w":21,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":99,"w":21,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_501.png",
+	"frame": {"x":1420,"y":102,"w":24,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":99,"w":24,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_502.png",
+	"frame": {"x":1461,"y":42,"w":26,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":98,"w":26,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_503.png",
+	"frame": {"x":347,"y":104,"w":20,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":101,"w":20,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_504.png",
+	"frame": {"x":162,"y":73,"w":22,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":99,"w":22,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_505.png",
+	"frame": {"x":1951,"y":204,"w":22,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":97,"w":22,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_506.png",
+	"frame": {"x":1523,"y":189,"w":26,"h":15},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":101,"w":26,"h":15},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_507.png",
+	"frame": {"x":1042,"y":180,"w":28,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":98,"w":28,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_508.png",
+	"frame": {"x":825,"y":206,"w":34,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":110,"w":34,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_509.png",
+	"frame": {"x":496,"y":75,"w":36,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":107,"w":36,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_51.png",
+	"frame": {"x":331,"y":97,"w":14,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":82,"w":14,"h":14},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_510.png",
+	"frame": {"x":1783,"y":37,"w":16,"h":46},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":83,"w":16,"h":46},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_511.png",
+	"frame": {"x":361,"y":157,"w":28,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":94,"w":28,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_512.png",
+	"frame": {"x":1559,"y":104,"w":19,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":92,"w":19,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_513.png",
+	"frame": {"x":1504,"y":190,"w":17,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":91,"w":17,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_514.png",
+	"frame": {"x":1609,"y":71,"w":19,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":88,"w":19,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_515.png",
+	"frame": {"x":1559,"y":2,"w":23,"h":45},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":83,"w":23,"h":45},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_516.png",
+	"frame": {"x":1365,"y":161,"w":24,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":99,"w":24,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_517.png",
+	"frame": {"x":1493,"y":42,"w":26,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":98,"w":26,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_518.png",
+	"frame": {"x":1288,"y":133,"w":24,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":98,"w":24,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_519.png",
+	"frame": {"x":1753,"y":162,"w":21,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":100,"w":21,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_52.png",
+	"frame": {"x":1543,"y":77,"w":20,"h":14},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":81,"w":20,"h":14},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_520.png",
+	"frame": {"x":1074,"y":145,"w":22,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":90,"w":22,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_521.png",
+	"frame": {"x":1030,"y":73,"w":30,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":92,"w":30,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_522.png",
+	"frame": {"x":628,"y":110,"w":37,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":99,"w":37,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_523.png",
+	"frame": {"x":858,"y":180,"w":33,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":96,"w":33,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_524.png",
+	"frame": {"x":204,"y":189,"w":19,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":86,"w":19,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_525.png",
+	"frame": {"x":1426,"y":49,"w":21,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":90,"w":21,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_526.png",
+	"frame": {"x":226,"y":59,"w":39,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":101,"w":39,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_527.png",
+	"frame": {"x":1030,"y":102,"w":30,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":95,"w":30,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_528.png",
+	"frame": {"x":186,"y":35,"w":15,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":84,"w":15,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_529.png",
+	"frame": {"x":1446,"y":109,"w":21,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":90,"w":21,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_53.png",
+	"frame": {"x":1029,"y":47,"w":24,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":84,"w":24,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_530.png",
+	"frame": {"x":435,"y":136,"w":19,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":97,"w":19,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_531.png",
+	"frame": {"x":1779,"y":208,"w":16,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":96,"w":16,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_532.png",
+	"frame": {"x":1783,"y":191,"w":15,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":95,"w":15,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_533.png",
+	"frame": {"x":1319,"y":206,"w":21,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":99,"w":21,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_534.png",
+	"frame": {"x":1446,"y":174,"w":23,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":100,"w":23,"h":14},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_535.png",
+	"frame": {"x":1594,"y":73,"w":25,"h":13},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":100,"w":25,"h":13},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_536.png",
+	"frame": {"x":1030,"y":102,"w":30,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":95,"w":30,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_537.png",
+	"frame": {"x":186,"y":35,"w":15,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":84,"w":15,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_538.png",
+	"frame": {"x":877,"y":32,"w":12,"h":46},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":82,"w":12,"h":46},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_539.png",
+	"frame": {"x":1448,"y":87,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_54.png",
+	"frame": {"x":1199,"y":62,"w":24,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":85,"w":24,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_540.png",
+	"frame": {"x":1930,"y":67,"w":21,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":96,"w":21,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_541.png",
+	"frame": {"x":1609,"y":38,"w":25,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":97,"w":25,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_542.png",
+	"frame": {"x":1062,"y":77,"w":27,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":98,"w":27,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_543.png",
+	"frame": {"x":1446,"y":141,"w":20,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_544.png",
+	"frame": {"x":1490,"y":141,"w":21,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":98,"w":21,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_545.png",
+	"frame": {"x":1708,"y":184,"w":22,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":100,"w":22,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_546.png",
+	"frame": {"x":1488,"y":117,"w":22,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":97,"w":22,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_547.png",
+	"frame": {"x":1395,"y":53,"w":23,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":101,"w":23,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_548.png",
+	"frame": {"x":207,"y":117,"w":17,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":108,"w":17,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_549.png",
+	"frame": {"x":267,"y":92,"w":18,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":107,"w":18,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_55.png",
+	"frame": {"x":1803,"y":131,"w":23,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":91,"w":23,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_550.png",
+	"frame": {"x":1841,"y":156,"w":23,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":106,"w":23,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_551.png",
+	"frame": {"x":1887,"y":133,"w":26,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":107,"w":26,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_552.png",
+	"frame": {"x":1342,"y":196,"w":28,"h":24},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":107,"w":28,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_553.png",
+	"frame": {"x":1635,"y":135,"w":25,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":100,"w":25,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_554.png",
+	"frame": {"x":1664,"y":161,"w":27,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":104,"w":27,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_555.png",
+	"frame": {"x":1710,"y":72,"w":28,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":109,"w":28,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_556.png",
+	"frame": {"x":820,"y":142,"w":14,"h":37},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":94,"w":14,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_557.png",
+	"frame": {"x":1391,"y":134,"w":27,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":101,"w":27,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_558.png",
+	"frame": {"x":1158,"y":120,"w":34,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":104,"w":34,"h":13},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_559.png",
+	"frame": {"x":1418,"y":163,"w":26,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":93,"w":26,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_56.png",
+	"frame": {"x":308,"y":97,"w":18,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":116,"w":18,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_560.png",
+	"frame": {"x":1194,"y":120,"w":13,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":87,"w":13,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_561.png",
+	"frame": {"x":1706,"y":208,"w":16,"h":24},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":103,"w":16,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_562.png",
+	"frame": {"x":861,"y":206,"w":34,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":108,"w":34,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_563.png",
+	"frame": {"x":1132,"y":206,"w":30,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":109,"w":30,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_564.png",
+	"frame": {"x":496,"y":98,"w":36,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":111,"w":36,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_565.png",
+	"frame": {"x":1161,"y":42,"w":36,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":119,"w":36,"h":10},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_566.png",
+	"frame": {"x":41,"y":67,"w":35,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":120,"w":35,"h":10},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_567.png",
+	"frame": {"x":1519,"y":118,"w":30,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":94,"w":30,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_568.png",
+	"frame": {"x":1471,"y":174,"w":14,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":101,"w":14,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_569.png",
+	"frame": {"x":1783,"y":162,"w":14,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":101,"w":14,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_57.png",
+	"frame": {"x":477,"y":121,"w":19,"h":17},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":116,"w":19,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_570.png",
+	"frame": {"x":1799,"y":162,"w":14,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":101,"w":14,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_571.png",
+	"frame": {"x":944,"y":100,"w":28,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":99,"w":28,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_572.png",
+	"frame": {"x":2014,"y":144,"w":25,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":100,"w":25,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_573.png",
+	"frame": {"x":1607,"y":135,"w":26,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":98,"w":26,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_574.png",
+	"frame": {"x":1420,"y":72,"w":26,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":98,"w":26,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_575.png",
+	"frame": {"x":1368,"y":192,"w":21,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":97,"w":21,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_576.png",
+	"frame": {"x":1643,"y":71,"w":21,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":96,"w":21,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_577.png",
+	"frame": {"x":1740,"y":74,"w":19,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":96,"w":19,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_578.png",
+	"frame": {"x":1774,"y":80,"w":17,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":96,"w":17,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_579.png",
+	"frame": {"x":1636,"y":38,"w":16,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":97,"w":16,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_58.png",
+	"frame": {"x":435,"y":117,"w":20,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":115,"w":20,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_580.png",
+	"frame": {"x":1679,"y":208,"w":16,"h":25},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":103,"w":16,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_581.png",
+	"frame": {"x":1543,"y":30,"w":14,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":104,"w":14,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_582.png",
+	"frame": {"x":313,"y":139,"w":17,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":111,"w":17,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_583.png",
+	"frame": {"x":1975,"y":195,"w":25,"h":14},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":114,"w":25,"h":14},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_584.png",
+	"frame": {"x":897,"y":206,"w":18,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":87,"w":18,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_585.png",
+	"frame": {"x":820,"y":158,"w":19,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":85,"w":19,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_59.png",
+	"frame": {"x":1802,"y":208,"w":20,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":114,"w":20,"h":16},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_6.png",
+	"frame": {"x":1072,"y":2,"w":43,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":107,"w":43,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_60.png",
+	"frame": {"x":369,"y":126,"w":20,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":113,"w":20,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_61.png",
+	"frame": {"x":186,"y":75,"w":22,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":113,"w":22,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_62.png",
+	"frame": {"x":1220,"y":206,"w":23,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":114,"w":23,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_63.png",
+	"frame": {"x":250,"y":117,"w":20,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":117,"w":20,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_64.png",
+	"frame": {"x":1117,"y":2,"w":41,"h":42},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":106,"w":41,"h":42},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_65.png",
+	"frame": {"x":1292,"y":2,"w":29,"h":45},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":105,"w":29,"h":45},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_66.png",
+	"frame": {"x":877,"y":2,"w":28,"h":53},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":101,"w":28,"h":53},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_67.png",
+	"frame": {"x":764,"y":2,"w":30,"h":57},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":99,"w":30,"h":57},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_68.png",
+	"frame": {"x":316,"y":2,"w":31,"h":59},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":98,"w":31,"h":59},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_69.png",
+	"frame": {"x":186,"y":2,"w":31,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":96,"w":31,"h":63},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_7.png",
+	"frame": {"x":981,"y":2,"w":44,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":105,"w":44,"h":44},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_70.png",
+	"frame": {"x":251,"y":2,"w":31,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":96,"w":31,"h":63},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_71.png",
+	"frame": {"x":72,"y":117,"w":32,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":110,"w":32,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_72.png",
+	"frame": {"x":44,"y":193,"w":31,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":109,"w":31,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_73.png",
+	"frame": {"x":701,"y":47,"w":32,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":110,"w":32,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_74.png",
+	"frame": {"x":764,"y":48,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":110,"w":32,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_75.png",
+	"frame": {"x":150,"y":193,"w":31,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":112,"w":31,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_76.png",
+	"frame": {"x":1481,"y":87,"w":17,"h":12},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":121,"w":17,"h":12},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_77.png",
+	"frame": {"x":413,"y":127,"w":17,"h":20},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":117,"w":17,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_78.png",
+	"frame": {"x":1962,"y":138,"w":17,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":113,"w":17,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_79.png",
+	"frame": {"x":1336,"y":131,"w":23,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":112,"w":23,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_8.png",
+	"frame": {"x":78,"y":2,"w":43,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":100,"w":43,"h":55},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_80.png",
+	"frame": {"x":1559,"y":61,"w":20,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":110,"w":20,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_81.png",
+	"frame": {"x":509,"y":189,"w":16,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":109,"w":16,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_82.png",
+	"frame": {"x":454,"y":189,"w":17,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":109,"w":17,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_83.png",
+	"frame": {"x":1199,"y":42,"w":18,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":109,"w":18,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_84.png",
+	"frame": {"x":1288,"y":165,"w":23,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":121,"w":23,"h":13},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_85.png",
+	"frame": {"x":1158,"y":135,"w":34,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":121,"w":34,"h":12},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_86.png",
+	"frame": {"x":628,"y":150,"w":34,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":119,"w":34,"h":16},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_87.png",
+	"frame": {"x":40,"y":155,"w":30,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":110,"w":30,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_88.png",
+	"frame": {"x":1783,"y":2,"w":39,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":110,"w":39,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_89.png",
+	"frame": {"x":1339,"y":2,"w":30,"h":42},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":107,"w":30,"h":42},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_9.png",
+	"frame": {"x":607,"y":2,"w":43,"h":52},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":101,"w":43,"h":52},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_90.png",
+	"frame": {"x":2,"y":197,"w":27,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":107,"w":27,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_91.png",
+	"frame": {"x":186,"y":52,"w":21,"h":38},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":109,"w":21,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_92.png",
+	"frame": {"x":267,"y":60,"w":15,"h":39},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":109,"w":15,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_93.png",
+	"frame": {"x":556,"y":110,"w":15,"h":38},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":109,"w":15,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_94.png",
+	"frame": {"x":729,"y":214,"w":10,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":118,"w":10,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_95.png",
+	"frame": {"x":2014,"y":216,"w":8,"h":15},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":120,"w":8,"h":15},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_96.png",
+	"frame": {"x":798,"y":176,"w":4,"h":13},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":121,"w":4,"h":13},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_97.png",
+	"frame": {"x":1468,"y":141,"w":20,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_98.png",
+	"frame": {"x":1495,"y":95,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":20,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Yuri Sakazaki_99.png",
+	"frame": {"x":1551,"y":125,"w":20,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":98,"w":20,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "yuri.png",
+	"format": "RGBA8888",
+	"size": {"w":2042,"h":226},
+	"scale": "0.33",
+	"smartupdate": "$TexturePacker:SmartUpdate:1e37aa3fe9bee545252098ef27d5be92:81a4c1e523b5be4c573d677897597e98:49df9cb7c7841dc71939510ba9183eaf$"
+}
+}

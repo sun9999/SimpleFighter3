@@ -1,0 +1,5772 @@
+{"frames": [
+
+{
+	"filename": "Maki_0.png",
+	"frame": {"x":2,"y":68,"w":63,"h":24},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":98,"w":63,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_1.png",
+	"frame": {"x":106,"y":196,"w":52,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":90,"w":52,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_10.png",
+	"frame": {"x":1688,"y":247,"w":7,"h":13},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":98,"w":7,"h":13},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_100.png",
+	"frame": {"x":1297,"y":39,"w":20,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":20,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_101.png",
+	"frame": {"x":1274,"y":39,"w":21,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":93,"w":21,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_102.png",
+	"frame": {"x":1585,"y":146,"w":21,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":94,"w":21,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_103.png",
+	"frame": {"x":1263,"y":187,"w":22,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":93,"w":22,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_104.png",
+	"frame": {"x":1280,"y":2,"w":21,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":93,"w":21,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_105.png",
+	"frame": {"x":1303,"y":2,"w":20,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":20,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_106.png",
+	"frame": {"x":1297,"y":76,"w":20,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":20,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_107.png",
+	"frame": {"x":1538,"y":182,"w":22,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":94,"w":22,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_108.png",
+	"frame": {"x":1479,"y":218,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":23,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_109.png",
+	"frame": {"x":1561,"y":146,"w":22,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":94,"w":22,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_11.png",
+	"frame": {"x":1887,"y":242,"w":18,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":94,"w":18,"h":11},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_110.png",
+	"frame": {"x":1328,"y":113,"w":19,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":19,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_111.png",
+	"frame": {"x":1348,"y":150,"w":19,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":19,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_112.png",
+	"frame": {"x":1274,"y":76,"w":21,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":93,"w":21,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_113.png",
+	"frame": {"x":1208,"y":2,"w":22,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":93,"w":22,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_114.png",
+	"frame": {"x":1586,"y":110,"w":21,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":94,"w":21,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_115.png",
+	"frame": {"x":1283,"y":113,"w":21,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":93,"w":21,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_116.png",
+	"frame": {"x":1306,"y":113,"w":20,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":20,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_117.png",
+	"frame": {"x":1326,"y":150,"w":20,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":20,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_118.png",
+	"frame": {"x":1149,"y":39,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":25,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_119.png",
+	"frame": {"x":1436,"y":74,"w":25,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":25,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_12.png",
+	"frame": {"x":329,"y":195,"w":45,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":92,"w":45,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_120.png",
+	"frame": {"x":1488,"y":182,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":23,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_121.png",
+	"frame": {"x":356,"y":2,"w":16,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":84,"w":16,"h":44},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_122.png",
+	"frame": {"x":326,"y":133,"w":17,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":84,"w":17,"h":44},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_123.png",
+	"frame": {"x":494,"y":45,"w":16,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":86,"w":16,"h":41},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_124.png",
+	"frame": {"x":334,"y":2,"w":20,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":83,"w":20,"h":44},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_125.png",
+	"frame": {"x":801,"y":195,"w":21,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":86,"w":21,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_126.png",
+	"frame": {"x":1511,"y":146,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":88,"w":23,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_127.png",
+	"frame": {"x":1000,"y":78,"w":24,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":85,"w":24,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_128.png",
+	"frame": {"x":469,"y":46,"w":23,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":80,"w":23,"h":41},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_129.png",
+	"frame": {"x":583,"y":2,"w":22,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":81,"w":22,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_13.png",
+	"frame": {"x":486,"y":89,"w":41,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":93,"w":41,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_130.png",
+	"frame": {"x":557,"y":86,"w":22,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":81,"w":22,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_131.png",
+	"frame": {"x":2181,"y":2,"w":22,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":99,"w":22,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_132.png",
+	"frame": {"x":768,"y":2,"w":22,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":90,"w":22,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_133.png",
+	"frame": {"x":996,"y":154,"w":23,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":92,"w":23,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_134.png",
+	"frame": {"x":453,"y":133,"w":17,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":85,"w":17,"h":42},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_135.png",
+	"frame": {"x":396,"y":195,"w":17,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":84,"w":17,"h":43},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_136.png",
+	"frame": {"x":2192,"y":63,"w":26,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":89,"w":26,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_137.png",
+	"frame": {"x":2312,"y":2,"w":23,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":94,"w":23,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_138.png",
+	"frame": {"x":1973,"y":233,"w":21,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":91,"w":21,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_139.png",
+	"frame": {"x":2354,"y":166,"w":17,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":95,"w":17,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_14.png",
+	"frame": {"x":884,"y":119,"w":37,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":94,"w":37,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_140.png",
+	"frame": {"x":2337,"y":113,"w":25,"h":18},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":95,"w":25,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_141.png",
+	"frame": {"x":1688,"y":212,"w":23,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":87,"w":23,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_142.png",
+	"frame": {"x":1982,"y":35,"w":25,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":97,"w":25,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_143.png",
+	"frame": {"x":2372,"y":139,"w":23,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":105,"w":23,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_144.png",
+	"frame": {"x":1724,"y":72,"w":22,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":95,"w":22,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_145.png",
+	"frame": {"x":1562,"y":110,"w":22,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":94,"w":22,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_146.png",
+	"frame": {"x":1566,"y":74,"w":22,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":94,"w":22,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_147.png",
+	"frame": {"x":2398,"y":52,"w":21,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":106,"w":21,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_148.png",
+	"frame": {"x":2398,"y":2,"w":21,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":105,"w":21,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_149.png",
+	"frame": {"x":2398,"y":27,"w":21,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":106,"w":21,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_15.png",
+	"frame": {"x":1917,"y":206,"w":32,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":95,"w":32,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_150.png",
+	"frame": {"x":323,"y":242,"w":41,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":118,"w":41,"h":11},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_151.png",
+	"frame": {"x":1607,"y":182,"w":34,"h":18},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":114,"w":34,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_152.png",
+	"frame": {"x":1515,"y":2,"w":34,"h":24},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":108,"w":34,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_153.png",
+	"frame": {"x":2321,"y":226,"w":23,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":105,"w":23,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_154.png",
+	"frame": {"x":1588,"y":38,"w":22,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":94,"w":22,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_155.png",
+	"frame": {"x":1175,"y":76,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_156.png",
+	"frame": {"x":2335,"y":86,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":104,"w":22,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_157.png",
+	"frame": {"x":2289,"y":118,"w":21,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":103,"w":21,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_158.png",
+	"frame": {"x":1396,"y":38,"w":31,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":94,"w":31,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_159.png",
+	"frame": {"x":1367,"y":2,"w":34,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":94,"w":34,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_16.png",
+	"frame": {"x":1940,"y":235,"w":31,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":97,"w":31,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_160.png",
+	"frame": {"x":782,"y":162,"w":36,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":95,"w":36,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_161.png",
+	"frame": {"x":1923,"y":70,"w":30,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":97,"w":30,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_162.png",
+	"frame": {"x":1924,"y":103,"w":31,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":97,"w":31,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_163.png",
+	"frame": {"x":2280,"y":177,"w":23,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":98,"w":23,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_164.png",
+	"frame": {"x":1924,"y":35,"w":27,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":97,"w":27,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_165.png",
+	"frame": {"x":2041,"y":197,"w":29,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":97,"w":29,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_166.png",
+	"frame": {"x":2324,"y":59,"w":24,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":98,"w":24,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_167.png",
+	"frame": {"x":1929,"y":169,"w":28,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":97,"w":28,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_168.png",
+	"frame": {"x":1004,"y":40,"w":24,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":92,"w":24,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_169.png",
+	"frame": {"x":1036,"y":230,"w":24,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":92,"w":24,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_17.png",
+	"frame": {"x":2161,"y":220,"w":29,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":100,"w":29,"h":16},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_170.png",
+	"frame": {"x":1489,"y":2,"w":24,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":93,"w":24,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_171.png",
+	"frame": {"x":1955,"y":68,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":97,"w":26,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_172.png",
+	"frame": {"x":1434,"y":2,"w":26,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":94,"w":26,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_173.png",
+	"frame": {"x":1361,"y":39,"w":34,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":95,"w":34,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_174.png",
+	"frame": {"x":1612,"y":38,"w":28,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":95,"w":28,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_175.png",
+	"frame": {"x":1402,"y":147,"w":26,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":94,"w":26,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_176.png",
+	"frame": {"x":1512,"y":110,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":23,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_177.png",
+	"frame": {"x":1660,"y":142,"w":24,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":96,"w":24,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_178.png",
+	"frame": {"x":2093,"y":130,"w":24,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":99,"w":24,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_179.png",
+	"frame": {"x":2094,"y":162,"w":24,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":99,"w":24,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_18.png",
+	"frame": {"x":1857,"y":243,"w":28,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":104,"w":28,"h":11},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_180.png",
+	"frame": {"x":457,"y":90,"w":41,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":99,"w":41,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_181.png",
+	"frame": {"x":425,"y":2,"w":42,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":101,"w":42,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_182.png",
+	"frame": {"x":2072,"y":194,"w":30,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":101,"w":30,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_183.png",
+	"frame": {"x":2324,"y":142,"w":21,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":103,"w":21,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_184.png",
+	"frame": {"x":1874,"y":174,"w":32,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":100,"w":32,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_185.png",
+	"frame": {"x":428,"y":90,"w":27,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":87,"w":27,"h":41},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_186.png",
+	"frame": {"x":617,"y":85,"w":30,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":89,"w":30,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_187.png",
+	"frame": {"x":254,"y":100,"w":31,"h":41},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":87,"w":31,"h":41},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_188.png",
+	"frame": {"x":641,"y":2,"w":27,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":89,"w":27,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_189.png",
+	"frame": {"x":1226,"y":39,"w":22,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":22,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_19.png",
+	"frame": {"x":83,"y":58,"w":21,"h":4},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":111,"w":21,"h":4},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_190.png",
+	"frame": {"x":2120,"y":162,"w":29,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":99,"w":29,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_191.png",
+	"frame": {"x":1792,"y":2,"w":32,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":101,"w":32,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_192.png",
+	"frame": {"x":1252,"y":224,"w":33,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":98,"w":33,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_193.png",
+	"frame": {"x":2059,"y":34,"w":30,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":101,"w":30,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_194.png",
+	"frame": {"x":2326,"y":30,"w":24,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":104,"w":24,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_195.png",
+	"frame": {"x":2112,"y":65,"w":25,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":99,"w":25,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_196.png",
+	"frame": {"x":2244,"y":62,"w":25,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":101,"w":25,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_197.png",
+	"frame": {"x":2246,"y":32,"w":25,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":101,"w":25,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_198.png",
+	"frame": {"x":2258,"y":2,"w":25,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":101,"w":25,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_199.png",
+	"frame": {"x":2179,"y":219,"w":25,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":101,"w":25,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_2.png",
+	"frame": {"x":2,"y":2,"w":64,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":89,"w":64,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_20.png",
+	"frame": {"x":107,"y":58,"w":51,"h":12},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":89,"w":51,"h":12},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_200.png",
+	"frame": {"x":2202,"y":187,"w":25,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":101,"w":25,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_201.png",
+	"frame": {"x":2222,"y":153,"w":25,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":101,"w":25,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_202.png",
+	"frame": {"x":2237,"y":122,"w":25,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":101,"w":25,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_203.png",
+	"frame": {"x":2254,"y":91,"w":25,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":101,"w":25,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_204.png",
+	"frame": {"x":2271,"y":61,"w":25,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":101,"w":25,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_205.png",
+	"frame": {"x":2273,"y":31,"w":25,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":101,"w":25,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_206.png",
+	"frame": {"x":1303,"y":150,"w":21,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":93,"w":21,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_207.png",
+	"frame": {"x":1054,"y":192,"w":16,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":92,"w":16,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_208.png",
+	"frame": {"x":416,"y":178,"w":15,"h":38},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":91,"w":15,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_209.png",
+	"frame": {"x":449,"y":239,"w":15,"h":38},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":91,"w":15,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_21.png",
+	"frame": {"x":277,"y":243,"w":44,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":90,"w":44,"h":11},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_210.png",
+	"frame": {"x":802,"y":122,"w":16,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":91,"w":16,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_211.png",
+	"frame": {"x":806,"y":82,"w":16,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":91,"w":16,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_212.png",
+	"frame": {"x":366,"y":240,"w":14,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":88,"w":14,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_213.png",
+	"frame": {"x":373,"y":178,"w":15,"h":41},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":87,"w":15,"h":41},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_214.png",
+	"frame": {"x":621,"y":195,"w":16,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":88,"w":16,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_215.png",
+	"frame": {"x":1349,"y":113,"w":16,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":93,"w":16,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_216.png",
+	"frame": {"x":489,"y":239,"w":15,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":95,"w":15,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_217.png",
+	"frame": {"x":1341,"y":76,"w":17,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":93,"w":17,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_218.png",
+	"frame": {"x":996,"y":192,"w":18,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":92,"w":18,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_219.png",
+	"frame": {"x":1311,"y":187,"w":21,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":93,"w":21,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_22.png",
+	"frame": {"x":70,"y":2,"w":55,"h":11},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":92,"w":55,"h":11},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_220.png",
+	"frame": {"x":1073,"y":228,"w":26,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":93,"w":26,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_221.png",
+	"frame": {"x":846,"y":41,"w":23,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":91,"w":23,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_222.png",
+	"frame": {"x":906,"y":195,"w":21,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":91,"w":21,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_223.png",
+	"frame": {"x":883,"y":234,"w":20,"h":37},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":91,"w":20,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_224.png",
+	"frame": {"x":922,"y":234,"w":20,"h":37},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":91,"w":20,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_225.png",
+	"frame": {"x":929,"y":195,"w":21,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":91,"w":21,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_226.png",
+	"frame": {"x":895,"y":41,"w":21,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":91,"w":21,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_227.png",
+	"frame": {"x":1853,"y":104,"w":23,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":96,"w":23,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_228.png",
+	"frame": {"x":2151,"y":158,"w":22,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":99,"w":22,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_229.png",
+	"frame": {"x":224,"y":133,"w":16,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":80,"w":16,"h":47},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_23.png",
+	"frame": {"x":200,"y":54,"w":50,"h":13},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":90,"w":50,"h":13},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_230.png",
+	"frame": {"x":350,"y":48,"w":17,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":81,"w":17,"h":44},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_231.png",
+	"frame": {"x":499,"y":132,"w":19,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":86,"w":19,"h":41},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_232.png",
+	"frame": {"x":1458,"y":38,"w":25,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":96,"w":25,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_233.png",
+	"frame": {"x":1724,"y":107,"w":22,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":97,"w":22,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_234.png",
+	"frame": {"x":1751,"y":2,"w":19,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":97,"w":19,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_235.png",
+	"frame": {"x":1748,"y":107,"w":19,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":97,"w":19,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_236.png",
+	"frame": {"x":1771,"y":72,"w":18,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":97,"w":18,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_237.png",
+	"frame": {"x":810,"y":42,"w":16,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":91,"w":16,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_238.png",
+	"frame": {"x":812,"y":2,"w":16,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":91,"w":16,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_239.png",
+	"frame": {"x":820,"y":122,"w":16,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":91,"w":16,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_24.png",
+	"frame": {"x":289,"y":180,"w":40,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":90,"w":40,"h":13},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_240.png",
+	"frame": {"x":824,"y":82,"w":16,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":91,"w":16,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_241.png",
+	"frame": {"x":838,"y":122,"w":16,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":91,"w":16,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_242.png",
+	"frame": {"x":930,"y":2,"w":17,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":92,"w":17,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_243.png",
+	"frame": {"x":918,"y":80,"w":17,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":92,"w":17,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_244.png",
+	"frame": {"x":928,"y":119,"w":17,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":92,"w":17,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_245.png",
+	"frame": {"x":783,"y":122,"w":17,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":91,"w":17,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_246.png",
+	"frame": {"x":1453,"y":219,"w":24,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":24,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_247.png",
+	"frame": {"x":1402,"y":111,"w":27,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":94,"w":27,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_248.png",
+	"frame": {"x":2337,"y":2,"w":24,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":104,"w":24,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_249.png",
+	"frame": {"x":2285,"y":2,"w":27,"h":25},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":104,"w":27,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_25.png",
+	"frame": {"x":408,"y":240,"w":39,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":89,"w":39,"h":13},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_250.png",
+	"frame": {"x":1959,"y":167,"w":24,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":89,"w":24,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_251.png",
+	"frame": {"x":1953,"y":35,"w":27,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":90,"w":27,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_252.png",
+	"frame": {"x":2008,"y":68,"w":18,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":89,"w":18,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_253.png",
+	"frame": {"x":1902,"y":2,"w":20,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":89,"w":20,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_254.png",
+	"frame": {"x":1591,"y":2,"w":22,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":94,"w":22,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_255.png",
+	"frame": {"x":1672,"y":107,"w":24,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":95,"w":24,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_256.png",
+	"frame": {"x":1660,"y":177,"w":24,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":95,"w":24,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_257.png",
+	"frame": {"x":1686,"y":142,"w":24,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":95,"w":24,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_258.png",
+	"frame": {"x":1176,"y":39,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_259.png",
+	"frame": {"x":933,"y":158,"w":32,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":93,"w":32,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_26.png",
+	"frame": {"x":145,"y":185,"w":50,"h":9},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":89,"w":50,"h":9},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_260.png",
+	"frame": {"x":1120,"y":39,"w":27,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":93,"w":27,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_261.png",
+	"frame": {"x":1516,"y":74,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":23,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_262.png",
+	"frame": {"x":2123,"y":96,"w":25,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":99,"w":25,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_263.png",
+	"frame": {"x":1146,"y":225,"w":29,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":96,"w":29,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_264.png",
+	"frame": {"x":1096,"y":2,"w":29,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":93,"w":29,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_265.png",
+	"frame": {"x":1795,"y":211,"w":29,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":96,"w":29,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_266.png",
+	"frame": {"x":1844,"y":175,"w":28,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":96,"w":28,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_267.png",
+	"frame": {"x":1156,"y":2,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":93,"w":25,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_268.png",
+	"frame": {"x":1538,"y":38,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":23,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_269.png",
+	"frame": {"x":1183,"y":2,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_27.png",
+	"frame": {"x":512,"y":45,"w":41,"h":9},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":90,"w":41,"h":9},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_270.png",
+	"frame": {"x":1026,"y":78,"w":21,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":92,"w":21,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_271.png",
+	"frame": {"x":1099,"y":114,"w":28,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":93,"w":28,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_272.png",
+	"frame": {"x":1093,"y":152,"w":29,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":93,"w":29,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_273.png",
+	"frame": {"x":1163,"y":187,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_274.png",
+	"frame": {"x":1356,"y":187,"w":19,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":93,"w":19,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_275.png",
+	"frame": {"x":1761,"y":142,"w":19,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":90,"w":19,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_276.png",
+	"frame": {"x":1541,"y":2,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":93,"w":23,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_277.png",
+	"frame": {"x":309,"y":2,"w":23,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":84,"w":23,"h":44},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_278.png",
+	"frame": {"x":326,"y":48,"w":22,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":84,"w":22,"h":44},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_279.png",
+	"frame": {"x":426,"y":133,"w":25,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":86,"w":25,"h":42},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_28.png",
+	"frame": {"x":59,"y":2,"w":56,"h":9},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":92,"w":56,"h":9},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_280.png",
+	"frame": {"x":1127,"y":2,"w":27,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":93,"w":27,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_281.png",
+	"frame": {"x":961,"y":234,"w":20,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":92,"w":20,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_282.png",
+	"frame": {"x":1040,"y":2,"w":20,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":92,"w":20,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_283.png",
+	"frame": {"x":1179,"y":150,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_284.png",
+	"frame": {"x":1672,"y":37,"w":25,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":95,"w":25,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_285.png",
+	"frame": {"x":1823,"y":70,"w":25,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":96,"w":25,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_286.png",
+	"frame": {"x":247,"y":195,"w":46,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":96,"w":46,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_287.png",
+	"frame": {"x":275,"y":2,"w":44,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":96,"w":44,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_288.png",
+	"frame": {"x":1062,"y":2,"w":35,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":96,"w":35,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_289.png",
+	"frame": {"x":938,"y":41,"w":36,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":96,"w":36,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_29.png",
+	"frame": {"x":241,"y":182,"w":46,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":90,"w":46,"h":11},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_290.png",
+	"frame": {"x":1761,"y":212,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":96,"w":32,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_291.png",
+	"frame": {"x":1848,"y":36,"w":25,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":96,"w":25,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_292.png",
+	"frame": {"x":1792,"y":36,"w":26,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":96,"w":26,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_293.png",
+	"frame": {"x":1674,"y":2,"w":25,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":95,"w":25,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_294.png",
+	"frame": {"x":1876,"y":2,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":96,"w":24,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_295.png",
+	"frame": {"x":1232,"y":2,"w":22,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":93,"w":22,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_296.png",
+	"frame": {"x":790,"y":42,"w":18,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":90,"w":18,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_297.png",
+	"frame": {"x":828,"y":42,"w":16,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":89,"w":16,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_298.png",
+	"frame": {"x":738,"y":42,"w":25,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":88,"w":25,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_299.png",
+	"frame": {"x":758,"y":82,"w":23,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":89,"w":23,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_3.png",
+	"frame": {"x":24,"y":133,"w":61,"h":37},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":89,"w":61,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_30.png",
+	"frame": {"x":1360,"y":76,"w":35,"h":11},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":89,"w":35,"h":11},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_300.png",
+	"frame": {"x":871,"y":41,"w":22,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":90,"w":22,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_301.png",
+	"frame": {"x":1014,"y":2,"w":24,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":92,"w":24,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_302.png",
+	"frame": {"x":2171,"y":127,"w":22,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":99,"w":22,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_303.png",
+	"frame": {"x":1877,"y":70,"w":23,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":96,"w":23,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_304.png",
+	"frame": {"x":2295,"y":231,"w":24,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":106,"w":24,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_305.png",
+	"frame": {"x":2119,"y":130,"w":30,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":106,"w":30,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_306.png",
+	"frame": {"x":2255,"y":180,"w":26,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":106,"w":26,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_307.png",
+	"frame": {"x":2070,"y":229,"w":25,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":98,"w":25,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_308.png",
+	"frame": {"x":1845,"y":140,"w":28,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":96,"w":28,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_309.png",
+	"frame": {"x":603,"y":128,"w":33,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":89,"w":33,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_31.png",
+	"frame": {"x":192,"y":246,"w":39,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":89,"w":39,"h":8},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_310.png",
+	"frame": {"x":242,"y":133,"w":37,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":83,"w":37,"h":45},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_311.png",
+	"frame": {"x":195,"y":196,"w":26,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":81,"w":26,"h":47},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_312.png",
+	"frame": {"x":1110,"y":226,"w":28,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":94,"w":28,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_313.png",
+	"frame": {"x":1983,"y":2,"w":25,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":97,"w":25,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_314.png",
+	"frame": {"x":2232,"y":211,"w":23,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":103,"w":23,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_315.png",
+	"frame": {"x":1671,"y":72,"w":33,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":103,"w":33,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_316.png",
+	"frame": {"x":1821,"y":2,"w":32,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":103,"w":32,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_317.png",
+	"frame": {"x":2206,"y":216,"w":24,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":102,"w":24,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_318.png",
+	"frame": {"x":2374,"y":56,"w":22,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":105,"w":22,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_319.png",
+	"frame": {"x":2346,"y":221,"w":23,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":105,"w":23,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_32.png",
+	"frame": {"x":148,"y":247,"w":42,"h":7},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":88,"w":42,"h":7},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_320.png",
+	"frame": {"x":2352,"y":29,"w":25,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":106,"w":25,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_321.png",
+	"frame": {"x":2216,"y":123,"w":28,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":109,"w":28,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_322.png",
+	"frame": {"x":254,"y":2,"w":45,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":109,"w":45,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_323.png",
+	"frame": {"x":447,"y":46,"w":42,"h":20},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":108,"w":42,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_324.png",
+	"frame": {"x":2009,"y":167,"w":31,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":106,"w":31,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_325.png",
+	"frame": {"x":2397,"y":101,"w":22,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":105,"w":22,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_326.png",
+	"frame": {"x":2307,"y":200,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":104,"w":24,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_327.png",
+	"frame": {"x":2397,"y":126,"w":22,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":105,"w":22,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_328.png",
+	"frame": {"x":1712,"y":142,"w":23,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":88,"w":23,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_329.png",
+	"frame": {"x":1407,"y":74,"w":27,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":89,"w":27,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_33.png",
+	"frame": {"x":112,"y":188,"w":31,"h":6},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":88,"w":31,"h":6},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_330.png",
+	"frame": {"x":880,"y":195,"w":24,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":86,"w":24,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_331.png",
+	"frame": {"x":742,"y":2,"w":24,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":85,"w":24,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_332.png",
+	"frame": {"x":1124,"y":151,"w":26,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":88,"w":26,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_333.png",
+	"frame": {"x":1902,"y":36,"w":20,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":81,"w":20,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_334.png",
+	"frame": {"x":1590,"y":74,"w":20,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":80,"w":20,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_335.png",
+	"frame": {"x":415,"y":195,"w":27,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":79,"w":27,"h":42},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_336.png",
+	"frame": {"x":1059,"y":154,"w":32,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":86,"w":32,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_337.png",
+	"frame": {"x":973,"y":78,"w":25,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":86,"w":25,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_338.png",
+	"frame": {"x":842,"y":82,"w":26,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":85,"w":26,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_339.png",
+	"frame": {"x":581,"y":170,"w":23,"h":39},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":85,"w":23,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_34.png",
+	"frame": {"x":422,"y":46,"w":42,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":79,"w":42,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_340.png",
+	"frame": {"x":281,"y":195,"w":23,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":81,"w":23,"h":46},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_341.png",
+	"frame": {"x":153,"y":54,"w":22,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":78,"w":22,"h":50},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_342.png",
+	"frame": {"x":177,"y":54,"w":21,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":78,"w":21,"h":50},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_343.png",
+	"frame": {"x":180,"y":2,"w":21,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":78,"w":21,"h":50},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_344.png",
+	"frame": {"x":1407,"y":183,"w":26,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":89,"w":26,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_345.png",
+	"frame": {"x":663,"y":167,"w":26,"h":39},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":86,"w":26,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_346.png",
+	"frame": {"x":674,"y":195,"w":26,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":85,"w":26,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_347.png",
+	"frame": {"x":574,"y":195,"w":26,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":84,"w":26,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_348.png",
+	"frame": {"x":702,"y":195,"w":26,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":85,"w":26,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_349.png",
+	"frame": {"x":543,"y":195,"w":29,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":83,"w":29,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_35.png",
+	"frame": {"x":63,"y":133,"w":54,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":79,"w":54,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_350.png",
+	"frame": {"x":395,"y":47,"w":25,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":81,"w":25,"h":42},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_351.png",
+	"frame": {"x":972,"y":40,"w":30,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":88,"w":30,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_352.png",
+	"frame": {"x":1367,"y":113,"w":33,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":87,"w":33,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_353.png",
+	"frame": {"x":2125,"y":193,"w":28,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":88,"w":28,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_354.png",
+	"frame": {"x":1642,"y":37,"w":33,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":87,"w":33,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_355.png",
+	"frame": {"x":1655,"y":215,"w":33,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":84,"w":33,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_356.png",
+	"frame": {"x":1287,"y":224,"w":30,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":83,"w":30,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_357.png",
+	"frame": {"x":215,"y":53,"w":31,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":80,"w":31,"h":45},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_358.png",
+	"frame": {"x":116,"y":2,"w":30,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":78,"w":30,"h":50},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_359.png",
+	"frame": {"x":121,"y":54,"w":30,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":78,"w":30,"h":50},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_36.png",
+	"frame": {"x":2,"y":197,"w":57,"h":50},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":79,"w":57,"h":50},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_360.png",
+	"frame": {"x":148,"y":2,"w":30,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":78,"w":30,"h":50},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_361.png",
+	"frame": {"x":1462,"y":2,"w":25,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":94,"w":25,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_362.png",
+	"frame": {"x":1426,"y":219,"w":25,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":94,"w":25,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_363.png",
+	"frame": {"x":1781,"y":177,"w":30,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":96,"w":30,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_364.png",
+	"frame": {"x":1813,"y":176,"w":29,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":96,"w":29,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_365.png",
+	"frame": {"x":1698,"y":107,"w":24,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":95,"w":24,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_366.png",
+	"frame": {"x":1435,"y":183,"w":25,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":94,"w":25,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_367.png",
+	"frame": {"x":1135,"y":188,"w":26,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":93,"w":26,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_368.png",
+	"frame": {"x":858,"y":2,"w":23,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":91,"w":23,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_369.png",
+	"frame": {"x":907,"y":2,"w":21,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":91,"w":21,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_37.png",
+	"frame": {"x":55,"y":64,"w":59,"h":50},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":79,"w":59,"h":50},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_370.png",
+	"frame": {"x":1016,"y":192,"w":17,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":92,"w":17,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_371.png",
+	"frame": {"x":1429,"y":38,"w":27,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":94,"w":27,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_372.png",
+	"frame": {"x":1458,"y":146,"w":25,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":94,"w":25,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_373.png",
+	"frame": {"x":513,"y":2,"w":40,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":94,"w":40,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_374.png",
+	"frame": {"x":688,"y":125,"w":38,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":94,"w":38,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_375.png",
+	"frame": {"x":730,"y":195,"w":38,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":94,"w":38,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_376.png",
+	"frame": {"x":1049,"y":78,"w":32,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":93,"w":32,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_377.png",
+	"frame": {"x":977,"y":116,"w":25,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":92,"w":25,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_378.png",
+	"frame": {"x":1902,"y":70,"w":19,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":19,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_379.png",
+	"frame": {"x":1188,"y":187,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_38.png",
+	"frame": {"x":54,"y":196,"w":58,"h":50},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":79,"w":58,"h":50},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_380.png",
+	"frame": {"x":639,"y":195,"w":39,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":95,"w":39,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_381.png",
+	"frame": {"x":694,"y":84,"w":38,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":94,"w":38,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_382.png",
+	"frame": {"x":1250,"y":39,"w":22,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":93,"w":22,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_383.png",
+	"frame": {"x":2176,"y":95,"w":22,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":100,"w":22,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_384.png",
+	"frame": {"x":2139,"y":65,"w":25,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":99,"w":25,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_385.png",
+	"frame": {"x":2363,"y":2,"w":25,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":106,"w":25,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_386.png",
+	"frame": {"x":2283,"y":204,"w":25,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":106,"w":25,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_387.png",
+	"frame": {"x":2347,"y":140,"w":24,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":106,"w":24,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_388.png",
+	"frame": {"x":2133,"y":224,"w":29,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":104,"w":29,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_389.png",
+	"frame": {"x":1983,"y":68,"w":31,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":108,"w":31,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_39.png",
+	"frame": {"x":203,"y":2,"w":49,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":80,"w":49,"h":49},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_390.png",
+	"frame": {"x":204,"y":133,"w":47,"h":18},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":111,"w":47,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_391.png",
+	"frame": {"x":274,"y":49,"w":45,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":111,"w":45,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_392.png",
+	"frame": {"x":650,"y":236,"w":39,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":111,"w":39,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_393.png",
+	"frame": {"x":710,"y":42,"w":26,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":85,"w":26,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_394.png",
+	"frame": {"x":1772,"y":2,"w":18,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":88,"w":18,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_395.png",
+	"frame": {"x":1738,"y":212,"w":21,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":87,"w":21,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_396.png",
+	"frame": {"x":824,"y":195,"w":37,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":86,"w":37,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_397.png",
+	"frame": {"x":967,"y":156,"w":36,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":85,"w":36,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_398.png",
+	"frame": {"x":852,"y":195,"w":37,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":86,"w":37,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_399.png",
+	"frame": {"x":649,"y":84,"w":22,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":84,"w":22,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_4.png",
+	"frame": {"x":83,"y":2,"w":54,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":94,"w":54,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_40.png",
+	"frame": {"x":127,"y":133,"w":50,"h":39},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":91,"w":50,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_400.png",
+	"frame": {"x":765,"y":42,"w":23,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":85,"w":23,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_401.png",
+	"frame": {"x":670,"y":2,"w":19,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":85,"w":19,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_402.png",
+	"frame": {"x":304,"y":133,"w":20,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":79,"w":20,"h":44},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_403.png",
+	"frame": {"x":382,"y":133,"w":20,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":80,"w":20,"h":43},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_404.png",
+	"frame": {"x":404,"y":133,"w":20,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":80,"w":20,"h":43},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_405.png",
+	"frame": {"x":1712,"y":177,"w":23,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":95,"w":23,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_406.png",
+	"frame": {"x":1578,"y":218,"w":20,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":94,"w":20,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_407.png",
+	"frame": {"x":1322,"y":224,"w":30,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":95,"w":30,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_408.png",
+	"frame": {"x":1609,"y":110,"w":32,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":95,"w":32,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_409.png",
+	"frame": {"x":549,"y":2,"w":40,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":96,"w":40,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_41.png",
+	"frame": {"x":94,"y":133,"w":53,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":90,"w":53,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_410.png",
+	"frame": {"x":297,"y":94,"w":31,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":91,"w":31,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_411.png",
+	"frame": {"x":1430,"y":147,"w":26,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":94,"w":26,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_412.png",
+	"frame": {"x":2088,"y":34,"w":22,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":98,"w":22,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_413.png",
+	"frame": {"x":1849,"y":2,"w":25,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":97,"w":25,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_414.png",
+	"frame": {"x":1737,"y":142,"w":22,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":95,"w":22,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_415.png",
+	"frame": {"x":1334,"y":187,"w":20,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":93,"w":20,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_416.png",
+	"frame": {"x":1184,"y":113,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_417.png",
+	"frame": {"x":2020,"y":200,"w":19,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":95,"w":19,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_418.png",
+	"frame": {"x":2195,"y":126,"w":19,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":95,"w":19,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_419.png",
+	"frame": {"x":1256,"y":2,"w":22,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":22,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_42.png",
+	"frame": {"x":1035,"y":192,"w":36,"h":17},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":104,"w":36,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_420.png",
+	"frame": {"x":895,"y":158,"w":35,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":92,"w":35,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_421.png",
+	"frame": {"x":1319,"y":39,"w":20,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":20,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_422.png",
+	"frame": {"x":1117,"y":76,"w":28,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":93,"w":28,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_423.png",
+	"frame": {"x":937,"y":80,"w":34,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":92,"w":34,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_424.png",
+	"frame": {"x":883,"y":2,"w":22,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":91,"w":22,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_425.png",
+	"frame": {"x":983,"y":2,"w":29,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":92,"w":29,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_426.png",
+	"frame": {"x":666,"y":43,"w":39,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":101,"w":39,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_427.png",
+	"frame": {"x":724,"y":124,"w":33,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":90,"w":33,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_428.png",
+	"frame": {"x":2235,"y":2,"w":21,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":100,"w":21,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_429.png",
+	"frame": {"x":2333,"y":195,"w":22,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":104,"w":22,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_43.png",
+	"frame": {"x":456,"y":177,"w":41,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":117,"w":41,"h":16},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_430.png",
+	"frame": {"x":2376,"y":29,"w":23,"h":20},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":108,"w":23,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_431.png",
+	"frame": {"x":2220,"y":63,"w":22,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":100,"w":22,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_432.png",
+	"frame": {"x":1462,"y":182,"w":24,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":24,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_433.png",
+	"frame": {"x":1645,"y":2,"w":27,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":95,"w":27,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_434.png",
+	"frame": {"x":1748,"y":72,"w":21,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":95,"w":21,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_435.png",
+	"frame": {"x":602,"y":44,"w":39,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":96,"w":39,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_436.png",
+	"frame": {"x":1401,"y":2,"w":34,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":96,"w":34,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_437.png",
+	"frame": {"x":2028,"y":34,"w":29,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":96,"w":29,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_438.png",
+	"frame": {"x":2140,"y":33,"w":25,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":96,"w":25,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_439.png",
+	"frame": {"x":970,"y":194,"w":24,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":89,"w":24,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_44.png",
+	"frame": {"x":581,"y":86,"w":40,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":117,"w":40,"h":16},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_440.png",
+	"frame": {"x":1129,"y":113,"w":26,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":89,"w":26,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_441.png",
+	"frame": {"x":1737,"y":177,"w":22,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":90,"w":22,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_442.png",
+	"frame": {"x":607,"y":2,"w":39,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":90,"w":39,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_443.png",
+	"frame": {"x":1369,"y":149,"w":34,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":90,"w":34,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_444.png",
+	"frame": {"x":2042,"y":2,"w":29,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":91,"w":29,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_445.png",
+	"frame": {"x":2059,"y":66,"w":25,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":90,"w":25,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_446.png",
+	"frame": {"x":391,"y":93,"w":35,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":86,"w":35,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_447.png",
+	"frame": {"x":330,"y":94,"w":30,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":85,"w":30,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_448.png",
+	"frame": {"x":710,"y":2,"w":30,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":84,"w":30,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_449.png",
+	"frame": {"x":345,"y":133,"w":35,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":84,"w":35,"h":43},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_45.png",
+	"frame": {"x":691,"y":236,"w":38,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":116,"w":38,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_450.png",
+	"frame": {"x":870,"y":80,"w":37,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":97,"w":37,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_451.png",
+	"frame": {"x":472,"y":133,"w":25,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":87,"w":25,"h":41},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_452.png",
+	"frame": {"x":553,"y":128,"w":25,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":87,"w":25,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_453.png",
+	"frame": {"x":1875,"y":138,"w":23,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":96,"w":23,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_454.png",
+	"frame": {"x":2065,"y":162,"w":27,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":98,"w":27,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_455.png",
+	"frame": {"x":2154,"y":2,"w":25,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":99,"w":25,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_456.png",
+	"frame": {"x":2167,"y":33,"w":29,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":105,"w":29,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_457.png",
+	"frame": {"x":2305,"y":173,"w":25,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":106,"w":25,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_458.png",
+	"frame": {"x":792,"y":2,"w":18,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":90,"w":18,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_459.png",
+	"frame": {"x":1087,"y":39,"w":35,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":93,"w":35,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_46.png",
+	"frame": {"x":1028,"y":116,"w":36,"h":17},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":117,"w":36,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_460.png",
+	"frame": {"x":2010,"y":2,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":98,"w":30,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_461.png",
+	"frame": {"x":2008,"y":101,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":98,"w":30,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_462.png",
+	"frame": {"x":1857,"y":209,"w":28,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":96,"w":28,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_463.png",
+	"frame": {"x":1850,"y":70,"w":25,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":96,"w":25,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_464.png",
+	"frame": {"x":2155,"y":189,"w":22,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":99,"w":22,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_465.png",
+	"frame": {"x":1878,"y":104,"w":23,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":96,"w":23,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_466.png",
+	"frame": {"x":1004,"y":116,"w":22,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":89,"w":22,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_467.png",
+	"frame": {"x":1769,"y":107,"w":19,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":89,"w":19,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_468.png",
+	"frame": {"x":2200,"y":93,"w":24,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":89,"w":24,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_469.png",
+	"frame": {"x":2226,"y":93,"w":27,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":89,"w":27,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_47.png",
+	"frame": {"x":770,"y":235,"w":35,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":116,"w":35,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_470.png",
+	"frame": {"x":638,"y":126,"w":27,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":85,"w":27,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_471.png",
+	"frame": {"x":557,"y":44,"w":25,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":83,"w":25,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_472.png",
+	"frame": {"x":529,"y":86,"w":26,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":83,"w":26,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_473.png",
+	"frame": {"x":1485,"y":146,"w":24,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":94,"w":24,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_474.png",
+	"frame": {"x":1875,"y":36,"w":25,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":25,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_475.png",
+	"frame": {"x":1887,"y":208,"w":32,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":99,"w":32,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_476.png",
+	"frame": {"x":399,"y":2,"w":42,"h":24},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":104,"w":42,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_477.png",
+	"frame": {"x":449,"y":2,"w":42,"h":20},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":108,"w":42,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_478.png",
+	"frame": {"x":524,"y":195,"w":41,"h":17},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":111,"w":41,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_479.png",
+	"frame": {"x":499,"y":175,"w":40,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":111,"w":40,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_48.png",
+	"frame": {"x":1586,"y":182,"w":34,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":116,"w":34,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_480.png",
+	"frame": {"x":2275,"y":149,"w":26,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":92,"w":26,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_481.png",
+	"frame": {"x":2357,"y":113,"w":24,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":92,"w":24,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_482.png",
+	"frame": {"x":2373,"y":164,"w":23,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":93,"w":23,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_483.png",
+	"frame": {"x":2281,"y":90,"w":26,"h":25},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":92,"w":26,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_484.png",
+	"frame": {"x":949,"y":2,"w":36,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":91,"w":36,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_485.png",
+	"frame": {"x":1072,"y":191,"w":35,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":90,"w":35,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_486.png",
+	"frame": {"x":1065,"y":115,"w":35,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":90,"w":35,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_487.png",
+	"frame": {"x":858,"y":160,"w":35,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":89,"w":35,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_488.png",
+	"frame": {"x":1925,"y":136,"w":29,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":90,"w":29,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_489.png",
+	"frame": {"x":1983,"y":134,"w":22,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":97,"w":22,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_49.png",
+	"frame": {"x":2009,"y":35,"w":31,"h":17},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":118,"w":31,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_490.png",
+	"frame": {"x":2071,"y":98,"w":25,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":96,"w":25,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_491.png",
+	"frame": {"x":636,"y":43,"w":39,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":100,"w":39,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_492.png",
+	"frame": {"x":580,"y":128,"w":40,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":101,"w":40,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_493.png",
+	"frame": {"x":766,"y":195,"w":33,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":90,"w":33,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_494.png",
+	"frame": {"x":2222,"y":32,"w":22,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":100,"w":22,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_495.png",
+	"frame": {"x":2329,"y":169,"w":23,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":104,"w":23,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_496.png",
+	"frame": {"x":2398,"y":76,"w":23,"h":20},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":108,"w":23,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_497.png",
+	"frame": {"x":2179,"y":189,"w":21,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":100,"w":21,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_498.png",
+	"frame": {"x":1956,"y":101,"w":25,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":97,"w":25,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_499.png",
+	"frame": {"x":2199,"y":157,"w":28,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":92,"w":28,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_5.png",
+	"frame": {"x":28,"y":68,"w":61,"h":25},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":95,"w":61,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_50.png",
+	"frame": {"x":1903,"y":104,"w":32,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":117,"w":32,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_500.png",
+	"frame": {"x":281,"y":133,"w":45,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":93,"w":45,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_501.png",
+	"frame": {"x":306,"y":195,"w":45,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":93,"w":45,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_502.png",
+	"frame": {"x":350,"y":195,"w":43,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":95,"w":43,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_503.png",
+	"frame": {"x":374,"y":2,"w":43,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":94,"w":43,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_504.png",
+	"frame": {"x":369,"y":48,"w":43,"h":24},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":93,"w":43,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_505.png",
+	"frame": {"x":2031,"y":133,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":97,"w":30,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_506.png",
+	"frame": {"x":2350,"y":57,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":98,"w":22,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_507.png",
+	"frame": {"x":1954,"y":2,"w":27,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":97,"w":27,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_508.png",
+	"frame": {"x":2028,"y":66,"w":29,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":97,"w":29,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_509.png",
+	"frame": {"x":2299,"y":146,"w":23,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":98,"w":23,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_51.png",
+	"frame": {"x":1600,"y":218,"w":34,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":116,"w":34,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_510.png",
+	"frame": {"x":1940,"y":202,"w":28,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":97,"w":28,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_511.png",
+	"frame": {"x":1357,"y":224,"w":32,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":98,"w":32,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_512.png",
+	"frame": {"x":2033,"y":165,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":98,"w":30,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_513.png",
+	"frame": {"x":1814,"y":141,"w":29,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":96,"w":29,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_514.png",
+	"frame": {"x":1822,"y":106,"w":29,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":96,"w":29,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_515.png",
+	"frame": {"x":2175,"y":158,"w":22,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":99,"w":22,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_516.png",
+	"frame": {"x":1900,"y":138,"w":23,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":96,"w":23,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_517.png",
+	"frame": {"x":908,"y":119,"w":18,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":91,"w":18,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_518.png",
+	"frame": {"x":168,"y":133,"w":34,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":79,"w":34,"h":49},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_519.png",
+	"frame": {"x":148,"y":196,"w":19,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":79,"w":19,"h":49},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_52.png",
+	"frame": {"x":807,"y":235,"w":35,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":115,"w":35,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_520.png",
+	"frame": {"x":108,"y":111,"w":20,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":79,"w":20,"h":49},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_521.png",
+	"frame": {"x":169,"y":196,"w":24,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":80,"w":24,"h":48},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_522.png",
+	"frame": {"x":520,"y":131,"w":31,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":84,"w":31,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_523.png",
+	"frame": {"x":295,"y":48,"w":29,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":78,"w":29,"h":44},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_524.png",
+	"frame": {"x":223,"y":195,"w":22,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":76,"w":22,"h":47},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_525.png",
+	"frame": {"x":248,"y":53,"w":24,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":83,"w":24,"h":45},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_526.png",
+	"frame": {"x":1459,"y":110,"w":25,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":25,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_527.png",
+	"frame": {"x":1642,"y":72,"w":27,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":95,"w":27,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_528.png",
+	"frame": {"x":2063,"y":130,"w":28,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":97,"w":28,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_529.png",
+	"frame": {"x":1985,"y":167,"w":22,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":98,"w":22,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_53.png",
+	"frame": {"x":844,"y":234,"w":37,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":114,"w":37,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_530.png",
+	"frame": {"x":2150,"y":96,"w":24,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":100,"w":24,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_531.png",
+	"frame": {"x":759,"y":122,"w":22,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":90,"w":22,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_532.png",
+	"frame": {"x":1053,"y":40,"w":32,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":89,"w":32,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_533.png",
+	"frame": {"x":730,"y":82,"w":38,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":92,"w":38,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_534.png",
+	"frame": {"x":1373,"y":75,"w":34,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":89,"w":34,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_535.png",
+	"frame": {"x":830,"y":2,"w":26,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":85,"w":26,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_536.png",
+	"frame": {"x":2112,"y":34,"w":29,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":94,"w":29,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_537.png",
+	"frame": {"x":1726,"y":2,"w":33,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":94,"w":33,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_538.png",
+	"frame": {"x":2229,"y":182,"w":27,"h":24},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":93,"w":27,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_539.png",
+	"frame": {"x":820,"y":162,"w":36,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":93,"w":36,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_54.png",
+	"frame": {"x":689,"y":43,"w":39,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":114,"w":39,"h":19},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_540.png",
+	"frame": {"x":856,"y":121,"w":37,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":92,"w":37,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_541.png",
+	"frame": {"x":1083,"y":77,"w":35,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":89,"w":35,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_542.png",
+	"frame": {"x":362,"y":94,"w":27,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":85,"w":27,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_543.png",
+	"frame": {"x":2126,"y":2,"w":29,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":94,"w":29,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_544.png",
+	"frame": {"x":1904,"y":172,"w":32,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":32,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_545.png",
+	"frame": {"x":2249,"y":151,"w":27,"h":24},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":93,"w":27,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_546.png",
+	"frame": {"x":704,"y":165,"w":28,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":86,"w":28,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_547.png",
+	"frame": {"x":783,"y":82,"w":21,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":84,"w":21,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_548.png",
+	"frame": {"x":667,"y":125,"w":19,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":84,"w":19,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_549.png",
+	"frame": {"x":541,"y":173,"w":20,"h":38},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":84,"w":20,"h":38},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_55.png",
+	"frame": {"x":584,"y":44,"w":40,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":116,"w":40,"h":16},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_550.png",
+	"frame": {"x":673,"y":84,"w":19,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":84,"w":19,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_551.png",
+	"frame": {"x":2007,"y":134,"w":22,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":97,"w":22,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_552.png",
+	"frame": {"x":2144,"y":127,"w":25,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":97,"w":25,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_553.png",
+	"frame": {"x":742,"y":164,"w":38,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":94,"w":38,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_554.png",
+	"frame": {"x":947,"y":118,"w":28,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":86,"w":28,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_555.png",
+	"frame": {"x":1486,"y":110,"w":24,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":24,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_556.png",
+	"frame": {"x":1463,"y":74,"w":25,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":25,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_557.png",
+	"frame": {"x":1490,"y":74,"w":24,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":24,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_558.png",
+	"frame": {"x":1772,"y":37,"w":18,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":91,"w":18,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_559.png",
+	"frame": {"x":1749,"y":37,"w":21,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":88,"w":21,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_56.png",
+	"frame": {"x":567,"y":237,"w":40,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":115,"w":40,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_560.png",
+	"frame": {"x":824,"y":195,"w":37,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":86,"w":37,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_561.png",
+	"frame": {"x":967,"y":156,"w":36,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":85,"w":36,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_562.png",
+	"frame": {"x":852,"y":195,"w":37,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":86,"w":37,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_563.png",
+	"frame": {"x":622,"y":169,"w":39,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":88,"w":39,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_564.png",
+	"frame": {"x":1180,"y":224,"w":30,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":86,"w":30,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_565.png",
+	"frame": {"x":1216,"y":224,"w":30,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":84,"w":30,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_566.png",
+	"frame": {"x":2040,"y":98,"w":30,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":100,"w":30,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_567.png",
+	"frame": {"x":2166,"y":64,"w":24,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":100,"w":24,"h":29},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_568.png",
+	"frame": {"x":2298,"y":60,"w":24,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":103,"w":24,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_569.png",
+	"frame": {"x":2312,"y":115,"w":23,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":104,"w":23,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_57.png",
+	"frame": {"x":494,"y":2,"w":41,"h":17},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":116,"w":41,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_570.png",
+	"frame": {"x":1325,"y":2,"w":20,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":94,"w":20,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_571.png",
+	"frame": {"x":159,"y":106,"w":25,"h":46},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":82,"w":25,"h":46},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_572.png",
+	"frame": {"x":207,"y":106,"w":25,"h":45},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":83,"w":25,"h":45},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_573.png",
+	"frame": {"x":471,"y":2,"w":21,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":87,"w":21,"h":41},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_574.png",
+	"frame": {"x":952,"y":195,"w":16,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":91,"w":16,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_575.png",
+	"frame": {"x":1626,"y":145,"w":32,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":95,"w":32,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_576.png",
+	"frame": {"x":1627,"y":180,"w":31,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":95,"w":31,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_577.png",
+	"frame": {"x":1615,"y":2,"w":28,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":95,"w":28,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_578.png",
+	"frame": {"x":1106,"y":189,"w":27,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":93,"w":27,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_579.png",
+	"frame": {"x":895,"y":80,"w":21,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":91,"w":21,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_58.png",
+	"frame": {"x":524,"y":238,"w":41,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":117,"w":41,"h":16},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_580.png",
+	"frame": {"x":731,"y":235,"w":19,"h":37},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":91,"w":19,"h":37},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_581.png",
+	"frame": {"x":1021,"y":154,"w":17,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":92,"w":17,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_582.png",
+	"frame": {"x":1504,"y":218,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":94,"w":23,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_583.png",
+	"frame": {"x":1391,"y":221,"w":33,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":95,"w":33,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_584.png",
+	"frame": {"x":1621,"y":218,"w":32,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":95,"w":32,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_585.png",
+	"frame": {"x":1431,"y":110,"w":26,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":94,"w":26,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_586.png",
+	"frame": {"x":1250,"y":76,"w":22,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":22,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_587.png",
+	"frame": {"x":1152,"y":150,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":25,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_588.png",
+	"frame": {"x":1612,"y":73,"w":28,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":95,"w":28,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_589.png",
+	"frame": {"x":1924,"y":2,"w":31,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":100,"w":31,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_59.png",
+	"frame": {"x":511,"y":88,"w":41,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":117,"w":41,"h":16},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_590.png",
+	"frame": {"x":1686,"y":177,"w":24,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":95,"w":24,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_591.png",
+	"frame": {"x":1956,"y":134,"w":25,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":97,"w":25,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_592.png",
+	"frame": {"x":2086,"y":66,"w":24,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":98,"w":24,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_593.png",
+	"frame": {"x":2102,"y":2,"w":22,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":98,"w":22,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_594.png",
+	"frame": {"x":2101,"y":194,"w":22,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":100,"w":22,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_595.png",
+	"frame": {"x":2257,"y":208,"w":24,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":104,"w":24,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_596.png",
+	"frame": {"x":2264,"y":120,"w":27,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":105,"w":27,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_597.png",
+	"frame": {"x":2006,"y":233,"w":30,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":107,"w":30,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_598.png",
+	"frame": {"x":1608,"y":146,"w":34,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":112,"w":34,"h":16},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_599.png",
+	"frame": {"x":1512,"y":38,"w":24,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":91,"w":24,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_6.png",
+	"frame": {"x":2,"y":133,"w":62,"h":20},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":95,"w":62,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_60.png",
+	"frame": {"x":602,"y":195,"w":40,"h":17},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":117,"w":40,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_600.png",
+	"frame": {"x":1820,"y":36,"w":26,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":93,"w":26,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_601.png",
+	"frame": {"x":1970,"y":200,"w":24,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":24,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_602.png",
+	"frame": {"x":1996,"y":200,"w":22,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":94,"w":22,"h":31},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_603.png",
+	"frame": {"x":1377,"y":185,"w":28,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":95,"w":28,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_604.png",
+	"frame": {"x":1643,"y":107,"w":33,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":95,"w":33,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_605.png",
+	"frame": {"x":1983,"y":101,"w":31,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":96,"w":31,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_606.png",
+	"frame": {"x":691,"y":2,"w":17,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":90,"w":17,"h":39},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_607.png",
+	"frame": {"x":1782,"y":142,"w":30,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":95,"w":30,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_608.png",
+	"frame": {"x":999,"y":230,"w":35,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":97,"w":35,"h":24},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_609.png",
+	"frame": {"x":2192,"y":33,"w":28,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":95,"w":28,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_61.png",
+	"frame": {"x":599,"y":86,"w":40,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":117,"w":40,"h":16},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_610.png",
+	"frame": {"x":1047,"y":116,"w":16,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":93,"w":16,"h":36},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_611.png",
+	"frame": {"x":2300,"y":31,"w":24,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":102,"w":24,"h":26},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_612.png",
+	"frame": {"x":1287,"y":187,"w":35,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":105,"w":35,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_613.png",
+	"frame": {"x":1030,"y":40,"w":36,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":105,"w":36,"h":21},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_614.png",
+	"frame": {"x":1341,"y":39,"w":35,"h":18},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":110,"w":35,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_615.png",
+	"frame": {"x":331,"y":179,"w":40,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":115,"w":40,"h":14},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_616.png",
+	"frame": {"x":197,"y":184,"w":42,"h":9},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":119,"w":42,"h":9},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_617.png",
+	"frame": {"x":233,"y":244,"w":42,"h":9},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":120,"w":42,"h":9},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_618.png",
+	"frame": {"x":473,"y":195,"w":42,"h":9},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":120,"w":42,"h":9},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_619.png",
+	"frame": {"x":484,"y":195,"w":42,"h":9},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":120,"w":42,"h":9},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_62.png",
+	"frame": {"x":609,"y":237,"w":39,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":116,"w":39,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_620.png",
+	"frame": {"x":1713,"y":212,"w":23,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":95,"w":23,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_621.png",
+	"frame": {"x":1699,"y":37,"w":23,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":95,"w":23,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_622.png",
+	"frame": {"x":1701,"y":2,"w":23,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":95,"w":23,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_623.png",
+	"frame": {"x":1699,"y":72,"w":23,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":95,"w":23,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_624.png",
+	"frame": {"x":1513,"y":182,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":94,"w":23,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_625.png",
+	"frame": {"x":1724,"y":37,"w":23,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":95,"w":23,"h":33},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_626.png",
+	"frame": {"x":2102,"y":226,"w":29,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":96,"w":29,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_627.png",
+	"frame": {"x":2205,"y":2,"w":28,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":96,"w":28,"h":28},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_628.png",
+	"frame": {"x":1791,"y":72,"w":32,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":95,"w":32,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_629.png",
+	"frame": {"x":1790,"y":107,"w":30,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":95,"w":30,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_63.png",
+	"frame": {"x":918,"y":41,"w":37,"h":18},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":116,"w":37,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_630.png",
+	"frame": {"x":1147,"y":76,"w":26,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":93,"w":26,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_631.png",
+	"frame": {"x":1826,"y":210,"w":29,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":96,"w":29,"h":32},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_632.png",
+	"frame": {"x":2098,"y":98,"w":23,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":98,"w":23,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_633.png",
+	"frame": {"x":2038,"y":233,"w":21,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":98,"w":21,"h":30},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_634.png",
+	"frame": {"x":2308,"y":88,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":103,"w":25,"h":25},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_635.png",
+	"frame": {"x":2073,"y":2,"w":30,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":101,"w":30,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_636.png",
+	"frame": {"x":374,"y":195,"w":43,"h":20},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":103,"w":43,"h":20},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_637.png",
+	"frame": {"x":495,"y":195,"w":41,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":99,"w":41,"h":27},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_638.png",
+	"frame": {"x":444,"y":195,"w":27,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":84,"w":27,"h":42},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_639.png",
+	"frame": {"x":523,"y":44,"w":32,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":87,"w":32,"h":40},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_64.png",
+	"frame": {"x":1040,"y":154,"w":36,"h":17},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":117,"w":36,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_65.png",
+	"frame": {"x":1347,"y":2,"w":35,"h":18},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":116,"w":35,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_66.png",
+	"frame": {"x":1761,"y":177,"w":33,"h":18},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":116,"w":33,"h":18},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_67.png",
+	"frame": {"x":2397,"y":201,"w":20,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":118,"w":20,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_68.png",
+	"frame": {"x":2257,"y":235,"w":19,"h":17},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":118,"w":19,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_69.png",
+	"frame": {"x":2276,"y":235,"w":19,"h":17},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":118,"w":19,"h":17},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_7.png",
+	"frame": {"x":44,"y":2,"w":60,"h":13},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":101,"w":60,"h":13},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_70.png",
+	"frame": {"x":2371,"y":238,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":118,"w":16,"h":16},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_71.png",
+	"frame": {"x":1554,"y":218,"w":22,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":94,"w":22,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_72.png",
+	"frame": {"x":1536,"y":146,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":23,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_73.png",
+	"frame": {"x":1204,"y":150,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_74.png",
+	"frame": {"x":1213,"y":187,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_75.png",
+	"frame": {"x":1200,"y":76,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_76.png",
+	"frame": {"x":1537,"y":110,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":23,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_77.png",
+	"frame": {"x":1541,"y":74,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":23,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_78.png",
+	"frame": {"x":1209,"y":113,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_79.png",
+	"frame": {"x":1229,"y":150,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_8.png",
+	"frame": {"x":55,"y":125,"w":51,"h":6},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":106,"w":51,"h":6},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_80.png",
+	"frame": {"x":1259,"y":113,"w":22,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":22,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_81.png",
+	"frame": {"x":1562,"y":182,"w":22,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":94,"w":22,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_82.png",
+	"frame": {"x":1563,"y":38,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":23,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_83.png",
+	"frame": {"x":1238,"y":187,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_84.png",
+	"frame": {"x":1201,"y":39,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_85.png",
+	"frame": {"x":1225,"y":76,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_86.png",
+	"frame": {"x":1566,"y":2,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":23,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_87.png",
+	"frame": {"x":1529,"y":218,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":23,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_88.png",
+	"frame": {"x":1234,"y":113,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_89.png",
+	"frame": {"x":1254,"y":150,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":23,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_9.png",
+	"frame": {"x":63,"y":189,"w":47,"h":5},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":106,"w":47,"h":5},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_90.png",
+	"frame": {"x":1279,"y":150,"w":22,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":93,"w":22,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_91.png",
+	"frame": {"x":2373,"y":189,"w":22,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":107,"w":22,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_92.png",
+	"frame": {"x":2397,"y":151,"w":22,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":106,"w":22,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_93.png",
+	"frame": {"x":2371,"y":213,"w":23,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":106,"w":23,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_94.png",
+	"frame": {"x":2359,"y":84,"w":24,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":106,"w":24,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_95.png",
+	"frame": {"x":2396,"y":220,"w":23,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":106,"w":23,"h":23},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_96.png",
+	"frame": {"x":2397,"y":176,"w":23,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":107,"w":23,"h":22},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_97.png",
+	"frame": {"x":1485,"y":38,"w":25,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":94,"w":25,"h":34},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_98.png",
+	"frame": {"x":1157,"y":113,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":25,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Maki_99.png",
+	"frame": {"x":1319,"y":76,"w":20,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":93,"w":20,"h":35},
+	"sourceSize": {"w":211,"h":169},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "maki-mdpi.png",
+	"format": "RGBA8888",
+	"size": {"w":2421,"h":256},
+	"scale": "0.33",
+	"smartupdate": "$TexturePacker:SmartUpdate:fd5163171d95c2e44fddc62527ad4b8c:772bb2c4d7a5b763533a9bfb903a5181:51f3c688db145e1bc477c4fb386ae039$"
+}
+}

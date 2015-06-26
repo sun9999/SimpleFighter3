@@ -1,0 +1,3 @@
+﻿Simple Fighter
+
+Action game that use the figures form Street Fighter, and the game concept form Line Rangers.

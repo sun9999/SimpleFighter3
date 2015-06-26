@@ -1,0 +1,5151 @@
+{"frames": [
+
+{
+	"filename": "Chang & Choi_0.png",
+	"frame": {"x":3905,"y":434,"w":33,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":173,"w":33,"h":21},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_1.png",
+	"frame": {"x":3587,"y":186,"w":57,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":135,"w":57,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_10.png",
+	"frame": {"x":3897,"y":292,"w":35,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":158,"y":167,"w":35,"h":36},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_100.png",
+	"frame": {"x":1555,"y":142,"w":71,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":122,"w":71,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_101.png",
+	"frame": {"x":1254,"y":142,"w":69,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":121,"w":69,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_102.png",
+	"frame": {"x":1007,"y":221,"w":55,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":121,"w":55,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_103.png",
+	"frame": {"x":1675,"y":2,"w":55,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":122,"w":55,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_104.png",
+	"frame": {"x":1267,"y":2,"w":48,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":120,"w":48,"h":75},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_105.png",
+	"frame": {"x":2859,"y":213,"w":40,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":126,"w":40,"h":69},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_106.png",
+	"frame": {"x":3313,"y":135,"w":45,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":132,"w":45,"h":63},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_107.png",
+	"frame": {"x":3235,"y":69,"w":46,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":130,"w":46,"h":65},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_108.png",
+	"frame": {"x":3044,"y":72,"w":40,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":127,"w":40,"h":68},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_109.png",
+	"frame": {"x":368,"y":278,"w":47,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":104,"w":47,"h":91},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_11.png",
+	"frame": {"x":3857,"y":362,"w":35,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":166,"w":35,"h":38},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_110.png",
+	"frame": {"x":282,"y":142,"w":46,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":99,"w":46,"h":96},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_111.png",
+	"frame": {"x":330,"y":142,"w":47,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":104,"w":47,"h":91},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_112.png",
+	"frame": {"x":306,"y":99,"w":41,"h":62},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":133,"w":41,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_113.png",
+	"frame": {"x":3622,"y":124,"w":57,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":137,"w":57,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_114.png",
+	"frame": {"x":3831,"y":119,"w":53,"h":51},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":139,"w":53,"h":51},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_115.png",
+	"frame": {"x":3757,"y":361,"w":56,"h":46},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":147,"w":56,"h":46},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_116.png",
+	"frame": {"x":3935,"y":213,"w":48,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":149,"w":48,"h":47},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_117.png",
+	"frame": {"x":3992,"y":2,"w":50,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":154,"w":50,"h":42},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_118.png",
+	"frame": {"x":3897,"y":2,"w":52,"h":47},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":149,"w":52,"h":47},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_119.png",
+	"frame": {"x":3797,"y":178,"w":53,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":144,"w":53,"h":54},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_12.png",
+	"frame": {"x":3985,"y":241,"w":36,"h":45},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":159,"y":159,"w":36,"h":45},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_120.png",
+	"frame": {"x":3470,"y":127,"w":60,"h":52},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":143,"w":60,"h":52},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_121.png",
+	"frame": {"x":2599,"y":74,"w":53,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":129,"w":53,"h":66},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_122.png",
+	"frame": {"x":556,"y":278,"w":61,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":115,"w":61,"h":80},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_123.png",
+	"frame": {"x":285,"y":372,"w":71,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":111,"w":71,"h":84},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_124.png",
+	"frame": {"x":683,"y":2,"w":66,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":115,"w":66,"h":80},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_125.png",
+	"frame": {"x":1034,"y":2,"w":60,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":119,"w":60,"h":76},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_126.png",
+	"frame": {"x":1149,"y":142,"w":51,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":120,"w":51,"h":75},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_127.png",
+	"frame": {"x":2599,"y":353,"w":53,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":126,"w":53,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_128.png",
+	"frame": {"x":1317,"y":2,"w":65,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":122,"w":65,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_129.png",
+	"frame": {"x":1145,"y":79,"w":61,"h":70},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":126,"w":61,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_13.png",
+	"frame": {"x":2905,"y":423,"w":33,"h":39},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":159,"y":165,"w":33,"h":39},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_130.png",
+	"frame": {"x":3283,"y":400,"w":56,"h":61},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":134,"w":56,"h":61},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_131.png",
+	"frame": {"x":3397,"y":388,"w":49,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":135,"w":49,"h":60},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_132.png",
+	"frame": {"x":1159,"y":2,"w":52,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":120,"w":52,"h":75},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_133.png",
+	"frame": {"x":696,"y":224,"w":52,"h":76},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":118,"w":52,"h":76},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_134.png",
+	"frame": {"x":988,"y":278,"w":51,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":118,"w":51,"h":76},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_135.png",
+	"frame": {"x":934,"y":278,"w":52,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":118,"w":52,"h":76},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_136.png",
+	"frame": {"x":809,"y":358,"w":55,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":118,"w":55,"h":77},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_137.png",
+	"frame": {"x":805,"y":2,"w":53,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":116,"w":53,"h":79},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_138.png",
+	"frame": {"x":673,"y":142,"w":52,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":115,"w":52,"h":80},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_139.png",
+	"frame": {"x":751,"y":2,"w":52,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":115,"w":52,"h":80},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_14.png",
+	"frame": {"x":4009,"y":304,"w":21,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":165,"y":171,"w":21,"h":28},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_140.png",
+	"frame": {"x":610,"y":360,"w":52,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":115,"w":52,"h":80},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_141.png",
+	"frame": {"x":828,"y":278,"w":55,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":118,"w":55,"h":77},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_142.png",
+	"frame": {"x":866,"y":357,"w":47,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":118,"w":47,"h":77},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_143.png",
+	"frame": {"x":885,"y":278,"w":47,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":118,"w":47,"h":77},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_144.png",
+	"frame": {"x":969,"y":142,"w":47,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":118,"w":47,"h":77},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_145.png",
+	"frame": {"x":982,"y":2,"w":50,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":118,"w":50,"h":77},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_146.png",
+	"frame": {"x":851,"y":221,"w":55,"h":77},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":118,"w":55,"h":77},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_147.png",
+	"frame": {"x":855,"y":142,"w":55,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":118,"w":55,"h":77},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_148.png",
+	"frame": {"x":912,"y":142,"w":55,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":118,"w":55,"h":77},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_149.png",
+	"frame": {"x":925,"y":2,"w":55,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":118,"w":55,"h":77},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_15.png",
+	"frame": {"x":4036,"y":334,"w":21,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":165,"y":173,"w":21,"h":25},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_150.png",
+	"frame": {"x":915,"y":357,"w":54,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":119,"w":54,"h":76},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_151.png",
+	"frame": {"x":3455,"y":321,"w":47,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":135,"w":47,"h":60},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_152.png",
+	"frame": {"x":3487,"y":189,"w":46,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":137,"w":46,"h":60},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_153.png",
+	"frame": {"x":3645,"y":2,"w":44,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":138,"w":44,"h":59},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_154.png",
+	"frame": {"x":1969,"y":77,"w":53,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":134,"w":53,"h":63},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_155.png",
+	"frame": {"x":3346,"y":394,"w":49,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":136,"w":49,"h":61},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_156.png",
+	"frame": {"x":3535,"y":188,"w":50,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":138,"w":50,"h":59},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_157.png",
+	"frame": {"x":3658,"y":63,"w":51,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":139,"w":51,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_158.png",
+	"frame": {"x":2798,"y":2,"w":51,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":126,"w":51,"h":69},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_159.png",
+	"frame": {"x":3434,"y":65,"w":60,"h":59},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":136,"w":60,"h":59},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_16.png",
+	"frame": {"x":809,"y":437,"w":19,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":165,"y":174,"w":19,"h":19},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_160.png",
+	"frame": {"x":3109,"y":208,"w":65,"h":57},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":138,"w":65,"h":57},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_161.png",
+	"frame": {"x":3153,"y":138,"w":65,"h":57},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":138,"w":65,"h":57},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_162.png",
+	"frame": {"x":3176,"y":70,"w":65,"h":57},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":138,"w":65,"h":57},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_163.png",
+	"frame": {"x":3904,"y":198,"w":27,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":166,"w":27,"h":29},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_164.png",
+	"frame": {"x":3673,"y":424,"w":33,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":163,"w":33,"h":32},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_165.png",
+	"frame": {"x":3957,"y":91,"w":35,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":162,"w":35,"h":33},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_166.png",
+	"frame": {"x":3957,"y":128,"w":35,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":162,"w":35,"h":33},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_167.png",
+	"frame": {"x":4032,"y":273,"w":35,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":162,"w":35,"h":33},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_168.png",
+	"frame": {"x":1163,"y":278,"w":48,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":123,"w":48,"h":75},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_169.png",
+	"frame": {"x":1210,"y":355,"w":47,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":123,"w":47,"h":75},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_17.png",
+	"frame": {"x":543,"y":444,"w":10,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":173,"w":10,"h":10},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_170.png",
+	"frame": {"x":1344,"y":354,"w":51,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":124,"w":51,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_171.png",
+	"frame": {"x":2912,"y":353,"w":56,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":130,"w":56,"h":68},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_172.png",
+	"frame": {"x":1230,"y":219,"w":57,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":131,"w":57,"h":67},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_173.png",
+	"frame": {"x":3069,"y":349,"w":58,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":133,"w":58,"h":65},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_174.png",
+	"frame": {"x":3236,"y":338,"w":45,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":134,"w":45,"h":64},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_175.png",
+	"frame": {"x":3610,"y":63,"w":46,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":139,"w":46,"h":59},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_176.png",
+	"frame": {"x":3557,"y":312,"w":44,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":138,"w":44,"h":59},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_177.png",
+	"frame": {"x":687,"y":84,"w":56,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":122,"w":56,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_178.png",
+	"frame": {"x":1157,"y":219,"w":57,"h":71},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":124,"w":57,"h":71},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_179.png",
+	"frame": {"x":3986,"y":195,"w":44,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":146,"w":44,"h":49},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_18.png",
+	"frame": {"x":2265,"y":2,"w":72,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":161,"w":72,"h":27},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_180.png",
+	"frame": {"x":3846,"y":234,"w":51,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":145,"w":51,"h":51},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_181.png",
+	"frame": {"x":3420,"y":2,"w":50,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":120,"w":50,"h":61},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_182.png",
+	"frame": {"x":3585,"y":2,"w":58,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":119,"w":58,"h":59},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_183.png",
+	"frame": {"x":727,"y":142,"w":54,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":105,"w":54,"h":79},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_184.png",
+	"frame": {"x":1818,"y":217,"w":49,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":122,"w":49,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_185.png",
+	"frame": {"x":2133,"y":142,"w":48,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":123,"w":48,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_186.png",
+	"frame": {"x":2883,"y":284,"w":51,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":126,"w":51,"h":67},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_187.png",
+	"frame": {"x":762,"y":84,"w":56,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":122,"w":56,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_188.png",
+	"frame": {"x":1631,"y":77,"w":63,"h":72},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":125,"y":123,"w":63,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_189.png",
+	"frame": {"x":1070,"y":80,"w":60,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":122,"w":60,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_19.png",
+	"frame": {"x":1496,"y":278,"w":74,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":161,"w":74,"h":28},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_190.png",
+	"frame": {"x":1384,"y":2,"w":55,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":121,"w":55,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_191.png",
+	"frame": {"x":1732,"y":2,"w":53,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":122,"w":53,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_192.png",
+	"frame": {"x":1392,"y":278,"w":50,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":121,"w":50,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_193.png",
+	"frame": {"x":461,"y":231,"w":45,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":122,"w":45,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_194.png",
+	"frame": {"x":1774,"y":77,"w":65,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":132,"w":65,"h":63},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_195.png",
+	"frame": {"x":1841,"y":77,"w":63,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":132,"w":63,"h":63},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_196.png",
+	"frame": {"x":2008,"y":290,"w":61,"h":62},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":133,"w":61,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_197.png",
+	"frame": {"x":2254,"y":289,"w":60,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":133,"w":60,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_198.png",
+	"frame": {"x":1812,"y":292,"w":59,"h":62},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":133,"w":59,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_199.png",
+	"frame": {"x":3252,"y":270,"w":44,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":131,"w":44,"h":64},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_2.png",
+	"frame": {"x":3708,"y":303,"w":56,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":136,"w":56,"h":56},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_20.png",
+	"frame": {"x":1041,"y":278,"w":76,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":164,"w":76,"h":27},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_200.png",
+	"frame": {"x":3107,"y":140,"w":44,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":129,"w":44,"h":66},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_201.png",
+	"frame": {"x":1893,"y":2,"w":50,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":122,"w":50,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_202.png",
+	"frame": {"x":1787,"y":2,"w":51,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":122,"w":51,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_203.png",
+	"frame": {"x":1994,"y":2,"w":69,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":123,"w":69,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_204.png",
+	"frame": {"x":1526,"y":278,"w":67,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":122,"w":67,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_205.png",
+	"frame": {"x":3261,"y":2,"w":46,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":131,"w":46,"h":65},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_206.png",
+	"frame": {"x":3691,"y":2,"w":50,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":137,"w":50,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_207.png",
+	"frame": {"x":1077,"y":356,"w":75,"h":68},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":127,"w":75,"h":68},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_208.png",
+	"frame": {"x":2587,"y":286,"w":67,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":130,"w":67,"h":65},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_209.png",
+	"frame": {"x":2901,"y":142,"w":56,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":127,"w":56,"h":68},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_21.png",
+	"frame": {"x":1070,"y":278,"w":76,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":164,"w":76,"h":26},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_210.png",
+	"frame": {"x":1686,"y":142,"w":54,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":122,"w":54,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_211.png",
+	"frame": {"x":1897,"y":353,"w":56,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":123,"w":56,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_212.png",
+	"frame": {"x":1919,"y":217,"w":71,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":123,"w":71,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_213.png",
+	"frame": {"x":1950,"y":142,"w":71,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":123,"w":71,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_214.png",
+	"frame": {"x":1570,"y":353,"w":65,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":122,"w":65,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_215.png",
+	"frame": {"x":1287,"y":354,"w":55,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":121,"w":55,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_216.png",
+	"frame": {"x":1397,"y":354,"w":50,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":121,"w":50,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_217.png",
+	"frame": {"x":2183,"y":142,"w":45,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":123,"w":45,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_218.png",
+	"frame": {"x":1705,"y":77,"w":63,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":128,"w":63,"h":67},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_219.png",
+	"frame": {"x":379,"y":142,"w":87,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":132,"w":87,"h":63},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_22.png",
+	"frame": {"x":799,"y":278,"w":78,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":163,"w":78,"h":27},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_220.png",
+	"frame": {"x":1018,"y":142,"w":75,"h":64},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":131,"w":75,"h":64},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_221.png",
+	"frame": {"x":1287,"y":79,"w":61,"h":64},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":131,"w":61,"h":64},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_222.png",
+	"frame": {"x":2216,"y":76,"w":54,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":125,"y":131,"w":54,"h":64},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_223.png",
+	"frame": {"x":3205,"y":2,"w":54,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":125,"y":130,"w":54,"h":65},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_224.png",
+	"frame": {"x":3087,"y":279,"w":58,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":130,"w":58,"h":65},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_225.png",
+	"frame": {"x":3039,"y":281,"w":46,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":129,"w":46,"h":66},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_226.png",
+	"frame": {"x":3130,"y":70,"w":44,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":129,"w":44,"h":66},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_227.png",
+	"frame": {"x":2012,"y":353,"w":50,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":123,"w":50,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_228.png",
+	"frame": {"x":2174,"y":2,"w":48,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":123,"w":48,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_229.png",
+	"frame": {"x":2959,"y":142,"w":50,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":127,"w":50,"h":68},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_23.png",
+	"frame": {"x":1259,"y":355,"w":75,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":164,"w":75,"h":26},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_230.png",
+	"frame": {"x":3263,"y":136,"w":48,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":129,"w":48,"h":64},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_231.png",
+	"frame": {"x":598,"y":142,"w":81,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":120,"w":81,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_232.png",
+	"frame": {"x":1261,"y":278,"w":74,"h":72},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":121,"w":74,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_233.png",
+	"frame": {"x":2330,"y":353,"w":66,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":123,"w":66,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_234.png",
+	"frame": {"x":3283,"y":69,"w":48,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":129,"w":48,"h":64},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_235.png",
+	"frame": {"x":2940,"y":73,"w":50,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":127,"w":50,"h":67},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_236.png",
+	"frame": {"x":3681,"y":123,"w":46,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":137,"w":46,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_237.png",
+	"frame": {"x":2194,"y":290,"w":61,"h":58},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":138,"w":61,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_238.png",
+	"frame": {"x":3395,"y":326,"w":60,"h":58},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":125,"y":138,"w":60,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_239.png",
+	"frame": {"x":3610,"y":369,"w":52,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":138,"w":52,"h":57},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_24.png",
+	"frame": {"x":664,"y":360,"w":80,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":163,"w":80,"h":26},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_240.png",
+	"frame": {"x":3559,"y":373,"w":49,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":137,"w":49,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_241.png",
+	"frame": {"x":3504,"y":315,"w":51,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":136,"w":51,"h":59},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_242.png",
+	"frame": {"x":3992,"y":46,"w":48,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":146,"w":48,"h":49},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_243.png",
+	"frame": {"x":3867,"y":60,"w":42,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":145,"w":42,"h":53},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_244.png",
+	"frame": {"x":3746,"y":180,"w":49,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":125,"y":142,"w":49,"h":56},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_245.png",
+	"frame": {"x":98,"y":418,"w":38,"h":94},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":104,"w":38,"h":94},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_246.png",
+	"frame": {"x":237,"y":142,"w":43,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":100,"w":43,"h":98},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_247.png",
+	"frame": {"x":496,"y":142,"w":51,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":112,"w":51,"h":86},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_248.png",
+	"frame": {"x":1213,"y":278,"w":46,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":123,"w":46,"h":75},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_249.png",
+	"frame": {"x":3812,"y":294,"w":43,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":145,"w":43,"h":52},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_25.png",
+	"frame": {"x":1520,"y":429,"w":73,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":162,"w":73,"h":27},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_250.png",
+	"frame": {"x":3992,"y":96,"w":48,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":146,"w":48,"h":49},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_251.png",
+	"frame": {"x":3735,"y":242,"w":53,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":139,"w":53,"h":56},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_252.png",
+	"frame": {"x":3524,"y":126,"w":60,"h":46},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":149,"w":60,"h":46},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_253.png",
+	"frame": {"x":3110,"y":2,"w":66,"h":47},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":149,"w":66,"h":47},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_254.png",
+	"frame": {"x":358,"y":371,"w":85,"h":46},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":150,"w":85,"h":46},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_255.png",
+	"frame": {"x":507,"y":278,"w":82,"h":47},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":149,"w":82,"h":47},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_256.png",
+	"frame": {"x":549,"y":142,"w":82,"h":47},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":149,"w":82,"h":47},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_257.png",
+	"frame": {"x":3664,"y":365,"w":43,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":138,"w":43,"h":57},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_258.png",
+	"frame": {"x":3946,"y":2,"w":44,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":145,"w":44,"h":50},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_259.png",
+	"frame": {"x":3343,"y":331,"w":61,"h":50},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":146,"w":61,"h":50},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_26.png",
+	"frame": {"x":2,"y":281,"w":84,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":73,"w":84,"h":137},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_260.png",
+	"frame": {"x":2226,"y":353,"w":71,"h":51},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":145,"w":71,"h":51},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_261.png",
+	"frame": {"x":630,"y":2,"w":81,"h":51},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":145,"w":81,"h":51},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_262.png",
+	"frame": {"x":614,"y":225,"w":80,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":145,"w":80,"h":51},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_263.png",
+	"frame": {"x":692,"y":359,"w":79,"h":51},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":145,"w":79,"h":51},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_264.png",
+	"frame": {"x":746,"y":278,"w":78,"h":51},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":145,"w":78,"h":51},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_265.png",
+	"frame": {"x":3533,"y":2,"w":60,"h":50},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":146,"w":60,"h":50},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_266.png",
+	"frame": {"x":3992,"y":146,"w":47,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":146,"w":47,"h":49},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_267.png",
+	"frame": {"x":3780,"y":120,"w":49,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":139,"w":49,"h":56},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_268.png",
+	"frame": {"x":3129,"y":346,"w":58,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":117,"w":58,"h":65},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_269.png",
+	"frame": {"x":3711,"y":62,"w":57,"h":54},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":129,"w":57,"h":54},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_27.png",
+	"frame": {"x":88,"y":281,"w":83,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":73,"w":83,"h":135},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_270.png",
+	"frame": {"x":3884,"y":115,"w":49,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":130,"w":49,"h":51},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_271.png",
+	"frame": {"x":3006,"y":2,"w":68,"h":50},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":130,"w":68,"h":50},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_272.png",
+	"frame": {"x":444,"y":142,"w":87,"h":50},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":130,"w":87,"h":50},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_273.png",
+	"frame": {"x":604,"y":90,"w":81,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":130,"w":81,"h":50},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_274.png",
+	"frame": {"x":1083,"y":219,"w":57,"h":72},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":112,"w":57,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_275.png",
+	"frame": {"x":445,"y":92,"w":48,"h":79},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":109,"w":48,"h":79},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_276.png",
+	"frame": {"x":2704,"y":214,"w":53,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":118,"w":53,"h":69},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_277.png",
+	"frame": {"x":2936,"y":282,"w":52,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":117,"w":52,"h":68},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_278.png",
+	"frame": {"x":1299,"y":218,"w":58,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":113,"w":58,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_279.png",
+	"frame": {"x":1668,"y":292,"w":59,"h":70},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":115,"w":59,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_28.png",
+	"frame": {"x":183,"y":2,"w":89,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":79,"w":89,"h":121},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_280.png",
+	"frame": {"x":1740,"y":292,"w":59,"h":70},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":115,"w":59,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_281.png",
+	"frame": {"x":3151,"y":413,"w":43,"h":64},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":144,"y":122,"w":43,"h":64},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_282.png",
+	"frame": {"x":2814,"y":73,"w":67,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":118,"w":67,"h":67},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_283.png",
+	"frame": {"x":2471,"y":74,"w":66,"h":69},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":118,"w":66,"h":69},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_284.png",
+	"frame": {"x":1449,"y":218,"w":58,"h":71},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":118,"w":58,"h":71},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_285.png",
+	"frame": {"x":1876,"y":292,"w":59,"h":62},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":119,"w":59,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_286.png",
+	"frame": {"x":783,"y":142,"w":77,"h":70},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":115,"w":77,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_287.png",
+	"frame": {"x":1084,"y":142,"w":75,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":118,"w":75,"h":63},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_288.png",
+	"frame": {"x":1098,"y":278,"w":75,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":118,"w":75,"h":63},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_289.png",
+	"frame": {"x":1217,"y":79,"w":61,"h":68},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":120,"w":61,"h":68},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_29.png",
+	"frame": {"x":92,"y":2,"w":89,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":77,"w":89,"h":122},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_290.png",
+	"frame": {"x":3849,"y":2,"w":46,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":139,"w":46,"h":56},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_291.png",
+	"frame": {"x":4037,"y":203,"w":46,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":152,"w":46,"h":44},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_292.png",
+	"frame": {"x":181,"y":242,"w":70,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":161,"w":70,"h":34},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_293.png",
+	"frame": {"x":2224,"y":2,"w":72,"h":39},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":156,"w":72,"h":39},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_294.png",
+	"frame": {"x":3766,"y":300,"w":56,"h":44},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":151,"w":56,"h":44},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_295.png",
+	"frame": {"x":3852,"y":174,"w":51,"h":50},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":145,"w":51,"h":50},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_296.png",
+	"frame": {"x":3684,"y":244,"w":49,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":138,"w":49,"h":57},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_297.png",
+	"frame": {"x":3448,"y":388,"w":49,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":135,"w":49,"h":60},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_298.png",
+	"frame": {"x":1849,"y":353,"w":46,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":121,"w":46,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_299.png",
+	"frame": {"x":2390,"y":2,"w":43,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":123,"w":43,"h":71},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_3.png",
+	"frame": {"x":3790,"y":238,"w":54,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":135,"w":54,"h":54},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_30.png",
+	"frame": {"x":173,"y":278,"w":86,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":71,"w":86,"h":132},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_300.png",
+	"frame": {"x":2762,"y":74,"w":50,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":50,"h":66},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_301.png",
+	"frame": {"x":2105,"y":216,"w":49,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":121,"w":49,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_302.png",
+	"frame": {"x":1202,"y":142,"w":50,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":118,"w":50,"h":75},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_303.png",
+	"frame": {"x":2281,"y":142,"w":45,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":124,"w":45,"h":71},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_304.png",
+	"frame": {"x":2805,"y":353,"w":45,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":126,"w":45,"h":69},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_305.png",
+	"frame": {"x":3271,"y":202,"w":47,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":128,"w":47,"h":63},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_306.png",
+	"frame": {"x":3147,"y":275,"w":52,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":126,"w":52,"h":65},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_307.png",
+	"frame": {"x":3168,"y":205,"w":50,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":126,"w":50,"h":65},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_308.png",
+	"frame": {"x":3520,"y":251,"w":51,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":136,"w":51,"h":59},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_309.png",
+	"frame": {"x":2701,"y":353,"w":50,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":126,"w":50,"h":69},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_31.png",
+	"frame": {"x":2,"y":2,"w":88,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":71,"w":88,"h":138},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_310.png",
+	"frame": {"x":2294,"y":2,"w":48,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":124,"w":48,"h":71},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_311.png",
+	"frame": {"x":3646,"y":184,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":137,"w":47,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_312.png",
+	"frame": {"x":2852,"y":353,"w":68,"h":58},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":138,"w":68,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_313.png",
+	"frame": {"x":2769,"y":284,"w":67,"h":58},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":138,"w":67,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_314.png",
+	"frame": {"x":3654,"y":306,"w":52,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":138,"w":52,"h":57},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_315.png",
+	"frame": {"x":3603,"y":309,"w":49,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":137,"w":49,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_316.png",
+	"frame": {"x":1025,"y":356,"w":50,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":119,"w":50,"h":76},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_317.png",
+	"frame": {"x":2205,"y":216,"w":50,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":124,"w":50,"h":71},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_318.png",
+	"frame": {"x":2970,"y":352,"w":49,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":127,"w":49,"h":68},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_319.png",
+	"frame": {"x":2279,"y":353,"w":49,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":124,"w":49,"h":71},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_32.png",
+	"frame": {"x":91,"y":142,"w":88,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":74,"w":88,"h":134},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_320.png",
+	"frame": {"x":3935,"y":109,"w":20,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":182,"w":20,"h":21},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_321.png",
+	"frame": {"x":1653,"y":217,"w":55,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":122,"w":55,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_322.png",
+	"frame": {"x":2257,"y":215,"w":46,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":124,"w":46,"h":71},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_323.png",
+	"frame": {"x":2753,"y":2,"w":43,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":125,"w":43,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_324.png",
+	"frame": {"x":3189,"y":342,"w":45,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":130,"w":45,"h":65},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_325.png",
+	"frame": {"x":3360,"y":133,"w":47,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":133,"w":47,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_326.png",
+	"frame": {"x":3333,"y":68,"w":43,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":132,"w":43,"h":63},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_327.png",
+	"frame": {"x":2753,"y":353,"w":50,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":126,"w":50,"h":69},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_328.png",
+	"frame": {"x":2272,"y":76,"w":53,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":131,"w":53,"h":64},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_329.png",
+	"frame": {"x":3283,"y":336,"w":58,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":125,"y":133,"w":58,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_33.png",
+	"frame": {"x":2,"y":142,"w":87,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":73,"w":87,"h":137},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_330.png",
+	"frame": {"x":1567,"y":78,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":133,"w":62,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_331.png",
+	"frame": {"x":1955,"y":353,"w":55,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":123,"w":55,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_332.png",
+	"frame": {"x":2607,"y":2,"w":47,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":47,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_333.png",
+	"frame": {"x":3011,"y":212,"w":48,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":128,"w":48,"h":67},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_334.png",
+	"frame": {"x":2709,"y":74,"w":51,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":129,"w":51,"h":66},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_335.png",
+	"frame": {"x":1940,"y":291,"w":60,"h":66},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":129,"w":60,"h":66},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_336.png",
+	"frame": {"x":2024,"y":76,"w":67,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":131,"w":67,"h":64},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_337.png",
+	"frame": {"x":930,"y":221,"w":75,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":140,"w":75,"h":55},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_338.png",
+	"frame": {"x":274,"y":2,"w":95,"h":55},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":140,"w":95,"h":55},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_339.png",
+	"frame": {"x":181,"y":142,"w":98,"h":54},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":141,"w":98,"h":54},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_34.png",
+	"frame": {"x":1742,"y":142,"w":52,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":122,"w":52,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_340.png",
+	"frame": {"x":451,"y":278,"w":86,"h":54},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":141,"w":86,"h":54},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_341.png",
+	"frame": {"x":1502,"y":78,"w":63,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":133,"w":63,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_342.png",
+	"frame": {"x":3061,"y":211,"w":46,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":129,"w":46,"h":66},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_343.png",
+	"frame": {"x":3159,"y":2,"w":44,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":129,"w":44,"h":66},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_344.png",
+	"frame": {"x":1745,"y":353,"w":50,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":122,"w":50,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_345.png",
+	"frame": {"x":1504,"y":142,"w":49,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":121,"w":49,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_346.png",
+	"frame": {"x":1449,"y":354,"w":48,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":121,"w":48,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_347.png",
+	"frame": {"x":1945,"y":2,"w":47,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":122,"w":47,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_348.png",
+	"frame": {"x":2156,"y":216,"w":47,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":123,"w":47,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_349.png",
+	"frame": {"x":442,"y":2,"w":88,"h":62},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":128,"w":88,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_35.png",
+	"frame": {"x":1840,"y":2,"w":51,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":122,"w":51,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_350.png",
+	"frame": {"x":591,"y":2,"w":86,"h":37},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":164,"w":86,"h":37},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_351.png",
+	"frame": {"x":417,"y":278,"w":87,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":169,"w":87,"h":32},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_352.png",
+	"frame": {"x":2116,"y":353,"w":48,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":123,"w":48,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_353.png",
+	"frame": {"x":2654,"y":353,"w":45,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":125,"w":45,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_354.png",
+	"frame": {"x":2759,"y":213,"w":49,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":126,"w":49,"h":69},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_355.png",
+	"frame": {"x":2851,"y":2,"w":48,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":126,"w":48,"h":69},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_356.png",
+	"frame": {"x":1147,"y":355,"w":61,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":120,"w":61,"h":75},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_357.png",
+	"frame": {"x":1429,"y":78,"w":62,"h":71},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":124,"w":62,"h":71},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_358.png",
+	"frame": {"x":2327,"y":75,"w":65,"h":70},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_359.png",
+	"frame": {"x":2328,"y":142,"w":65,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_36.png",
+	"frame": {"x":2080,"y":142,"w":51,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":123,"w":51,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_360.png",
+	"frame": {"x":2349,"y":214,"w":65,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_361.png",
+	"frame": {"x":2395,"y":142,"w":65,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_362.png",
+	"frame": {"x":2399,"y":75,"w":65,"h":70},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_363.png",
+	"frame": {"x":2371,"y":286,"w":65,"h":70},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_364.png",
+	"frame": {"x":2416,"y":214,"w":65,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_365.png",
+	"frame": {"x":2462,"y":142,"w":65,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_366.png",
+	"frame": {"x":2398,"y":353,"w":65,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_367.png",
+	"frame": {"x":2443,"y":286,"w":65,"h":70},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_368.png",
+	"frame": {"x":2483,"y":214,"w":65,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_369.png",
+	"frame": {"x":2465,"y":353,"w":65,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_37.png",
+	"frame": {"x":2121,"y":2,"w":51,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":123,"w":51,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_370.png",
+	"frame": {"x":2515,"y":286,"w":65,"h":70},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_371.png",
+	"frame": {"x":2532,"y":353,"w":65,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_372.png",
+	"frame": {"x":2435,"y":2,"w":65,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_373.png",
+	"frame": {"x":2529,"y":142,"w":65,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":65,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_374.png",
+	"frame": {"x":745,"y":359,"w":62,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":125,"y":118,"w":62,"h":78},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_375.png",
+	"frame": {"x":543,"y":362,"w":65,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":116,"w":65,"h":80},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_376.png",
+	"frame": {"x":1499,"y":354,"w":73,"h":69},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":127,"w":73,"h":69},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_377.png",
+	"frame": {"x":860,"y":2,"w":77,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":133,"w":77,"h":63},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_378.png",
+	"frame": {"x":914,"y":81,"w":76,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":137,"w":76,"h":59},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_379.png",
+	"frame": {"x":1595,"y":292,"w":71,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":137,"w":71,"h":59},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_38.png",
+	"frame": {"x":1692,"y":353,"w":51,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":122,"w":51,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_380.png",
+	"frame": {"x":2656,"y":286,"w":65,"h":60},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":136,"w":65,"h":60},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_381.png",
+	"frame": {"x":774,"y":223,"w":53,"h":75},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":120,"w":53,"h":75},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_382.png",
+	"frame": {"x":1595,"y":217,"w":56,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":122,"w":56,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_383.png",
+	"frame": {"x":1602,"y":2,"w":71,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":122,"w":71,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_384.png",
+	"frame": {"x":1325,"y":142,"w":69,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":121,"w":69,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_385.png",
+	"frame": {"x":1444,"y":278,"w":50,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":121,"w":50,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_386.png",
+	"frame": {"x":1849,"y":142,"w":49,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":122,"w":49,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_387.png",
+	"frame": {"x":1452,"y":142,"w":50,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":121,"w":50,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_388.png",
+	"frame": {"x":1550,"y":2,"w":50,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":121,"w":50,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_389.png",
+	"frame": {"x":830,"y":437,"w":23,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":176,"w":23,"h":18},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_39.png",
+	"frame": {"x":1496,"y":2,"w":52,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":121,"w":52,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_390.png",
+	"frame": {"x":1300,"y":430,"w":26,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":155,"w":26,"h":40},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_391.png",
+	"frame": {"x":1190,"y":432,"w":24,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":159,"w":24,"h":36},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_392.png",
+	"frame": {"x":3894,"y":362,"w":21,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":160,"w":21,"h":35},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_393.png",
+	"frame": {"x":2699,"y":425,"w":26,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":164,"w":26,"h":30},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_394.png",
+	"frame": {"x":3999,"y":361,"w":26,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":165,"w":26,"h":29},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_395.png",
+	"frame": {"x":2611,"y":425,"w":30,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":166,"w":30,"h":28},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_396.png",
+	"frame": {"x":1637,"y":353,"w":53,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":122,"w":53,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_397.png",
+	"frame": {"x":1992,"y":216,"w":55,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":123,"w":55,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_398.png",
+	"frame": {"x":1522,"y":218,"w":58,"h":71},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":124,"w":58,"h":71},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_399.png",
+	"frame": {"x":2093,"y":76,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":131,"w":64,"h":64},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_4.png",
+	"frame": {"x":4043,"y":65,"w":43,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":134,"w":43,"h":48},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_40.png",
+	"frame": {"x":3695,"y":183,"w":49,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":138,"w":49,"h":57},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_400.png",
+	"frame": {"x":1441,"y":2,"w":53,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":121,"w":53,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_401.png",
+	"frame": {"x":1765,"y":217,"w":51,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":122,"w":51,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_402.png",
+	"frame": {"x":2064,"y":353,"w":50,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":123,"w":50,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_403.png",
+	"frame": {"x":2166,"y":353,"w":58,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":124,"w":58,"h":71},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_404.png",
+	"frame": {"x":2134,"y":290,"w":58,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":136,"w":58,"h":61},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_405.png",
+	"frame": {"x":3433,"y":191,"w":52,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":135,"w":52,"h":60},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_406.png",
+	"frame": {"x":3412,"y":259,"w":57,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":135,"w":57,"h":60},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_407.png",
+	"frame": {"x":3499,"y":383,"w":58,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":137,"w":58,"h":59},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_408.png",
+	"frame": {"x":2159,"y":76,"w":64,"h":55},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":142,"w":64,"h":55},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_409.png",
+	"frame": {"x":194,"y":412,"w":89,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":125,"y":156,"w":89,"h":44},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_41.png",
+	"frame": {"x":3729,"y":121,"w":49,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":138,"w":49,"h":57},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_410.png",
+	"frame": {"x":1096,"y":2,"w":61,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":122,"w":61,"h":75},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_411.png",
+	"frame": {"x":671,"y":278,"w":79,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":115,"w":79,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_412.png",
+	"frame": {"x":619,"y":278,"w":80,"h":50},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":125,"w":80,"h":50},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_413.png",
+	"frame": {"x":536,"y":230,"w":46,"h":76},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":119,"w":46,"h":76},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_414.png",
+	"frame": {"x":3350,"y":264,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":133,"w":60,"h":60},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_415.png",
+	"frame": {"x":3086,"y":71,"w":67,"h":42},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":133,"w":67,"h":42},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_416.png",
+	"frame": {"x":3378,"y":66,"w":54,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":127,"w":54,"h":61},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_417.png",
+	"frame": {"x":1353,"y":78,"w":62,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":121,"w":62,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_418.png",
+	"frame": {"x":2649,"y":142,"w":70,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":150,"w":70,"h":49},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_419.png",
+	"frame": {"x":308,"y":278,"w":91,"h":58},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":141,"w":91,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_42.png",
+	"frame": {"x":3767,"y":61,"w":49,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":138,"w":49,"h":57},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_420.png",
+	"frame": {"x":261,"y":278,"w":92,"h":45},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":156,"w":92,"h":45},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_421.png",
+	"frame": {"x":2,"y":420,"w":94,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":166,"w":94,"h":36},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_422.png",
+	"frame": {"x":331,"y":2,"w":94,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":167,"w":94,"h":35},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_423.png",
+	"frame": {"x":3572,"y":125,"w":48,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":123,"w":48,"h":59},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_424.png",
+	"frame": {"x":3818,"y":61,"w":47,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":124,"w":47,"h":56},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_425.png",
+	"frame": {"x":3201,"y":272,"w":64,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":152,"w":64,"h":49},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_426.png",
+	"frame": {"x":3220,"y":204,"w":64,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":152,"w":64,"h":49},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_427.png",
+	"frame": {"x":3309,"y":2,"w":64,"h":48},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":153,"w":64,"h":48},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_428.png",
+	"frame": {"x":3549,"y":64,"w":59,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":136,"w":59,"h":59},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_429.png",
+	"frame": {"x":1906,"y":77,"w":63,"h":61},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":134,"w":63,"h":61},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_43.png",
+	"frame": {"x":2657,"y":214,"w":45,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":124,"w":45,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_430.png",
+	"frame": {"x":3573,"y":249,"w":58,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":137,"w":58,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_431.png",
+	"frame": {"x":3743,"y":2,"w":53,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":138,"w":53,"h":57},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_432.png",
+	"frame": {"x":3471,"y":253,"w":47,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":135,"w":47,"h":60},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_433.png",
+	"frame": {"x":1869,"y":217,"w":48,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":122,"w":48,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_434.png",
+	"frame": {"x":4032,"y":308,"w":24,"h":25},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":169,"w":24,"h":25},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_435.png",
+	"frame": {"x":4009,"y":334,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":146,"y":169,"w":25,"h":25},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_436.png",
+	"frame": {"x":3371,"y":197,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":133,"w":60,"h":60},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_437.png",
+	"frame": {"x":2072,"y":290,"w":60,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":133,"w":60,"h":61},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_438.png",
+	"frame": {"x":3409,"y":129,"w":59,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":133,"w":59,"h":60},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_439.png",
+	"frame": {"x":3472,"y":2,"w":60,"h":59},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":130,"w":60,"h":59},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_44.png",
+	"frame": {"x":2700,"y":142,"w":45,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":124,"w":45,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_440.png",
+	"frame": {"x":1710,"y":217,"w":53,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":122,"w":53,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_441.png",
+	"frame": {"x":1796,"y":142,"w":51,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":122,"w":51,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_442.png",
+	"frame": {"x":1797,"y":353,"w":50,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":122,"w":50,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_443.png",
+	"frame": {"x":1374,"y":218,"w":58,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":122,"w":58,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_444.png",
+	"frame": {"x":2065,"y":2,"w":54,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":122,"w":54,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_445.png",
+	"frame": {"x":2316,"y":288,"w":53,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":135,"w":53,"h":63},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_446.png",
+	"frame": {"x":2654,"y":74,"w":53,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":134,"w":53,"h":66},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_447.png",
+	"frame": {"x":3359,"y":2,"w":59,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":137,"w":59,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_448.png",
+	"frame": {"x":3217,"y":409,"w":64,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":150,"w":64,"h":47},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_449.png",
+	"frame": {"x":382,"y":231,"w":77,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":156,"w":77,"h":45},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_45.png",
+	"frame": {"x":2705,"y":2,"w":46,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":124,"w":46,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_450.png",
+	"frame": {"x":300,"y":240,"w":80,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":166,"w":80,"h":36},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_451.png",
+	"frame": {"x":506,"y":366,"w":83,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":167,"w":83,"h":35},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_452.png",
+	"frame": {"x":469,"y":366,"w":84,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":167,"w":84,"h":35},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_453.png",
+	"frame": {"x":506,"y":2,"w":87,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":167,"w":87,"h":35},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_454.png",
+	"frame": {"x":405,"y":2,"w":91,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":167,"w":91,"h":35},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_455.png",
+	"frame": {"x":368,"y":2,"w":93,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":167,"w":93,"h":35},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_456.png",
+	"frame": {"x":406,"y":371,"w":61,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":103,"w":61,"h":84},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_457.png",
+	"frame": {"x":992,"y":81,"w":59,"h":76},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":109,"w":59,"h":76},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_458.png",
+	"frame": {"x":3961,"y":396,"w":32,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":167,"w":32,"h":27},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_459.png",
+	"frame": {"x":3970,"y":361,"w":32,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":167,"w":32,"h":27},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_46.png",
+	"frame": {"x":2747,"y":142,"w":52,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":125,"w":52,"h":69},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_460.png",
+	"frame": {"x":1342,"y":430,"w":34,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":168,"w":34,"h":26},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_461.png",
+	"frame": {"x":3897,"y":329,"w":30,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":168,"w":30,"h":26},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_462.png",
+	"frame": {"x":3925,"y":329,"w":30,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":168,"w":30,"h":26},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_463.png",
+	"frame": {"x":2641,"y":425,"w":30,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":167,"w":30,"h":27},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_464.png",
+	"frame": {"x":2670,"y":425,"w":30,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":167,"w":30,"h":27},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_465.png",
+	"frame": {"x":2186,"y":426,"w":30,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":144,"y":161,"w":30,"h":32},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_466.png",
+	"frame": {"x":2151,"y":427,"w":29,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":160,"w":29,"h":33},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_467.png",
+	"frame": {"x":1265,"y":432,"w":24,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":160,"w":24,"h":33},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_468.png",
+	"frame": {"x":3945,"y":361,"w":23,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":160,"w":23,"h":33},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_469.png",
+	"frame": {"x":1754,"y":428,"w":28,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":144,"y":160,"w":28,"h":33},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_47.png",
+	"frame": {"x":2949,"y":2,"w":55,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":126,"w":55,"h":68},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_470.png",
+	"frame": {"x":1789,"y":428,"w":28,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":160,"w":28,"h":33},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_471.png",
+	"frame": {"x":3905,"y":399,"w":27,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":160,"w":27,"h":33},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_472.png",
+	"frame": {"x":1450,"y":430,"w":26,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":160,"w":26,"h":33},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_473.png",
+	"frame": {"x":1485,"y":430,"w":26,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":160,"w":26,"h":33},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_474.png",
+	"frame": {"x":3917,"y":361,"w":26,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":160,"w":26,"h":33},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_475.png",
+	"frame": {"x":3934,"y":396,"w":25,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":160,"w":25,"h":33},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_476.png",
+	"frame": {"x":3940,"y":431,"w":25,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":160,"w":25,"h":33},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_477.png",
+	"frame": {"x":1892,"y":428,"w":28,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":163,"w":28,"h":31},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_478.png",
+	"frame": {"x":3642,"y":428,"w":28,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":164,"w":28,"h":29},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_479.png",
+	"frame": {"x":1824,"y":428,"w":32,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":166,"w":32,"h":28},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_48.png",
+	"frame": {"x":2542,"y":74,"w":55,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":128,"w":55,"h":66},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_480.png",
+	"frame": {"x":4057,"y":363,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":171,"w":25,"h":25},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_481.png",
+	"frame": {"x":4027,"y":389,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":170,"w":25,"h":25},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_482.png",
+	"frame": {"x":2317,"y":426,"w":28,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":163,"w":28,"h":30},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_483.png",
+	"frame": {"x":2220,"y":426,"w":31,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":162,"w":31,"h":30},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_484.png",
+	"frame": {"x":4009,"y":429,"w":27,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":164,"w":27,"h":29},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_485.png",
+	"frame": {"x":2581,"y":425,"w":28,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":162,"w":28,"h":30},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_486.png",
+	"frame": {"x":2253,"y":426,"w":31,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":144,"y":162,"w":31,"h":30},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_487.png",
+	"frame": {"x":2507,"y":425,"w":24,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":146,"y":163,"w":24,"h":31},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_488.png",
+	"frame": {"x":2533,"y":425,"w":31,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":171,"w":31,"h":23},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_489.png",
+	"frame": {"x":2347,"y":425,"w":31,"h":38},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":156,"w":31,"h":38},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_49.png",
+	"frame": {"x":2829,"y":284,"w":52,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":127,"w":52,"h":67},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_490.png",
+	"frame": {"x":3857,"y":325,"w":38,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":158,"w":38,"h":35},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_491.png",
+	"frame": {"x":3935,"y":302,"w":21,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":152,"w":21,"h":34},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_492.png",
+	"frame": {"x":1151,"y":432,"w":24,"h":37},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":150,"w":24,"h":37},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_493.png",
+	"frame": {"x":2727,"y":424,"w":32,"h":48},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":146,"w":32,"h":48},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_494.png",
+	"frame": {"x":2777,"y":424,"w":32,"h":48},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":146,"w":32,"h":48},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_495.png",
+	"frame": {"x":1824,"y":428,"w":32,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":166,"w":32,"h":28},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_496.png",
+	"frame": {"x":1824,"y":428,"w":32,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":166,"w":32,"h":28},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_497.png",
+	"frame": {"x":2421,"y":425,"w":28,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":158,"y":163,"w":28,"h":31},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_498.png",
+	"frame": {"x":3106,"y":416,"w":43,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":157,"w":43,"h":39},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_499.png",
+	"frame": {"x":1925,"y":427,"w":36,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":162,"w":36,"h":29},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_5.png",
+	"frame": {"x":2863,"y":423,"w":33,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":133,"w":33,"h":40},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_50.png",
+	"frame": {"x":3058,"y":2,"w":50,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":126,"w":50,"h":67},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_500.png",
+	"frame": {"x":756,"y":439,"w":30,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":169,"w":30,"h":17},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_501.png",
+	"frame": {"x":3817,"y":415,"w":41,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":166,"w":41,"h":22},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_502.png",
+	"frame": {"x":155,"y":126,"w":43,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":169,"w":43,"h":14},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_503.png",
+	"frame": {"x":4044,"y":2,"w":42,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":166,"w":42,"h":21},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_504.png",
+	"frame": {"x":610,"y":442,"w":43,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":170,"w":43,"h":14},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_505.png",
+	"frame": {"x":4032,"y":249,"w":36,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":168,"w":36,"h":22},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_506.png",
+	"frame": {"x":1378,"y":430,"w":34,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":168,"w":34,"h":26},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_507.png",
+	"frame": {"x":3953,"y":334,"w":25,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":168,"w":25,"h":26},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_508.png",
+	"frame": {"x":655,"y":442,"w":13,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":154,"y":168,"w":13,"h":26},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_509.png",
+	"frame": {"x":3981,"y":334,"w":25,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":168,"w":25,"h":26},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_51.png",
+	"frame": {"x":2990,"y":282,"w":47,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":125,"w":47,"h":68},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_510.png",
+	"frame": {"x":1414,"y":430,"w":34,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":168,"w":34,"h":26},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_511.png",
+	"frame": {"x":4059,"y":333,"w":28,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":168,"w":28,"h":26},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_512.png",
+	"frame": {"x":683,"y":442,"w":13,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":154,"y":168,"w":13,"h":26},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_513.png",
+	"frame": {"x":4027,"y":361,"w":28,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":168,"w":28,"h":26},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_514.png",
+	"frame": {"x":1719,"y":428,"w":33,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":166,"w":33,"h":28},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_515.png",
+	"frame": {"x":2946,"y":423,"w":33,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":144,"y":159,"w":33,"h":36},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_516.png",
+	"frame": {"x":3708,"y":424,"w":32,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":162,"w":32,"h":33},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_517.png",
+	"frame": {"x":3604,"y":433,"w":36,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":169,"w":36,"h":23},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_518.png",
+	"frame": {"x":1683,"y":428,"w":34,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":167,"w":34,"h":28},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_519.png",
+	"frame": {"x":1643,"y":428,"w":38,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":167,"w":38,"h":28},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_52.png",
+	"frame": {"x":2810,"y":213,"w":47,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":124,"w":47,"h":69},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_520.png",
+	"frame": {"x":1824,"y":428,"w":32,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":166,"w":32,"h":28},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_521.png",
+	"frame": {"x":2451,"y":425,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":146,"y":163,"w":26,"h":31},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_522.png",
+	"frame": {"x":1228,"y":432,"w":24,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":159,"w":24,"h":35},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_523.png",
+	"frame": {"x":261,"y":372,"w":22,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":158,"w":22,"h":36},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_524.png",
+	"frame": {"x":3878,"y":402,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":156,"y":159,"w":25,"h":35},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_525.png",
+	"frame": {"x":2558,"y":425,"w":21,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":163,"w":21,"h":31},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_526.png",
+	"frame": {"x":3975,"y":279,"w":23,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":153,"y":160,"w":23,"h":34},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_527.png",
+	"frame": {"x":3990,"y":395,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":153,"y":162,"w":24,"h":32},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_528.png",
+	"frame": {"x":3857,"y":287,"w":38,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":159,"w":38,"h":36},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_529.png",
+	"frame": {"x":2387,"y":425,"w":32,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":163,"w":32,"h":31},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_53.png",
+	"frame": {"x":3059,"y":142,"w":46,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":126,"w":46,"h":67},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_530.png",
+	"frame": {"x":1106,"y":433,"w":23,"h":43},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":150,"w":23,"h":43},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_531.png",
+	"frame": {"x":261,"y":125,"w":15,"h":43},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":150,"w":15,"h":43},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_532.png",
+	"frame": {"x":4043,"y":115,"w":22,"h":43},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":150,"w":22,"h":43},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_533.png",
+	"frame": {"x":4043,"y":139,"w":22,"h":43},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":150,"w":22,"h":43},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_534.png",
+	"frame": {"x":711,"y":440,"w":15,"h":43},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":150,"w":15,"h":43},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_535.png",
+	"frame": {"x":3559,"y":433,"w":23,"h":43},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":150,"w":23,"h":43},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_536.png",
+	"frame": {"x":92,"y":126,"w":14,"h":61},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":132,"w":14,"h":61},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_537.png",
+	"frame": {"x":200,"y":125,"w":15,"h":59},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":156,"y":134,"w":15,"h":59},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_538.png",
+	"frame": {"x":2984,"y":422,"w":34,"h":44},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":149,"w":34,"h":44},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_539.png",
+	"frame": {"x":253,"y":242,"w":34,"h":45},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":148,"w":34,"h":45},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_54.png",
+	"frame": {"x":3021,"y":352,"w":46,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":46,"h":68},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_540.png",
+	"frame": {"x":3971,"y":304,"w":26,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":166,"w":26,"h":28},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_541.png",
+	"frame": {"x":4044,"y":25,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":156,"w":38,"h":38},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_542.png",
+	"frame": {"x":4043,"y":163,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":156,"w":38,"h":38},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_543.png",
+	"frame": {"x":3935,"y":262,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":156,"w":38,"h":38},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_544.png",
+	"frame": {"x":3957,"y":54,"w":33,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":159,"w":33,"h":35},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_545.png",
+	"frame": {"x":2611,"y":425,"w":30,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":166,"w":30,"h":28},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_546.png",
+	"frame": {"x":2286,"y":426,"w":29,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":164,"w":29,"h":30},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_547.png",
+	"frame": {"x":1858,"y":428,"w":28,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":162,"w":28,"h":32},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_548.png",
+	"frame": {"x":1963,"y":427,"w":29,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":158,"w":29,"h":36},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_549.png",
+	"frame": {"x":2001,"y":427,"w":29,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":158,"w":29,"h":36},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_55.png",
+	"frame": {"x":3011,"y":142,"w":46,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":46,"h":68},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_550.png",
+	"frame": {"x":2039,"y":427,"w":29,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":158,"w":29,"h":36},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_551.png",
+	"frame": {"x":2077,"y":427,"w":29,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":158,"w":29,"h":36},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_552.png",
+	"frame": {"x":945,"y":435,"w":21,"h":48},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":145,"w":21,"h":48},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_553.png",
+	"frame": {"x":995,"y":434,"w":22,"h":54},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":140,"w":22,"h":54},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_554.png",
+	"frame": {"x":1051,"y":434,"w":22,"h":53},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":141,"w":22,"h":53},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_555.png",
+	"frame": {"x":1595,"y":428,"w":28,"h":46},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":147,"w":28,"h":46},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_556.png",
+	"frame": {"x":2827,"y":424,"w":34,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":162,"w":34,"h":32},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_557.png",
+	"frame": {"x":908,"y":436,"w":20,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":153,"y":159,"w":20,"h":35},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_558.png",
+	"frame": {"x":866,"y":436,"w":20,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":155,"w":20,"h":40},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_559.png",
+	"frame": {"x":3899,"y":265,"w":25,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":156,"y":159,"w":25,"h":34},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_56.png",
+	"frame": {"x":2992,"y":72,"w":50,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":126,"w":50,"h":68},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_560.png",
+	"frame": {"x":2479,"y":425,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":163,"w":26,"h":31},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_561.png",
+	"frame": {"x":4059,"y":308,"w":23,"h":27},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":159,"y":167,"w":23,"h":27},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_562.png",
+	"frame": {"x":2479,"y":425,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":163,"w":26,"h":31},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_563.png",
+	"frame": {"x":3975,"y":430,"w":26,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":154,"y":161,"w":26,"h":32},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_564.png",
+	"frame": {"x":3904,"y":168,"w":28,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":146,"y":165,"w":28,"h":29},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_565.png",
+	"frame": {"x":1824,"y":428,"w":32,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":166,"w":32,"h":28},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_566.png",
+	"frame": {"x":3841,"y":415,"w":39,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":146,"y":159,"w":39,"h":35},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_567.png",
+	"frame": {"x":3780,"y":419,"w":37,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":159,"w":37,"h":35},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_568.png",
+	"frame": {"x":3030,"y":422,"w":34,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":158,"w":34,"h":36},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_569.png",
+	"frame": {"x":3068,"y":422,"w":34,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":158,"w":34,"h":36},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_57.png",
+	"frame": {"x":2883,"y":73,"w":55,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":127,"w":55,"h":67},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_570.png",
+	"frame": {"x":3899,"y":227,"w":34,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":158,"w":34,"h":36},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_58.png",
+	"frame": {"x":2901,"y":212,"w":55,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":126,"w":55,"h":68},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_59.png",
+	"frame": {"x":2801,"y":142,"w":49,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":125,"w":49,"h":69},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_6.png",
+	"frame": {"x":274,"y":99,"w":23,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":136,"w":23,"h":30},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_60.png",
+	"frame": {"x":2656,"y":2,"w":47,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":124,"w":47,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_61.png",
+	"frame": {"x":2852,"y":142,"w":47,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":47,"h":69},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_62.png",
+	"frame": {"x":2901,"y":2,"w":46,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":125,"w":46,"h":69},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_63.png",
+	"frame": {"x":526,"y":91,"w":49,"h":76},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":119,"w":49,"h":76},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_64.png",
+	"frame": {"x":2606,"y":214,"w":49,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":119,"w":49,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_65.png",
+	"frame": {"x":2718,"y":285,"w":49,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":120,"w":49,"h":66},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_66.png",
+	"frame": {"x":3298,"y":267,"w":50,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":120,"w":50,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_67.png",
+	"frame": {"x":2958,"y":212,"w":51,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":119,"w":51,"h":68},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_68.png",
+	"frame": {"x":2596,"y":142,"w":51,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":119,"w":51,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_69.png",
+	"frame": {"x":1213,"y":2,"w":52,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":118,"w":52,"h":75},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_7.png",
+	"frame": {"x":555,"y":444,"w":9,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":164,"y":189,"w":9,"h":10},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_70.png",
+	"frame": {"x":3695,"y":183,"w":49,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":138,"w":49,"h":57},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_71.png",
+	"frame": {"x":3320,"y":200,"w":49,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":133,"w":49,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_72.png",
+	"frame": {"x":2230,"y":142,"w":49,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":124,"w":49,"h":71},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_73.png",
+	"frame": {"x":3320,"y":200,"w":49,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":133,"w":49,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_74.png",
+	"frame": {"x":2556,"y":2,"w":49,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":49,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_75.png",
+	"frame": {"x":2305,"y":215,"w":42,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":124,"w":42,"h":71},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_76.png",
+	"frame": {"x":1900,"y":142,"w":48,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":122,"w":48,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_77.png",
+	"frame": {"x":3805,"y":358,"w":50,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":140,"w":50,"h":55},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_78.png",
+	"frame": {"x":3709,"y":361,"w":46,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":139,"w":46,"h":56},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_79.png",
+	"frame": {"x":3798,"y":2,"w":49,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":138,"w":49,"h":57},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_8.png",
+	"frame": {"x":3743,"y":419,"w":35,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":167,"w":35,"h":37},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_80.png",
+	"frame": {"x":543,"y":2,"w":86,"h":46},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":154,"w":86,"h":46},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_81.png",
+	"frame": {"x":2550,"y":214,"w":70,"h":54},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":144,"w":70,"h":54},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_82.png",
+	"frame": {"x":3495,"y":64,"w":60,"h":52},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":143,"w":60,"h":52},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_83.png",
+	"frame": {"x":2502,"y":2,"w":52,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":125,"w":52,"h":70},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_84.png",
+	"frame": {"x":370,"y":97,"w":43,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":122,"w":43,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_85.png",
+	"frame": {"x":2344,"y":2,"w":44,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":124,"w":44,"h":71},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_86.png",
+	"frame": {"x":3935,"y":165,"w":46,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":146,"w":46,"h":49},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_87.png",
+	"frame": {"x":3911,"y":56,"w":44,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":145,"w":44,"h":51},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_88.png",
+	"frame": {"x":1396,"y":142,"w":54,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":117,"w":54,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_89.png",
+	"frame": {"x":971,"y":356,"w":52,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":116,"w":52,"h":76},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_9.png",
+	"frame": {"x":2115,"y":427,"w":29,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":159,"y":168,"w":29,"h":34},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_90.png",
+	"frame": {"x":2049,"y":216,"w":54,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":117,"w":54,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_91.png",
+	"frame": {"x":3633,"y":246,"w":49,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":137,"w":49,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_92.png",
+	"frame": {"x":3320,"y":200,"w":49,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":133,"w":49,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_93.png",
+	"frame": {"x":3212,"y":137,"w":49,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":130,"w":49,"h":65},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_94.png",
+	"frame": {"x":837,"y":83,"w":57,"h":75},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":117,"w":57,"h":75},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_95.png",
+	"frame": {"x":2023,"y":142,"w":55,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":116,"w":55,"h":72},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_96.png",
+	"frame": {"x":1335,"y":278,"w":55,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":117,"w":55,"h":74},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_97.png",
+	"frame": {"x":3633,"y":246,"w":49,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":137,"w":49,"h":58},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_98.png",
+	"frame": {"x":3320,"y":200,"w":49,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":133,"w":49,"h":62},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Chang & Choi_99.png",
+	"frame": {"x":1628,"y":142,"w":56,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":122,"w":56,"h":73},
+	"sourceSize": {"w":320,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "chang_choi-hdpi.png",
+	"format": "RGBA8888",
+	"size": {"w":4088,"h":458},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:ef432ab0bf7daa63f0385268dcf93e07:d64c039769dbf481eb06548bc3fc1c02:0fc5ff19a27e842997269b7415bee222$"
+}
+}
